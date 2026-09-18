@@ -61,13 +61,14 @@ export default async function NewsPage() {
                 <Link
                   key={article.slug}
                   href={`/news/${article.slug}`}
-                  className="control-feedback card-lift block rounded-lg border border-border bg-card p-6 hover:border-accent/50"
+                  className="control-feedback card-lift flex h-full flex-col rounded-lg border border-border bg-card p-6 hover:border-accent/50"
                 >
                   <time className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
                     {new Date(article.publishedAt).toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" })}
                   </time>
                   <h2 className="mt-2 text-lg font-semibold text-foreground">{article.title}</h2>
-                  <p className="mt-2 text-sm leading-relaxed text-muted-foreground">{article.excerpt}</p>
+                  <p className="mt-2 line-clamp-3 text-sm leading-relaxed text-muted-foreground">{article.excerpt}</p>
+                  <span className="mt-auto pt-5 text-xs font-semibold uppercase tracking-wide text-primary">Read article</span>
                 </Link>
               ))}
             </SectionReveal>

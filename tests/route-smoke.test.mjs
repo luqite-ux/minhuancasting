@@ -30,3 +30,17 @@ test('product catalogue renders every verified product instead of truncating sta
   assert.equal(productLinks.length, 282)
   assert.match(html, /href="\/products\/mh-282"/)
 })
+
+test('homepage exposes three distinct banner stories and the catalogue path', async () => {
+  const response = await fetch(`${baseUrl}/`)
+  const html = await response.text()
+
+  assert.equal(response.status, 200)
+  assert.match(html, /Precision Casting, Manufactured to Drawing/i)
+  assert.match(html, /Machining That Follows the Drawing/i)
+  assert.match(html, /A Catalogue Built for Sourcing/i)
+  assert.match(html, /aria-label="Show slide 1"/)
+  assert.match(html, /aria-label="Show slide 2"/)
+  assert.match(html, /aria-label="Show slide 3"/)
+  assert.match(html, /href="\/products"/)
+})

@@ -40,7 +40,7 @@ export function SectionReveal({ children, className, as = "div", stagger = false
         {items.map((child, index) => (
           <div
             key={isValidElement(child) && child.key != null ? child.key : index}
-            className={motionReady ? `reveal${isInView ? " is-visible" : ""}` : undefined}
+            className={`h-full${motionReady ? ` reveal${isInView ? " is-visible" : ""}` : ""}`}
             style={motionReady ? { transitionDelay: `${Math.min(index, 5) * 60}ms` } : undefined}
           >
             {child}

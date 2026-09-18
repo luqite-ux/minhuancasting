@@ -30,3 +30,6 @@ next-env.d.ts
 /.codex-delivery/source/
 /.codex-delivery/extracted-assets/
 /.codex-delivery/removed-default-assets/
+
+.vercel
+.env*

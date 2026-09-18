@@ -70,14 +70,14 @@ export default async function ProductDetailPage({
               {product.images.map((image) => (
                 <div
                   key={image.src}
-                  className="relative aspect-[4/3] overflow-hidden rounded-lg border border-border bg-muted"
+                  className="relative aspect-square overflow-hidden rounded-lg border border-border bg-white"
                 >
                   <Image
                     src={image.src || "/placeholder.svg"}
                     alt={image.alt}
                     fill
                     sizes="(min-width: 1024px) 50vw, 100vw"
-                    className="object-contain p-4"
+                    className="object-contain"
                     priority
                   />
                 </div>
@@ -122,7 +122,9 @@ export default async function ProductDetailPage({
         {relatedProducts.length > 0 && (
           <section className="border-t border-border bg-secondary/40">
             <div className="mx-auto max-w-6xl px-4 py-12 sm:px-6 sm:py-16 lg:px-8">
-              <h2 className="text-xl font-semibold tracking-tight text-foreground">Related Products</h2>
+              <SectionReveal>
+                <h2 className="text-xl font-semibold tracking-tight text-foreground">Related Products</h2>
+              </SectionReveal>
               <SectionReveal stagger className="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
                 {relatedProducts.map((related) => (
                   <ProductCard key={related.slug} product={related} />
