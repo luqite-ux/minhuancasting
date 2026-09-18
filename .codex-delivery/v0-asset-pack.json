@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "representative_only": true,
+  "assets": [
+    {
+      "local_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\LOGO.png",
+      "purpose": "official-logo",
+      "ledger_reference": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\LOGO.png"
+    },
+    {
+      "local_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\banner背景\\1.jpg",
+      "purpose": "customer-banner-background",
+      "ledger_reference": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\banner背景\\1.jpg"
+    },
+    {
+      "local_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\banner背景\\2.jpg",
+      "purpose": "customer-banner-background",
+      "ledger_reference": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\banner背景\\2.jpg"
+    },
+    {
+      "local_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\banner背景\\3.jpg",
+      "purpose": "customer-banner-background",
+      "ledger_reference": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\banner背景\\3.jpg"
+    },
+    {
+      "local_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\1-海底3手动版铸造顶驱架(精铸件)\\1.jpg",
+      "purpose": "representative-product",
+      "ledger_reference": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\1-海底3手动版铸造顶驱架(精铸件)\\1.jpg"
+    },
+    {
+      "local_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\2-CT U22U40传动固定支座铸造\\1.jpg",
+      "purpose": "representative-product",
+      "ledger_reference": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\2-CT U22U40传动固定支座铸造\\1.jpg"
+    },
+    {
+      "local_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\3-N3顶驱铸造件毛坯\\1.jpg",
+      "purpose": "representative-product",
+      "ledger_reference": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\3-N3顶驱铸造件毛坯\\1.jpg"
+    },
+    {
+      "local_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\4-HD4顶驱铸造件毛坯\\1.jpg",
+      "purpose": "representative-product",
+      "ledger_reference": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\4-HD4顶驱铸造件毛坯\\1.jpg"
+    },
+    {
+      "local_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\5-HD4顶驱铸造件毛坯\\1.jpg",
+      "purpose": "representative-product",
+      "ledger_reference": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\5-HD4顶驱铸造件毛坯\\1.jpg"
+    },
+    {
+      "local_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\6-前轮法兰盘（18024205）铸造件\\1.jpg",
+      "purpose": "representative-product",
+      "ledger_reference": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\6-前轮法兰盘（18024205）铸造件\\1.jpg"
+    },
+    {
+      "local_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\7-电机焊座\\1.jpg",
+      "purpose": "representative-product",
+      "ledger_reference": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\7-电机焊座\\1.jpg"
+    },
+    {
+      "local_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\8-DMS防护罩把手铸件\\1.jpg",
+      "purpose": "representative-product",
+      "ledger_reference": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\8-DMS防护罩把手铸件\\1.jpg"
+    },
+    {
+      "local_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\9-N3内侧焊接底板（18024588）\\1.jpg",
+      "purpose": "representative-product",
+      "ledger_reference": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\9-N3内侧焊接底板（18024588）\\1.jpg"
+    },
+    {
+      "local_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\10-压迫板滑块（80504412精铸件)\\1.jpg",
+      "purpose": "representative-product",
+      "ledger_reference": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\10-压迫板滑块（80504412精铸件)\\1.jpg"
+    },
+    {
+      "local_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\11-抱箍\\1.jpg",
+      "purpose": "representative-product",
+      "ledger_reference": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\11-抱箍\\1.jpg"
+    },
+    {
+      "local_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\12-抱箍\\1.jpg",
+      "purpose": "representative-product",
+      "ledger_reference": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\12-抱箍\\1.jpg"
+    }
+  ],
+  "excluded_scope": "All remaining product gallery assets stay in asset-ledger/full-content-manifest and will be integrated after the v0 template is accepted."
+}

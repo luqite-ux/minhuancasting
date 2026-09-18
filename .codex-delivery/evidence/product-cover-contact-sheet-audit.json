@@ -1,0 +1,3390 @@
+{
+  "result": "PASS",
+  "count": 282,
+  "records": [
+    {
+      "product_key": "product-001",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\1-海底3手动版铸造顶驱架(精铸件)\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Subsea 3 Manual Version Casting Top Drive Frame (Precision Casting)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-002",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\2-CT U22U40传动固定支座铸造\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "CT U22U40 Transmission Fixed Support Casting",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-003",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\3-N3顶驱铸造件毛坯\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "N3 Top Drive Casting Blank",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-004",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\4-HD4顶驱铸造件毛坯\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "HD4 Top Drive Casting Blank",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-005",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\5-HD4顶驱铸造件毛坯\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "HD4 Top Drive Casting Blank",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-006",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\6-前轮法兰盘（18024205）铸造件\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Front Wheel Flange (18024205) Casting",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-007",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\7-电机焊座\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Motor Weld Seat",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-008",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\8-DMS防护罩把手铸件\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "DMS Guard Handle Casting",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-009",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\9-N3内侧焊接底板（18024588）\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "N3 Inner Weld Base Plate (18024588)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-010",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\10-压迫板滑块（80504412精铸件)\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Pressure Plate Slider (80504412 Precision Casting)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-011",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\11-抱箍\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Clamp",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-012",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\12-抱箍\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Clamp",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-013",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\13-保持挚子有台阶新\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Retaining Pawl with Step New",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-014",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\14-块\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-015",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\15-钮扣35crmo\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Button 35CrMo",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-016",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\16-轴头\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Shaft Head",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-017",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\17-合闸装置单元\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Closing Device Unit",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-018",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\18-泵盖\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Pump Cover",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-019",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\19-叶轮\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Impeller",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-020",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\20-7字型\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "7-Shaped",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-021",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\21-球\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Ball",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-022",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\22-H56底座\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "H56 Base",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-023",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\23-手枪\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Pistol",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-024",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\24-带桩垫块\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Pile Pad Block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-025",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\25-垫块\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Pad Block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-026",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\26-小接头\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Small Connector",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-027",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\27-连接筒\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Connecting Cylinder",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-028",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\28-平插板\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Flat Insert Plate",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-029",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\29-支座块\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Support Block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-030",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\30-铸件\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Casting",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-031",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\31-套管\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Sleeve",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-032",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\32-压簧杆\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Compression Spring Rod",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-033",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\33-油缓冲拐臂\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Oil Buffer Crank Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-034",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\34-凸轮\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Cam",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-035",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\35-输入保持拐臂\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Input Retaining Crank Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-036",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\36-脱扣撞击板\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Trip Striker Plate",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-037",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\37-曲柄\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Crank",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-038",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\38-焊接拐臂一\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Welded Crank Arm 1",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-039",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\39-转动拐臂\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Rotating Crank Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-040",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\40-输出拐臂\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Output Crank Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-041",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\41-输出拐臂\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Output Crank Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-042",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\42-输出保持拐臂\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Output Retaining Crank Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-043",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\43-输出拐臂CTE9输出拐臂左\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Output Crank Arm CTE9 Output Crank Arm Left",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-044",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\44-输出拐臂CTE9-300\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Output Crank Arm CTE9-300",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-045",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\45-法兰盘大\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Flange Large",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-046",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\46-304底座法兰\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "304 Base Flange",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-047",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\47-304套筒连接件\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "304 Sleeve Connector",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-048",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\48-304套筒\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "304 Sleeve",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-049",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\49-304圆柱旋转法兰盘\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "304 Cylindrical Rotary Flange Plate",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-050",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\50-304圆柱连接件\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "304 Cylindrical Connector",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-051",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\51-304端盘\\2.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "304 End Plate",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-052",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\52-304套筒（双臂）\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "304 Sleeve (Double Arm)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-053",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\53-304套筒A（2度）\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "304 Sleeve A (2 Degrees)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-054",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\54-304套筒B（15度）\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "304 Sleeve B (15 Degrees)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-055",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\55-304套筒\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "304 Sleeve",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-056",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\56-304套筒-0度\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "304 Sleeve - 0 Degrees",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-057",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\57-套头滑块\\1.png",
+      "source_dimensions": [
+        1456,
+        1456
+      ],
+      "label": "Socket Slider",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-058",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\58-电池盒滑块\\1.png",
+      "source_dimensions": [
+        2776,
+        2776
+      ],
+      "label": "Battery Box Slider",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-059",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\59-套头-0度\\1.png",
+      "source_dimensions": [
+        2020,
+        2020
+      ],
+      "label": "Socket - 0 Degrees",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-060",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\60-1¼管卡\\1.png",
+      "source_dimensions": [
+        2454,
+        2454
+      ],
+      "label": "1¼ Pipe Clamp",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-061",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\61-86型底盒1双孔\\1.png",
+      "source_dimensions": [
+        1984,
+        1984
+      ],
+      "label": "86-Type Base Box 1 Double Hole",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-062",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\62-86型底盒1单孔\\1.png",
+      "source_dimensions": [
+        2052,
+        2052
+      ],
+      "label": "86-Type Base Box 1 Single Hole",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-063",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\63-1¼拉线盒LL\\1.png",
+      "source_dimensions": [
+        1772,
+        1772
+      ],
+      "label": "1¼ Pull Box LL",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-064",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\64-1¼拉线盒BC\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "1¼ Pull Box BC",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-065",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\65-拐臂\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Crank Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-066",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\66-拐臂\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Crank Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-067",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\67-拐臂\\1.png",
+      "source_dimensions": [
+        2113,
+        2113
+      ],
+      "label": "Crank Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-068",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\68-底座\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Base",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-069",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\69-大伞齿轮\\1.png",
+      "source_dimensions": [
+        1692,
+        1692
+      ],
+      "label": "Large Bevel Gear",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-070",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\70-保持挚子\\1.png",
+      "source_dimensions": [
+        2662,
+        2662
+      ],
+      "label": "Retaining Pawl",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-071",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\71-螺纹头\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Threaded Head",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-072",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\72-掣子\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Pawl",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-073",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\73-块\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-074",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\74-凸轮底板导向块\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Cam Base Plate Guide Block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-075",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\75-缓冲器支撑架\\1.png",
+      "source_dimensions": [
+        1803,
+        1803
+      ],
+      "label": "Buffer Support Bracket",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-076",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\76-扣板\\1.png",
+      "source_dimensions": [
+        1256,
+        1256
+      ],
+      "label": "Buckle Plate",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-077",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\77-分闸保持挚子\\1.png",
+      "source_dimensions": [
+        1738,
+        1738
+      ],
+      "label": "Opening Retaining Pawl",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-078",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\78-顶轴拐臂\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Top Shaft Crank Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-079",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\79-下滑块\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Lower Slider",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-080",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\80-拐臂\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Crank Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-081",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\81-分闸顶板\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Opening Top Plate",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-082",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\82-法兰连接拐臂\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Flange Connection Crank Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-083",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\83-铜连接块\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Copper Connection Block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-084",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\84-限位块\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Limit Block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-085",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\85-合闸顶板\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Closing Top Plate",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-086",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\86-轴承座\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Bearing Seat",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-087",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\87-轴承架\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Bearing Bracket",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-088",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\88-托架（支撑盒）\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Support Bracket (Support Box)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-089",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\89-锁定盘\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Locking Plate",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-090",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\90-合闸保持挚子\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Closing Retaining Pawl",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-091",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\91-KAT02-053A-01V 型接头\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "KAT02-053A-01V Type Joint",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-092",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\92-KAT15-024B-03V 型接头\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "KAT15-024B-03V Type Joint",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-093",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\93-吊环\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Lifting Ring",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-094",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\94-皇冠六角\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Crown Hexagon",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-095",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\95-小六角\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Small Hexagon",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-096",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\96-皇冠六角\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Crown Hexagon",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-097",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\97-吊环\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Lifting Ring",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-098",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\98-限位支架    155215090ROAO\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Limit Bracket 155215090ROAO",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-099",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\99-轴\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Shaft",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-100",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\100-叶轮\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Impeller",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-101",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\101-阀体VKQL0060\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Valve Body VKQL0060",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-102",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\102-壳体底座VKQL0060\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Housing Base VKQL0060",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-103",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\103-304滤芯接座\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "304 Filter Element Seat",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-104",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\104-OMF风机接管\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "OMF Fan Connecting Pipe",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-105",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\105-壳体底座\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Housing Base",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-106",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\106-阀体\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Valve Body",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-107",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\107-阀体DQ80\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Valve Body DQ80",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-108",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\108-中通锁止块大\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Center-Pass Locking Block Large",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-109",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\109-中通锁止块小\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Center-Pass Locking Block Small",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-110",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\110-锁舌挡块\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Lock Tongue Stop Block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-111",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\111-下转臂门板连接板\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Lower Swing Arm Door Panel Connecting Plate",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-112",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\112-弯摇臂\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Bent Rocker Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-113",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\113-上摆臂座\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Upper Swing Arm Seat",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-114",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\114-弯摇臂座\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Bent Rocker Arm Seat",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-115",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\115-连接叉\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Connecting Fork",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-116",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\116-同步带托架\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Timing Belt Bracket",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-117",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\117-弯管\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Bent Pipe",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-118",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\118-锁舌挡块（椭圆形）\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Lock Tongue Stop Block (Oval)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-119",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\119-锁止块5226\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Locking Block 5226",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-120",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\120-锁止块6290\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Locking Block 6290",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-121",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\121-T型螺母G\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "T-Nut G",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-122",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\122-门顶锁止块\\1.png",
+      "source_dimensions": [
+        1165,
+        1165
+      ],
+      "label": "Door Top Locking Block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-123",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\123-中通锁止块 大\\1.png",
+      "source_dimensions": [
+        2441,
+        2441
+      ],
+      "label": "Center-Pass Locking Block Large",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-124",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\124-中通锁止块 小\\1.png",
+      "source_dimensions": [
+        2388,
+        2388
+      ],
+      "label": "Center-Pass Locking Block Small",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-125",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\125-主夹板（抱箍）\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Main Clamp Plate (Hoop)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-126",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\126-副夹板（抱箍）\\1.png",
+      "source_dimensions": [
+        1838,
+        1838
+      ],
+      "label": "Auxiliary Clamp Plate (Hoop)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-127",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\127-锁止块垫片\\1.png",
+      "source_dimensions": [
+        1903,
+        1903
+      ],
+      "label": "Locking Block Shim",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-128",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\128-分闸扣板\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Opening Latch Plate",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-129",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\129-凸轮\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Cam",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-130",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\130-支座\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Support",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-131",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\131-拐臂(合分闸拐臂）\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Crank Arm (Closing/Opening Crank Arm)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-132",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\132-钢丝绳固定座左\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Wire Rope Mount Left",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-133",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\133-钢丝绳固定座右\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Wire Rope Mount Right",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-134",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\134-新上导轨弯头\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "New Upper Guide Rail Elbow",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-135",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\135-气缸座（三）\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Cylinder Seat (III)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-136",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\136-气缸座（一）\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Cylinder Seat (1)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-137",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\137-气缸座\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Cylinder Seat",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-138",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\138-卷轴安装座右\\1.png",
+      "source_dimensions": [
+        1610,
+        1610
+      ],
+      "label": "Reel Mounting Seat Right",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-139",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\139-卷轴安装座左\\1.png",
+      "source_dimensions": [
+        1563,
+        1563
+      ],
+      "label": "Reel Mounting Seat Left",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-140",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\140-DF11轴承箱\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "DF11 Bearing Housing",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-141",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\141-气缸座\\1.png",
+      "source_dimensions": [
+        1692,
+        1692
+      ],
+      "label": "Cylinder Seat",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-142",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\142-铜转杆长\\1.png",
+      "source_dimensions": [
+        1572,
+        1572
+      ],
+      "label": "Copper Rotary Rod Long",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-143",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\143-铜转杆短\\1.png",
+      "source_dimensions": [
+        1849,
+        1849
+      ],
+      "label": "Copper Rotary Rod Short",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-144",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\144-小拐臂\\1.png",
+      "source_dimensions": [
+        2216,
+        2216
+      ],
+      "label": "Small Crank Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-145",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\145-保持挚子\\1.png",
+      "source_dimensions": [
+        1136,
+        1136
+      ],
+      "label": "Retaining Pawl",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-146",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\146-三层拐臂\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Three-Layer Crank Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-147",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\147-挚子\\1.png",
+      "source_dimensions": [
+        1733,
+        1733
+      ],
+      "label": "Pawl",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-148",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\148-扣板\\1.png",
+      "source_dimensions": [
+        1796,
+        1796
+      ],
+      "label": "Retainer Plate",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-149",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\149-连板\\1.png",
+      "source_dimensions": [
+        1981,
+        1981
+      ],
+      "label": "Connecting Plate",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-150",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\150-拐臂\\1.png",
+      "source_dimensions": [
+        1385,
+        1385
+      ],
+      "label": "Crank Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-151",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\151-铁鞋\\1.png",
+      "source_dimensions": [
+        1867,
+        1867
+      ],
+      "label": "Iron Shoe",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-152",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\152-方体\\1.png",
+      "source_dimensions": [
+        1186,
+        1186
+      ],
+      "label": "Square Block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-153",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\153-下撑杆架支撑底座\\1.png",
+      "source_dimensions": [
+        1880,
+        1880
+      ],
+      "label": "Lower Brace Frame Support Base",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-154",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\154-挂枪架底座安装板\\1.png",
+      "source_dimensions": [
+        1718,
+        1718
+      ],
+      "label": "Gun Hanger Base Mounting Plate",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-155",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\155-扫描器放置架\\1.png",
+      "source_dimensions": [
+        1577,
+        1577
+      ],
+      "label": "Scanner Placement Rack",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-156",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\156-扫描器架连接架\\1.png",
+      "source_dimensions": [
+        3505,
+        3505
+      ],
+      "label": "Scanner Rack Connecting Frame",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-157",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\157-称头支撑\\1.png",
+      "source_dimensions": [
+        2801,
+        2801
+      ],
+      "label": "Weighing Head Support",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-158",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\158-挂枪杆连接座\\1.png",
+      "source_dimensions": [
+        1646,
+        1646
+      ],
+      "label": "Gun Hanger Rod Connecting Seat",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-159",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\159-调节座\\1.png",
+      "source_dimensions": [
+        1707,
+        1707
+      ],
+      "label": "Adjusting Seat",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-160",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\160-铸件\\1.png",
+      "source_dimensions": [
+        1984,
+        1984
+      ],
+      "label": "Casting",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-161",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\161-夹头体\\1.png",
+      "source_dimensions": [
+        1713,
+        1713
+      ],
+      "label": "Collet Body",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-162",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\162-夹头盖\\1.png",
+      "source_dimensions": [
+        1824,
+        1824
+      ],
+      "label": "Collet Cover",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-163",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\163-抱箍\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Hoop",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-164",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\164-锁止块\\1.png",
+      "source_dimensions": [
+        2960,
+        2960
+      ],
+      "label": "Locking Block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-165",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\165-左大丝杠前固定架\\1.png",
+      "source_dimensions": [
+        2620,
+        2620
+      ],
+      "label": "Left Large Lead Screw Front Fixing Bracket",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-166",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\166-立柱上转轴头\\1.png",
+      "source_dimensions": [
+        2167,
+        2167
+      ],
+      "label": "Column Upper Rotary Shaft Head",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-167",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\167-摆臂\\1.png",
+      "source_dimensions": [
+        1141,
+        1141
+      ],
+      "label": "Swing Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-168",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\168-铰链（含芯棒）\\1.png",
+      "source_dimensions": [
+        2956,
+        2956
+      ],
+      "label": "Hinge (with Mandrel)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-169",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\169-右门上限位块\\1.png",
+      "source_dimensions": [
+        1616,
+        1616
+      ],
+      "label": "Right Door Upper Limit Block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-170",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\170-左门上限位块\\1.png",
+      "source_dimensions": [
+        1681,
+        1681
+      ],
+      "label": "Left Door Upper Limit Block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-171",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\171-结合齿\\1.png",
+      "source_dimensions": [
+        1609,
+        1609
+      ],
+      "label": "Combination Gear",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-172",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\172-整体式旋风子\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Integral Cyclone Element",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-173",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\173-整体式旋风管\\1.png",
+      "source_dimensions": [
+        1122,
+        1122
+      ],
+      "label": "Integral Cyclone Tube",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-174",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\174-整体式旋风子（轴流式）\\1.png",
+      "source_dimensions": [
+        1794,
+        1794
+      ],
+      "label": "Integral Cyclone Element (Axial Flow Type)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-175",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\175-码盘座\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Encoder Disc Seat",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-176",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\176-调焦筒\\1.png",
+      "source_dimensions": [
+        1850,
+        1850
+      ],
+      "label": "Focusing Tube",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-177",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\177-特大手柄\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Extra-Large Handle",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-178",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\178-大孔大手柄\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Large Hole Large Handle",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-179",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\179-小孔大手柄\\1.png",
+      "source_dimensions": [
+        1984,
+        1984
+      ],
+      "label": "Small Hole Large Handle",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-180",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\180-小手柄\\1.png",
+      "source_dimensions": [
+        1166,
+        1166
+      ],
+      "label": "Small Handle",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-181",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\181-前进撞块\\1.png",
+      "source_dimensions": [
+        1566,
+        1566
+      ],
+      "label": "Forward stop block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-182",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\182-夹紧器连接块\\1.png",
+      "source_dimensions": [
+        1581,
+        1581
+      ],
+      "label": "Clamp connector block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-183",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\183-前进撞块\\1.png",
+      "source_dimensions": [
+        1240,
+        1240
+      ],
+      "label": "Forward stop block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-184",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\184-配重支架\\1.png",
+      "source_dimensions": [
+        1881,
+        1881
+      ],
+      "label": "Counterweight bracket",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-185",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\185-人字座\\1.png",
+      "source_dimensions": [
+        1608,
+        1608
+      ],
+      "label": "A-frame seat",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-186",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\186-大减压阀\\1.png",
+      "source_dimensions": [
+        1636,
+        1636
+      ],
+      "label": "Large pressure reducing valve",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-187",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\187-大减压阀底座\\1.png",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Large pressure reducing valve base",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-188",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\188-3-4Y型过滤器\\1.png",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "3-4Y type filter",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-189",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\189-减压阀螺帽\\1.png",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Pressure reducing valve nut",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-190",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\190-小件\\1.png",
+      "source_dimensions": [
+        1583,
+        1583
+      ],
+      "label": "Small parts",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-191",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\191-连接套\\1.png",
+      "source_dimensions": [
+        1831,
+        1831
+      ],
+      "label": "Connecting sleeve",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-192",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\192-升降配重\\1.png",
+      "source_dimensions": [
+        1793,
+        1793
+      ],
+      "label": "Lifting counterweight",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-193",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\193-止退楔块-右\\1.png",
+      "source_dimensions": [
+        1677,
+        1677
+      ],
+      "label": "Anti-retreat wedge - right",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-194",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\194-止退楔块-左\\1.png",
+      "source_dimensions": [
+        1677,
+        1677
+      ],
+      "label": "Anti-retreat wedge - left",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-195",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\195-升降爪\\1.png",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Lifting claw",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-196",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\196-止退配重\\1.png",
+      "source_dimensions": [
+        1153,
+        1153
+      ],
+      "label": "Anti-retreat counterweight",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-197",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\197-推头\\1.png",
+      "source_dimensions": [
+        1590,
+        1590
+      ],
+      "label": "Push head",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-198",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\198-回转体\\1.png",
+      "source_dimensions": [
+        1963,
+        1963
+      ],
+      "label": "Rotary body",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-199",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\199-固定块\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Fixing block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-200",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\200-304短扶手座\\1.png",
+      "source_dimensions": [
+        1182,
+        1182
+      ],
+      "label": "304 short armrest seat",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-201",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\201-304长扶手座\\1.png",
+      "source_dimensions": [
+        2890,
+        2890
+      ],
+      "label": "304 long armrest seat",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-202",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\202-锁壳盒左\\1.png",
+      "source_dimensions": [
+        2777,
+        2777
+      ],
+      "label": "Lock housing box left",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-203",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\203-锁壳盒右\\1.png",
+      "source_dimensions": [
+        2890,
+        2890
+      ],
+      "label": "Lock housing box right",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-204",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\204-长弯\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Long bend",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-205",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\205-短弯\\1.png",
+      "source_dimensions": [
+        2750,
+        2750
+      ],
+      "label": "Short bend",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-206",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\206-传动轮安装座\\1.png",
+      "source_dimensions": [
+        2246,
+        2246
+      ],
+      "label": "Drive wheel mounting seat",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-207",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\207-铸件\\1.png",
+      "source_dimensions": [
+        2180,
+        2180
+      ],
+      "label": "Casting",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-208",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\208-铸件\\1.png",
+      "source_dimensions": [
+        2120,
+        2120
+      ],
+      "label": "Casting",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-209",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\209-铸件\\1.png",
+      "source_dimensions": [
+        2478,
+        2478
+      ],
+      "label": "Casting",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-210",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\210-铸件\\1.png",
+      "source_dimensions": [
+        2013,
+        2013
+      ],
+      "label": "Casting",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-211",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\211-面板\\1.png",
+      "source_dimensions": [
+        2162,
+        2162
+      ],
+      "label": "Panel",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-212",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\212-锁壳\\1.png",
+      "source_dimensions": [
+        1143,
+        1143
+      ],
+      "label": "Lock housing",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-213",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\213-铸件（固定板）\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Casting (fixing plate)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-214",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\214-弹簧挂板\\1.png",
+      "source_dimensions": [
+        1581,
+        1581
+      ],
+      "label": "Spring hanger plate",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-215",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\215-凸轮\\1.png",
+      "source_dimensions": [
+        1611,
+        1611
+      ],
+      "label": "Cam",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-216",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\216-凸轮\\1.png",
+      "source_dimensions": [
+        1883,
+        1883
+      ],
+      "label": "Cam",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-217",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\217-机身\\未标题-1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Machine body",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-218",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\218-法兰筒\\1.png",
+      "source_dimensions": [
+        1658,
+        1658
+      ],
+      "label": "Flange barrel",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-219",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\219-储能拐臂\\1.png",
+      "source_dimensions": [
+        1785,
+        1785
+      ],
+      "label": "Energy storage crank arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-220",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\220-右限位块\\1.png",
+      "source_dimensions": [
+        1278,
+        1278
+      ],
+      "label": "Right limit block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-221",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\221-下基体\\1.png",
+      "source_dimensions": [
+        2111,
+        2111
+      ],
+      "label": "Lower base body",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-222",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\222-上基体\\1.png",
+      "source_dimensions": [
+        3315,
+        3315
+      ],
+      "label": "Upper base body",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-223",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\223-钩子\\1.png",
+      "source_dimensions": [
+        3296,
+        3296
+      ],
+      "label": "Hook",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-224",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\224-小叶片\\1.png",
+      "source_dimensions": [
+        1201,
+        1201
+      ],
+      "label": "Small blade",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-225",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\225-外经192\\1.png",
+      "source_dimensions": [
+        1988,
+        1988
+      ],
+      "label": "Outer diameter 192",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-226",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\226-16Y141 25#钢铸件\\1.png",
+      "source_dimensions": [
+        2268,
+        2268
+      ],
+      "label": "16Y141 25# Steel Casting",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-227",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\227-输出轴\\1.png",
+      "source_dimensions": [
+        1375,
+        1375
+      ],
+      "label": "Output Shaft",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-228",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\228-保持架\\1.png",
+      "source_dimensions": [
+        1042,
+        1042
+      ],
+      "label": "Cage",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-229",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\229-主轴传动杆\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Main Shaft Drive Rod",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-230",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\230-法兰304\\1 - 副本.png",
+      "source_dimensions": [
+        1355,
+        1355
+      ],
+      "label": "Flange 304",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-231",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\231-托轮支架\\1.png",
+      "source_dimensions": [
+        1776,
+        1776
+      ],
+      "label": "Support Wheel Bracket",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-232",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\232-托轮板（中号）\\1.png",
+      "source_dimensions": [
+        1463,
+        1463
+      ],
+      "label": "Support Wheel Plate (Medium)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-233",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\233-托轮板（大号）\\1.png",
+      "source_dimensions": [
+        2086,
+        2086
+      ],
+      "label": "Support Wheel Plate (Large)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-234",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\234-牵引支架\\1.png",
+      "source_dimensions": [
+        1790,
+        1790
+      ],
+      "label": "Traction Bracket",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-235",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\235-扁铁（小号）\\1.png",
+      "source_dimensions": [
+        1831,
+        1831
+      ],
+      "label": "Flat Iron (Small)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-236",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\236-托轮牵引支架\\1.png",
+      "source_dimensions": [
+        2271,
+        2271
+      ],
+      "label": "Support Wheel Traction Bracket",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-237",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\237-托轮板（老）\\1.png",
+      "source_dimensions": [
+        1939,
+        1939
+      ],
+      "label": "Support Wheel Plate (Old)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-238",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\238-扁铁（大号）\\1.png",
+      "source_dimensions": [
+        1814,
+        1814
+      ],
+      "label": "Flat Iron (Large)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-239",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\239-拐臂051\\1.png",
+      "source_dimensions": [
+        2890,
+        2890
+      ],
+      "label": "Crank Arm 051",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-240",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\240-拐臂056\\1.png",
+      "source_dimensions": [
+        1658,
+        1658
+      ],
+      "label": "Crank Arm 056",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-241",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\241-拐臂050\\1.png",
+      "source_dimensions": [
+        1857,
+        1857
+      ],
+      "label": "Crank Arm 050",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-242",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\242-弹簧盖\\1 - 副本.png",
+      "source_dimensions": [
+        2901,
+        2901
+      ],
+      "label": "Spring Cover",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-243",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\243-油缸滚轮支架\\1.png",
+      "source_dimensions": [
+        2037,
+        2037
+      ],
+      "label": "Cylinder Roller Bracket",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-244",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\244-限位锁底座\\1.png",
+      "source_dimensions": [
+        1625,
+        1625
+      ],
+      "label": "Limit Lock Base",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-245",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\245-侧板限位杆\\1.png",
+      "source_dimensions": [
+        1682,
+        1682
+      ],
+      "label": "Side Plate Limit Rod",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-246",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\246-侧边限位安装架\\1.png",
+      "source_dimensions": [
+        1417,
+        1417
+      ],
+      "label": "Side Limit Mounting Bracket",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-247",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\247-钢丝轮安装板\\1.png",
+      "source_dimensions": [
+        1141,
+        1141
+      ],
+      "label": "Wire Wheel Mounting Plate",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-248",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\248-缓冲块\\1.png",
+      "source_dimensions": [
+        1052,
+        1052
+      ],
+      "label": "Buffer Block",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-249",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\249-油缸座\\1.png",
+      "source_dimensions": [
+        3059,
+        3059
+      ],
+      "label": "Cylinder Seat",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-250",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\250-旋钮开关\\1.png",
+      "source_dimensions": [
+        1047,
+        1047
+      ],
+      "label": "Rotary Switch",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-251",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\251-HY1001小斜坡\\1.png",
+      "source_dimensions": [
+        1781,
+        1781
+      ],
+      "label": "HY1001 Small Slope",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-252",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\252-链条固定轴\\1.png",
+      "source_dimensions": [
+        1064,
+        1064
+      ],
+      "label": "Chain Fixing Shaft",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-253",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\253-长弯\\1.png",
+      "source_dimensions": [
+        2714,
+        2714
+      ],
+      "label": "Long Bend",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-254",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\254-短弯\\1.png",
+      "source_dimensions": [
+        2750,
+        2750
+      ],
+      "label": "Short Bend",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-255",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\255-定向套\\1.png",
+      "source_dimensions": [
+        2162,
+        2162
+      ],
+      "label": "Orientation Sleeve",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-256",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\256-定向轮\\1.png",
+      "source_dimensions": [
+        1904,
+        1904
+      ],
+      "label": "Orientation Wheel",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-257",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\257-曲柄\\1.png",
+      "source_dimensions": [
+        1895,
+        1895
+      ],
+      "label": "Crank",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-258",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\258-X20联轴器外转子\\1.png",
+      "source_dimensions": [
+        1381,
+        1381
+      ],
+      "label": "X20 Coupling Outer Rotor",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-259",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\259-X10联轴器外转子\\1.png",
+      "source_dimensions": [
+        2237,
+        2237
+      ],
+      "label": "X10 Coupling Outer Rotor",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-260",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\260-保持挚子\\1.png",
+      "source_dimensions": [
+        3481,
+        3481
+      ],
+      "label": "Retaining Pawl",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-261",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\261-转套A\\1.png",
+      "source_dimensions": [
+        1254,
+        1254
+      ],
+      "label": "Rotating Sleeve A",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-262",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\262-转套B\\1.png",
+      "source_dimensions": [
+        1304,
+        1304
+      ],
+      "label": "Rotating Sleeve B",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-263",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\263-2号联轴节\\1.png",
+      "source_dimensions": [
+        1359,
+        1359
+      ],
+      "label": "No. 2 Coupling",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-264",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\264-法兰\\1.png",
+      "source_dimensions": [
+        1632,
+        1632
+      ],
+      "label": "Flange",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-265",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\265-锁壳\\1.png",
+      "source_dimensions": [
+        1983,
+        1983
+      ],
+      "label": "Lock Housing",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-266",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\266-150大阀门\\1.png",
+      "source_dimensions": [
+        1981,
+        1981
+      ],
+      "label": "150 Large Valve",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-267",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\267-手柄\\1.png",
+      "source_dimensions": [
+        1671,
+        1671
+      ],
+      "label": "Handle",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-268",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\268-滑块（钢凸键）\\1.png",
+      "source_dimensions": [
+        1296,
+        1296
+      ],
+      "label": "Slider (Steel Convex Key)",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-269",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\269-上夹\\1 - 副本.png",
+      "source_dimensions": [
+        1274,
+        1274
+      ],
+      "label": "Upper Clamp",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-270",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\270-铸件\\1.png",
+      "source_dimensions": [
+        1593,
+        1593
+      ],
+      "label": "Casting",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-271",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\271-铰链\\1.png",
+      "source_dimensions": [
+        1731,
+        1731
+      ],
+      "label": "Hinge",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-272",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\272-钩子\\1.png",
+      "source_dimensions": [
+        1710,
+        1710
+      ],
+      "label": "Hook",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-273",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\273-抱箍\\1.png",
+      "source_dimensions": [
+        1077,
+        1077
+      ],
+      "label": "Clamp",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-274",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\274-三层拐臂\\1.jpg",
+      "source_dimensions": [
+        2000,
+        2000
+      ],
+      "label": "Three-layer Crank Arm",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-275",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\275-上下盖\\1.png",
+      "source_dimensions": [
+        2686,
+        2686
+      ],
+      "label": "Upper and Lower Cover",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-276",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\276-五爪\\1 - 副本.png",
+      "source_dimensions": [
+        2096,
+        2096
+      ],
+      "label": "Five-claw",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-277",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\277-握把头\\1.png",
+      "source_dimensions": [
+        2036,
+        2036
+      ],
+      "label": "Grip Handle",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-278",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\278-螺栓\\1.png",
+      "source_dimensions": [
+        1147,
+        1147
+      ],
+      "label": "Bolt",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-279",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\279-合体\\1.png",
+      "source_dimensions": [
+        1782,
+        1782
+      ],
+      "label": "Combined Body",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-280",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\280-导轨弯头\\1.png",
+      "source_dimensions": [
+        1606,
+        1606
+      ],
+      "label": "Guide Rail Elbow",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-281",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\281-安装座\\1.png",
+      "source_dimensions": [
+        1302,
+        1302
+      ],
+      "label": "Mounting Seat",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    },
+    {
+      "product_key": "product-282",
+      "source": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\282-VD64支架\\1.png",
+      "source_dimensions": [
+        1148,
+        1148
+      ],
+      "label": "VD64 Bracket",
+      "crop_review": "PASS",
+      "stage_background": "white",
+      "fit": "contain"
+    }
+  ]
+}

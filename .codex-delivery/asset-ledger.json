@@ -1,0 +1,4127 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "asset_id": "asset-921c87046e4fce4c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\banner背景\\1.jpg",
+      "relative_path": "banner背景/1.jpg",
+      "sha256": "d559741ddb692c2ba839d84877a1992dde57794720e1153dbd7ace836c55bb73",
+      "bytes": 2048791,
+      "purpose": "homepage-banner-background",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-f1bddd0e6b4bf996",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\banner背景\\2.jpg",
+      "relative_path": "banner背景/2.jpg",
+      "sha256": "2a14906478247f2c29d37706edd7c35d914d0bcacb81b35fa71db75ac5327ff6",
+      "bytes": 2352353,
+      "purpose": "homepage-banner-background",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-00df7d261e04d9f6",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\banner背景\\3.jpg",
+      "relative_path": "banner背景/3.jpg",
+      "sha256": "97534074ba3c7c99f4e8af6d95fcc6e0cf45c92a4bbd700e99830bd0a1acbed9",
+      "bytes": 2413716,
+      "purpose": "homepage-banner-background",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-51a771fdaa0fd223",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\LOGO.png",
+      "relative_path": "LOGO.png",
+      "sha256": "d168f03e06bf3e2fa3d03e37f61751828694e3a709b68b162b707e9946ea0c42",
+      "bytes": 168484,
+      "purpose": "official-logo",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-33e501a35dfcb008",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\1-海底3手动版铸造顶驱架(精铸件)\\1.jpg",
+      "relative_path": "产品图/1-海底3手动版铸造顶驱架(精铸件)/1.jpg",
+      "sha256": "b16c4694241646001796741162e15d07bdee9e098b3cd0b28cb9a748d38d7024",
+      "bytes": 596367,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-76975ecc0c4f912b",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\1-海底3手动版铸造顶驱架(精铸件)\\2.jpg",
+      "relative_path": "产品图/1-海底3手动版铸造顶驱架(精铸件)/2.jpg",
+      "sha256": "072d23bbfc90b7896b0920661c40d3b2248a39137242ab4a18e6a2fc8d0bc0a3",
+      "bytes": 304660,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e38301c626d36ce1",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\1-海底3手动版铸造顶驱架(精铸件)\\3.jpg",
+      "relative_path": "产品图/1-海底3手动版铸造顶驱架(精铸件)/3.jpg",
+      "sha256": "033f81ea09aca5462bec689e92e60e3b8ceb38a0adddf61312134c084492c15f",
+      "bytes": 314584,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8c3d9cde871c2122",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\1-海底3手动版铸造顶驱架(精铸件)\\4.jpg",
+      "relative_path": "产品图/1-海底3手动版铸造顶驱架(精铸件)/4.jpg",
+      "sha256": "2ac2a342f603dc7debe22b043d2e434a6e83381a614311f3bc8fa5aa55a8782b",
+      "bytes": 437822,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-5b1deb681de69c9a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\2-CT U22U40传动固定支座铸造\\1.jpg",
+      "relative_path": "产品图/2-CT U22U40传动固定支座铸造/1.jpg",
+      "sha256": "7b68892518e9233739f4f2472384841f204b4fca6bf7d02502a0718298f50f83",
+      "bytes": 273886,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-5a7591f2b603d603",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\3-N3顶驱铸造件毛坯\\1.jpg",
+      "relative_path": "产品图/3-N3顶驱铸造件毛坯/1.jpg",
+      "sha256": "f67df803c21d61692d029bf8a2208c75cd781f1e5ccbf749f3111d3d9ad5b0de",
+      "bytes": 327579,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-c18afb5d275b0cc0",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\3-N3顶驱铸造件毛坯\\2.jpg",
+      "relative_path": "产品图/3-N3顶驱铸造件毛坯/2.jpg",
+      "sha256": "0679e36084cf256edd19b470078a43e81fd5833d57804af06a672ac2fd88d002",
+      "bytes": 599995,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-333fe5973949764d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\3-N3顶驱铸造件毛坯\\3.jpg",
+      "relative_path": "产品图/3-N3顶驱铸造件毛坯/3.jpg",
+      "sha256": "39ece9180c835f0d46727eddda1b46215be04a8c3b6e1f75c8bf23ce98b56914",
+      "bytes": 504428,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-5b58fba7c099d658",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\4-HD4顶驱铸造件毛坯\\1.jpg",
+      "relative_path": "产品图/4-HD4顶驱铸造件毛坯/1.jpg",
+      "sha256": "6f6a3fd82feabdd7eeb782a98ed3bf03fff76c4e6c03a7f5801a62474e6e1867",
+      "bytes": 509739,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-6dda2083933871ac",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\4-HD4顶驱铸造件毛坯\\2.jpg",
+      "relative_path": "产品图/4-HD4顶驱铸造件毛坯/2.jpg",
+      "sha256": "20b4ecab3856f1109155235e0f20b9547fb4d266a42f50cf5c53c42f54bc0818",
+      "bytes": 979989,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ab2ad412d90c118c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\5-HD4顶驱铸造件毛坯\\1.jpg",
+      "relative_path": "产品图/5-HD4顶驱铸造件毛坯/1.jpg",
+      "sha256": "ad8ce20f7889461f5157fdccbb87d5f540c7276653c23a5f724c50b347970a0a",
+      "bytes": 534502,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-6f4f62772b2f99b3",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\5-HD4顶驱铸造件毛坯\\2.jpg",
+      "relative_path": "产品图/5-HD4顶驱铸造件毛坯/2.jpg",
+      "sha256": "6888dc2907e2729d9283d31064ec2913496b2736965b6422fd3c43ac7dd0ec87",
+      "bytes": 1031909,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-439e6ee6be172b23",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\6-前轮法兰盘（18024205）铸造件\\1.jpg",
+      "relative_path": "产品图/6-前轮法兰盘（18024205）铸造件/1.jpg",
+      "sha256": "31dfe1a1adafca813599d0fbb400ab99b68f7a48b68439d7e4678023bd3974a1",
+      "bytes": 304407,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-3c2929fe58b858d8",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\7-电机焊座\\1.jpg",
+      "relative_path": "产品图/7-电机焊座/1.jpg",
+      "sha256": "b2916fec845b1c55256e99ab9c4454bb271aa8cb0e9b6e2b4ca8b1efb89276bf",
+      "bytes": 399638,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ba62215b1ed93601",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\7-电机焊座\\2.jpg",
+      "relative_path": "产品图/7-电机焊座/2.jpg",
+      "sha256": "21cf48ab220624d0a85ed6ae7f77ea55cb05868fc8915a2390b4fa323deb3bc5",
+      "bytes": 594537,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-84b45838179ef4ce",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\8-DMS防护罩把手铸件\\1.jpg",
+      "relative_path": "产品图/8-DMS防护罩把手铸件/1.jpg",
+      "sha256": "e952cc570c871c27d7aba1935eb49b691fd2f05aa15b45852f3e064ff6ec0f41",
+      "bytes": 255174,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-f00fd516bd6229ba",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\8-DMS防护罩把手铸件\\2.jpg",
+      "relative_path": "产品图/8-DMS防护罩把手铸件/2.jpg",
+      "sha256": "684edcf8f9d03b3d3e83375283f243ca7b9c4528c07e5807d7cc241f6a81cb56",
+      "bytes": 680612,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-23e74d45226bf31b",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\9-N3内侧焊接底板（18024588）\\1.jpg",
+      "relative_path": "产品图/9-N3内侧焊接底板（18024588）/1.jpg",
+      "sha256": "d2273dbcd56bebf0bbc28694721334e9693d017139ecfa4a208fd1e92b50af01",
+      "bytes": 577007,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-122d29ca28c057f3",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\10-压迫板滑块（80504412精铸件)\\1.jpg",
+      "relative_path": "产品图/10-压迫板滑块（80504412精铸件)/1.jpg",
+      "sha256": "d0f1b87189f16ed637e30eb5c54dc7e998f29975a9d67542bde4776c6c26959a",
+      "bytes": 238222,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2ad6c2799ef53abc",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\11-抱箍\\1.jpg",
+      "relative_path": "产品图/11-抱箍/1.jpg",
+      "sha256": "83ad0161c154034329c74030572b5967ebef369d77eabe2cd5cbafc336bdece0",
+      "bytes": 255619,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-69dcda39b53124d5",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\11-抱箍\\2.jpg",
+      "relative_path": "产品图/11-抱箍/2.jpg",
+      "sha256": "c9cf291a4aa36b832744f6e3b82f5c7a3bb5e5d0ad86b6ee3f8ccfd1c41e8dc8",
+      "bytes": 591325,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-cb7290aa8a9e4840",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\12-抱箍\\1.jpg",
+      "relative_path": "产品图/12-抱箍/1.jpg",
+      "sha256": "0830ced13a9a1f07d7a7bcebb02482d5feff1a8a9fdef8986486132c235c187f",
+      "bytes": 336774,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-9c46316732cdae28",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\12-抱箍\\2.jpg",
+      "relative_path": "产品图/12-抱箍/2.jpg",
+      "sha256": "1775b583c0eda6c65590483961aaf18bf85fd2a8ddd6269539bcc3196d794d45",
+      "bytes": 717321,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2cd995704275edb0",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\13-保持挚子有台阶新\\1.jpg",
+      "relative_path": "产品图/13-保持挚子有台阶新/1.jpg",
+      "sha256": "d69d3e12d31666c60c2386d18174e95c201da61da6b994aaeb06ebfda97ff1d4",
+      "bytes": 342892,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d0e64df25ea0541f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\13-保持挚子有台阶新\\3.jpg",
+      "relative_path": "产品图/13-保持挚子有台阶新/3.jpg",
+      "sha256": "482820b6cbc98eef4e571bedf3aaf82bdb6c6fcaeaa6638add90c5278fd643d9",
+      "bytes": 736261,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-aed5bc435e4aaa44",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\14-块\\1.jpg",
+      "relative_path": "产品图/14-块/1.jpg",
+      "sha256": "865dae1ee7685e0dad9b4858b86e34d612eb9484b73fe414ea66f7051e3a8dc2",
+      "bytes": 276466,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-85e9a4536b8de2c0",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\14-块\\2.jpg",
+      "relative_path": "产品图/14-块/2.jpg",
+      "sha256": "5866f5c27375bedeb1c0fc39f6aabd1db08afd3665488eda8dea019ad8a2f0b7",
+      "bytes": 285290,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-6c637283aec1b256",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\15-钮扣35crmo\\1.jpg",
+      "relative_path": "产品图/15-钮扣35crmo/1.jpg",
+      "sha256": "a40e8b2fd1def2ad9d64dfa0c33ba1cac855e729c5789e01f0b0af900f979b71",
+      "bytes": 530012,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-26fa80fe66391a37",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\16-轴头\\1.jpg",
+      "relative_path": "产品图/16-轴头/1.jpg",
+      "sha256": "04ad0822be427a258f60adbce45fdea4e8a5c9399db438e67b19520a934eb6a4",
+      "bytes": 211449,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-405b91ab5d777f40",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\16-轴头\\2.jpg",
+      "relative_path": "产品图/16-轴头/2.jpg",
+      "sha256": "58ae7bd2ef792bb3724445a442ce29ac840c1f67dc19c15bf36c1b449d0b111a",
+      "bytes": 526657,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-bc00d1a768f05654",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\17-合闸装置单元\\1.jpg",
+      "relative_path": "产品图/17-合闸装置单元/1.jpg",
+      "sha256": "6009d7cb9308380d49982baf2eabac8573e2861bdfc408cc7fcbcdf48eb46baf",
+      "bytes": 132903,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d382269743a2981f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\17-合闸装置单元\\2.jpg",
+      "relative_path": "产品图/17-合闸装置单元/2.jpg",
+      "sha256": "43e06dc58745d66f2336429c5e8c8126fb5361f306e52e2f2935cd70410cdffb",
+      "bytes": 420611,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e86400265b1b003c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\18-泵盖\\1.jpg",
+      "relative_path": "产品图/18-泵盖/1.jpg",
+      "sha256": "0449afc0bb7a2cd4621cdad39dacf4cf6ac8415f99b6ea75d004cbe65f207688",
+      "bytes": 332868,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8bb9387166bf7f95",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\19-叶轮\\1.jpg",
+      "relative_path": "产品图/19-叶轮/1.jpg",
+      "sha256": "e1589e0c962c97371c854f3d624ed2e641200a763470248d6c83a7c418ec0977",
+      "bytes": 440345,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-f597ddd56e12d0db",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\19-叶轮\\2.jpg",
+      "relative_path": "产品图/19-叶轮/2.jpg",
+      "sha256": "9cd4cd88b2b8c1b0f55c3b168b805706fe5ca2afb1292884b07217ffe50ae2bc",
+      "bytes": 375571,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-b3a4ba81db39af1f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\20-7字型\\1.jpg",
+      "relative_path": "产品图/20-7字型/1.jpg",
+      "sha256": "6c568de0e118ae6156dff11c5f786932ee4f99d0c62d6d1674045a5e0a10fe24",
+      "bytes": 237190,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-158b1a1907123f83",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\20-7字型\\2.jpg",
+      "relative_path": "产品图/20-7字型/2.jpg",
+      "sha256": "392d92b418ab94b441c40792b8addc4a4759af62ab47c8146a37a679ba405cc8",
+      "bytes": 460459,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ed788ceb99dcbf5c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\21-球\\1.jpg",
+      "relative_path": "产品图/21-球/1.jpg",
+      "sha256": "9d1c09fbb2ffe8fcfbcf3cd0a5ef56a915b257d899df492dceccf306e9cc6c6e",
+      "bytes": 211008,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ec589bfe5312af51",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\21-球\\2.jpg",
+      "relative_path": "产品图/21-球/2.jpg",
+      "sha256": "6af955fa4f063c375274cd209f27922cfb80139bdd7df8183769c354346f4012",
+      "bytes": 392021,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-10b987324e0deae6",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\22-H56底座\\1.jpg",
+      "relative_path": "产品图/22-H56底座/1.jpg",
+      "sha256": "17f3a0dd56f0934d373055acfefadd62910909e5e4fa638bcef75f5f83fe3f34",
+      "bytes": 449367,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-b29ed4c8455ca49a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\23-手枪\\1.jpg",
+      "relative_path": "产品图/23-手枪/1.jpg",
+      "sha256": "750057f7592172014e72524fd8f8977ea6912a9ba73810715432ad305a3bf5bf",
+      "bytes": 385322,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e76083e7a5076bc3",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\23-手枪\\2.jpg",
+      "relative_path": "产品图/23-手枪/2.jpg",
+      "sha256": "83db82928ebf8a418389f4a0f5ea993a4ed6d1728568fb105a2c00dff4398487",
+      "bytes": 398162,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-6f29836cbf76611a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\24-带桩垫块\\1.jpg",
+      "relative_path": "产品图/24-带桩垫块/1.jpg",
+      "sha256": "90f700ab01976042fa6d8de8ea17f640b2d86cc101608f96341399883a22e1e1",
+      "bytes": 303353,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2b9c1c89d0390ce5",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\24-带桩垫块\\2.jpg",
+      "relative_path": "产品图/24-带桩垫块/2.jpg",
+      "sha256": "796130542bf589f6036360e240ddb0d7f72c6086009ca98cdeb645d45ecb826a",
+      "bytes": 362363,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-65b004aa765b16eb",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\25-垫块\\1.jpg",
+      "relative_path": "产品图/25-垫块/1.jpg",
+      "sha256": "97bb94664cde654477dd5decc25dd6cb7c6b88c61da029ca124ac5af68007404",
+      "bytes": 361084,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-18c64c156d354ecd",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\25-垫块\\2.jpg",
+      "relative_path": "产品图/25-垫块/2.jpg",
+      "sha256": "1177c2583ced7e1cab1aca3e6d4258daaa1fb782f583c63bba0b0f26b527daaf",
+      "bytes": 324585,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-98067e097c17a34d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\26-小接头\\1.jpg",
+      "relative_path": "产品图/26-小接头/1.jpg",
+      "sha256": "2d1183dfa6fb1236a38d4488e578943e40d7b2cc999f7bf69f070f81fc3eb9ae",
+      "bytes": 419635,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e7c07e174c37758f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\26-小接头\\2.jpg",
+      "relative_path": "产品图/26-小接头/2.jpg",
+      "sha256": "61b0f918718b0e17d68717aed6fe0be9809a0ba1197058ebbfb6447bde47df7c",
+      "bytes": 535096,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2b9afdbcfc556c2d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\27-连接筒\\1.jpg",
+      "relative_path": "产品图/27-连接筒/1.jpg",
+      "sha256": "94306ee6aac5a33272b98fc55b0dea83cbac9713478af9f6e304f70b5c20f1f1",
+      "bytes": 274613,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8de5883549145853",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\27-连接筒\\2.jpg",
+      "relative_path": "产品图/27-连接筒/2.jpg",
+      "sha256": "678128a6dbf6c07e222f155229e1f7e73641fcf47e19be4c4de17410bc452c2e",
+      "bytes": 241316,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-4b8af4d326dc3a62",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\28-平插板\\1.jpg",
+      "relative_path": "产品图/28-平插板/1.jpg",
+      "sha256": "ed8037424ac5c27a73a19951930fdba28951c2a56a42b369f64a0063733e6485",
+      "bytes": 490808,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-56d5d08ebd571dfc",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\29-支座块\\1.jpg",
+      "relative_path": "产品图/29-支座块/1.jpg",
+      "sha256": "acfeed7e4b378376feb1817df832feabc0a2abe9461582efcc8d81c662153ecb",
+      "bytes": 340726,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d9f71486a0d5cdec",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\29-支座块\\2.jpg",
+      "relative_path": "产品图/29-支座块/2.jpg",
+      "sha256": "647cf6f91f51a81700f22429a8b5bc8921fe724aa88fc9a9f11d33619faa76af",
+      "bytes": 409722,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e333b54096e9e6de",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\30-铸件\\1.jpg",
+      "relative_path": "产品图/30-铸件/1.jpg",
+      "sha256": "fd1d2ea9afa18907666fb0f01158ecef29dadfa6ceef4a749327d07e3025597d",
+      "bytes": 270410,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-6b8fa382ecb3f47f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\31-套管\\1.jpg",
+      "relative_path": "产品图/31-套管/1.jpg",
+      "sha256": "af2078480b3b6fe2a7cae661bb445f38ffba77c6a7ce9f40318beada26d6f5ea",
+      "bytes": 297556,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e65b9f40a789bff7",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\31-套管\\2.jpg",
+      "relative_path": "产品图/31-套管/2.jpg",
+      "sha256": "69f0df1d6ebc746827b9ad35dc3fbfa3aad546480198f3ec8ec3f8766d681638",
+      "bytes": 273031,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-b0be7c49befd147f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\32-压簧杆\\1.jpg",
+      "relative_path": "产品图/32-压簧杆/1.jpg",
+      "sha256": "7cf1c036d1c36878572986428440a0f90970f9f9ffa3544b05aafecb77035894",
+      "bytes": 676671,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-38e4797a12888af5",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\33-油缓冲拐臂\\1.jpg",
+      "relative_path": "产品图/33-油缓冲拐臂/1.jpg",
+      "sha256": "ebce229f28ceca5882921c11ab237ca2c765d1d6ed2a0229ffc215d42c80bbdc",
+      "bytes": 246960,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-405c5ba8cc9a0a6f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\33-油缓冲拐臂\\2.jpg",
+      "relative_path": "产品图/33-油缓冲拐臂/2.jpg",
+      "sha256": "12a123697fd6b77862a25b0020d180f307a6e10b659885a208230fcc12a029d3",
+      "bytes": 716212,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-1faee8987e71a2fc",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\34-凸轮\\1.jpg",
+      "relative_path": "产品图/34-凸轮/1.jpg",
+      "sha256": "8c16709ee550924ebb8dc8a32bc83362a6dd85bb286e152919453ab6dfc7a25d",
+      "bytes": 197296,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-1fae4ee3b363a19e",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\34-凸轮\\2.jpg",
+      "relative_path": "产品图/34-凸轮/2.jpg",
+      "sha256": "e40b4bcc163b30c14a2049fe52f1f07d1a64f26cab630053046e37a184506516",
+      "bytes": 607513,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-0886e8a5a06f63ba",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\35-输入保持拐臂\\1.jpg",
+      "relative_path": "产品图/35-输入保持拐臂/1.jpg",
+      "sha256": "f11c5c0ebef3ff157e2307e4f65437b40dbe2c00d80e138b16bcfb42d3f2acd8",
+      "bytes": 259003,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2f2a35aa26856a9e",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\35-输入保持拐臂\\2.jpg",
+      "relative_path": "产品图/35-输入保持拐臂/2.jpg",
+      "sha256": "013166e863953e46dfb92bef52a143385468c33f8a5cb8e6f3a76b6a32f64804",
+      "bytes": 617966,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-21061c995223747a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\36-脱扣撞击板\\1.jpg",
+      "relative_path": "产品图/36-脱扣撞击板/1.jpg",
+      "sha256": "8a9a19090a163bfe9528720267d96a4e845a1f931670a738a4555f2dfb0759e7",
+      "bytes": 183913,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-cfe48bd91dc945a0",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\36-脱扣撞击板\\2.jpg",
+      "relative_path": "产品图/36-脱扣撞击板/2.jpg",
+      "sha256": "0f68c25115cc9a28a1165d67bae24356ffba52629613edca68302ce3b62a7a4e",
+      "bytes": 545913,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-c5c1a57701cbe4e7",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\37-曲柄\\1.jpg",
+      "relative_path": "产品图/37-曲柄/1.jpg",
+      "sha256": "7f5e9a9c769249ad987b973ae99ebf16aeb1a029d5898bcf9ba6aa49c5448ff6",
+      "bytes": 403005,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-fdb46339d99f358e",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\37-曲柄\\2.jpg",
+      "relative_path": "产品图/37-曲柄/2.jpg",
+      "sha256": "68f121c3b47f8e1b72eb6738676473a361dd9c0da4368388d7bc5ec6def5ff00",
+      "bytes": 418683,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-4b51cc1396d33469",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\38-焊接拐臂一\\1.jpg",
+      "relative_path": "产品图/38-焊接拐臂一/1.jpg",
+      "sha256": "fed8322b65cd276f27b3bac05e3f6f91f5e5cb076bb8ce5d5a5bee78b59e36d8",
+      "bytes": 259567,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-c67f9d142bb7fd89",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\38-焊接拐臂一\\2.jpg",
+      "relative_path": "产品图/38-焊接拐臂一/2.jpg",
+      "sha256": "7f5f7631be82e1a566f83e32918ffa51964259cc1b755134155df6682d1a34bd",
+      "bytes": 687425,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-088cffd833e9b62b",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\39-转动拐臂\\1.jpg",
+      "relative_path": "产品图/39-转动拐臂/1.jpg",
+      "sha256": "325c330e99daebe39d9dc8fa941bf9acedd712e84070930169aa7f7a3c2007af",
+      "bytes": 426155,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-88fb24d55af5fa58",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\39-转动拐臂\\2.jpg",
+      "relative_path": "产品图/39-转动拐臂/2.jpg",
+      "sha256": "a0e2371696b50abb24937eced10d1ebdcfbf3f7a628ac4d8dcf3192903016907",
+      "bytes": 650443,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-dd14b9b178bfb2ca",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\40-输出拐臂\\1.jpg",
+      "relative_path": "产品图/40-输出拐臂/1.jpg",
+      "sha256": "048b6a1b4fe217f1a0d45feb4a23e5374509ea81491e4ad2fd6478e543b42d6c",
+      "bytes": 257464,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-30288da4a1425d58",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\40-输出拐臂\\2.jpg",
+      "relative_path": "产品图/40-输出拐臂/2.jpg",
+      "sha256": "74b90342f4fe9b0daa48959f43b2bc54d73cb41a25023b97296662f1058e697a",
+      "bytes": 533412,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d254a1dfd4431bb3",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\41-输出拐臂\\1.jpg",
+      "relative_path": "产品图/41-输出拐臂/1.jpg",
+      "sha256": "fbd34266489ba3aee72b54f62c8e9d0ee2ed105aca8cdac3496471f59854dc2e",
+      "bytes": 228348,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2aa548e7db5b87c2",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\42-输出保持拐臂\\1.jpg",
+      "relative_path": "产品图/42-输出保持拐臂/1.jpg",
+      "sha256": "910f863bfb9b70fe069a3ba76b0a798c5cbfc477bf5b4ffd38949cacddf873b2",
+      "bytes": 607632,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-4a18938e4c1c1cbc",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\43-输出拐臂CTE9输出拐臂左\\1.jpg",
+      "relative_path": "产品图/43-输出拐臂CTE9输出拐臂左/1.jpg",
+      "sha256": "8a2531573e8bc4901c1b3311c472012eecec193c9036a0c59ed4cf854f236f04",
+      "bytes": 901964,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-08b62e0aaa40d1e1",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\44-输出拐臂CTE9-300\\1.jpg",
+      "relative_path": "产品图/44-输出拐臂CTE9-300/1.jpg",
+      "sha256": "48c0efc684b93a6623a3c27dc1faafe8fa10ef5337bb41c2c027b1fecf85c192",
+      "bytes": 272539,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-40e0e56ec8496370",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\44-输出拐臂CTE9-300\\2.jpg",
+      "relative_path": "产品图/44-输出拐臂CTE9-300/2.jpg",
+      "sha256": "4f370c8322e4444c43c2549225194b88e05d3ced9b6223a9eeb637452a74657c",
+      "bytes": 288850,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-79201d17c84e328e",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\45-法兰盘大\\1.jpg",
+      "relative_path": "产品图/45-法兰盘大/1.jpg",
+      "sha256": "dd11605963a22d6ee39bf56ee451d2b315dc642f1480d2a533b570c55512a448",
+      "bytes": 372479,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ac246bc4b52aa962",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\45-法兰盘大\\2.jpg",
+      "relative_path": "产品图/45-法兰盘大/2.jpg",
+      "sha256": "16fc33bd7bc4f0770b7d31af209aa8c2f08cf370b7d8ebbfca18e496a4caa52a",
+      "bytes": 290926,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e76fcdbfe8a72ea5",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\45-法兰盘大\\3.jpg",
+      "relative_path": "产品图/45-法兰盘大/3.jpg",
+      "sha256": "5d2503d03494c91ed827911a7c569be14065d5c31c6be32531d2861f49877213",
+      "bytes": 1304377,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a49ee9758db6e42c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\46-304底座法兰\\1.jpg",
+      "relative_path": "产品图/46-304底座法兰/1.jpg",
+      "sha256": "07aad9b989dc481fd5dee6788563c7614f4f67637f5ce334eb3c30910522fe05",
+      "bytes": 309580,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8077054b615fda4b",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\46-304底座法兰\\2.jpg",
+      "relative_path": "产品图/46-304底座法兰/2.jpg",
+      "sha256": "c702ffe29802667d7c0af46c426b28dcd49e1d7e2eeb3d96c2f0b73146298d65",
+      "bytes": 464740,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-172370f3768c655b",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\47-304套筒连接件\\1.jpg",
+      "relative_path": "产品图/47-304套筒连接件/1.jpg",
+      "sha256": "00a63b703e38d7f94ac94ac7d53501e7c475407f909935ad0f0ee23c45b8fe13",
+      "bytes": 233253,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-819fee5fec03d92a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\48-304套筒\\1.jpg",
+      "relative_path": "产品图/48-304套筒/1.jpg",
+      "sha256": "9caf34f12e545bd40ffbe74e3775107f96b7fd63aa186ddffd012ef41031e0ca",
+      "bytes": 269316,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-09ae5762269c4b06",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\48-304套筒\\2.jpg",
+      "relative_path": "产品图/48-304套筒/2.jpg",
+      "sha256": "6c42d09df7888833d37b1ebb774781f709180619b618c3aa7e97fa534658f928",
+      "bytes": 474921,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-9653d63a9585da04",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\49-304圆柱旋转法兰盘\\1.jpg",
+      "relative_path": "产品图/49-304圆柱旋转法兰盘/1.jpg",
+      "sha256": "2a4b8bc3145d447f51fd5c0414cce5fe56407cf4b90c464b55a88913b53d15c9",
+      "bytes": 347339,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a7562d13cc6fe39e",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\49-304圆柱旋转法兰盘\\2.jpg",
+      "relative_path": "产品图/49-304圆柱旋转法兰盘/2.jpg",
+      "sha256": "8e48d989c8a5cd888b646d4a3d93084fa00e27cc2a136217aa5442a8b83b6014",
+      "bytes": 290423,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-0d166ec1a31503d3",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\50-304圆柱连接件\\1.jpg",
+      "relative_path": "产品图/50-304圆柱连接件/1.jpg",
+      "sha256": "a18e7e57b369efe8db7f7a19eb853eebee43cadca38ed660c2aafa321fe271b9",
+      "bytes": 209062,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-b2b8c433410b222c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\51-304端盘\\2.jpg",
+      "relative_path": "产品图/51-304端盘/2.jpg",
+      "sha256": "8fa4f1c6436119de4b9ac181d13ca7efe2bed884c0f365fb36972e90e73cb013",
+      "bytes": 408527,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-af5b860ccafc09b1",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\52-304套筒（双臂）\\1.jpg",
+      "relative_path": "产品图/52-304套筒（双臂）/1.jpg",
+      "sha256": "4d10284d91fbb1078df657f0bfdc148da3510d580d852519e490fadf736d7ee0",
+      "bytes": 201014,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-41e185a5d3c6cd47",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\52-304套筒（双臂）\\2.jpg",
+      "relative_path": "产品图/52-304套筒（双臂）/2.jpg",
+      "sha256": "0813f19c09df9e753e8ec1056c3f0fd6db7f7027d22d243ccbc4cec5f459c39d",
+      "bytes": 156718,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-51a2cbcfe79f2d1a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\53-304套筒A（2度）\\1.jpg",
+      "relative_path": "产品图/53-304套筒A（2度）/1.jpg",
+      "sha256": "91aeb6f32848676b9eb36fa9dc737a4f0037474f877c55508a6c4117d557ec99",
+      "bytes": 200683,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-31b7e7fd64086511",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\53-304套筒A（2度）\\2.jpg",
+      "relative_path": "产品图/53-304套筒A（2度）/2.jpg",
+      "sha256": "e5747ede91ac564850582107df3f32f7c3ad9569b6f4f0b94263d60e7e811235",
+      "bytes": 177216,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-94d6de9922ebdf63",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\53-304套筒A（2度）\\3.jpg",
+      "relative_path": "产品图/53-304套筒A（2度）/3.jpg",
+      "sha256": "ff30869ba92fd7a6b3a7f028d7b7810a607aed5539e2bdfc401b9ffc79b99628",
+      "bytes": 265980,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8d03f15bc0495b2c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\54-304套筒B（15度）\\1.jpg",
+      "relative_path": "产品图/54-304套筒B（15度）/1.jpg",
+      "sha256": "5b31f09fc32c1d2424d1bfc4047aa9a0d6bb6ce0eea25d6ac49556f56b15cd3c",
+      "bytes": 215965,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e650fb3d09c7eb42",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\54-304套筒B（15度）\\2.jpg",
+      "relative_path": "产品图/54-304套筒B（15度）/2.jpg",
+      "sha256": "03022fb2e130df15daa773c29683a6698dc9962eb981a622d0b9a886a032541e",
+      "bytes": 269130,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-60bde8c9ab5cf117",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\55-304套筒\\1.jpg",
+      "relative_path": "产品图/55-304套筒/1.jpg",
+      "sha256": "4335782c2927fc4eec89cc196cca9711f884e347976fdb1146deb6811c6701f1",
+      "bytes": 164543,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-11c26a39b7d32cba",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\55-304套筒\\2.jpg",
+      "relative_path": "产品图/55-304套筒/2.jpg",
+      "sha256": "986b65505d570d90000f7a4f2750bf68f3834067872802028c69c7b1fb6aa3f0",
+      "bytes": 308659,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-5e959fc0db6040ec",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\56-304套筒-0度\\1.jpg",
+      "relative_path": "产品图/56-304套筒-0度/1.jpg",
+      "sha256": "b362bb38684e68dd2b6e69e60de4458c9c3bd33450c08ce5baee40de138c3ef3",
+      "bytes": 240471,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-c0d60e16282847ff",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\56-304套筒-0度\\2.jpg",
+      "relative_path": "产品图/56-304套筒-0度/2.jpg",
+      "sha256": "fa9c360414fe2403616ae811219a8f5fca3143f9fc19927c56623870eeccfd34",
+      "bytes": 234652,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-070595170ea9ebcc",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\57-套头滑块\\1.png",
+      "relative_path": "产品图/57-套头滑块/1.png",
+      "sha256": "98f8797d15e2a18156fa2c6ae31e06f50ff94f44e9f7981d0195f8d4227af7ef",
+      "bytes": 404707,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-98b867a1ccef6d9a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\58-电池盒滑块\\1.png",
+      "relative_path": "产品图/58-电池盒滑块/1.png",
+      "sha256": "83285914536e848872e5c52583f90bd6420b8428acce3c5b1028d5497560b96d",
+      "bytes": 624537,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d7cddd555b0fd283",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\59-套头-0度\\1.png",
+      "relative_path": "产品图/59-套头-0度/1.png",
+      "sha256": "98d57b638d2b768919ace0a4da1fb03427639b418e02d365b8f9ca9d337df1d1",
+      "bytes": 1390816,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-1dce498bf864b592",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\60-1¼管卡\\1.png",
+      "relative_path": "产品图/60-1¼管卡/1.png",
+      "sha256": "515a719a3fcb37654a1bd6643a6ee927fecc44ad7cbf2669cccfce818cd4c76c",
+      "bytes": 733532,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a46b35f58b160527",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\60-1¼管卡\\2.png",
+      "relative_path": "产品图/60-1¼管卡/2.png",
+      "sha256": "444a0cbfbb3db0f693780279392d5a1cee8bd859afba18c6c1375f04da0500ef",
+      "bytes": 926054,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-29a0c61a9de15edd",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\61-86型底盒1双孔\\1.png",
+      "relative_path": "产品图/61-86型底盒1双孔/1.png",
+      "sha256": "756f0f00e8304dfd310a60d518e240013e8d7d5a7f67ab28d3bc801d2add67b0",
+      "bytes": 1024465,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-bde73673a1feb67e",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\62-86型底盒1单孔\\1.png",
+      "relative_path": "产品图/62-86型底盒1单孔/1.png",
+      "sha256": "53cc8e9e60a50ad592315f4333bfb733f0a24a23f9fffc63276de1f3834b04e1",
+      "bytes": 1176044,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-df8b29ba1e196584",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\63-1¼拉线盒LL\\1.png",
+      "relative_path": "产品图/63-1¼拉线盒LL/1.png",
+      "sha256": "fe5cd69f46fc67ca6c0bbb821c0d0717fa34b971b4086bc407212e4d4be61c4c",
+      "bytes": 1461244,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-28f4face5ae13061",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\64-1¼拉线盒BC\\1.jpg",
+      "relative_path": "产品图/64-1¼拉线盒BC/1.jpg",
+      "sha256": "cdbf60bca0af36da823582a2950c7226d766074e2ae6d9ca6907f43370b489dc",
+      "bytes": 453346,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-71cba9e1f1596a2d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\65-拐臂\\1.jpg",
+      "relative_path": "产品图/65-拐臂/1.jpg",
+      "sha256": "1c241e531ed90cefc12deb60eb378a89142eac0c5933af0153170676811608fa",
+      "bytes": 259408,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-b33ab08c43c2de01",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\65-拐臂\\2.jpg",
+      "relative_path": "产品图/65-拐臂/2.jpg",
+      "sha256": "d2b47e036eb490d8d67c43dc722b6579e2e6ff0f46a4f5deb473a0e961be7727",
+      "bytes": 519068,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-18cf62d8ab216a64",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\66-拐臂\\1.jpg",
+      "relative_path": "产品图/66-拐臂/1.jpg",
+      "sha256": "07567c2b31142d007fbd13b4344ef377df8c54f36fd398246587439c5622fbed",
+      "bytes": 279839,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2d156c89b4d3774c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\66-拐臂\\2.jpg",
+      "relative_path": "产品图/66-拐臂/2.jpg",
+      "sha256": "1a625086fc13b64b396d9e2d0a00ba070b88128979068b5106c2e22978be23c1",
+      "bytes": 631213,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2279dd1d54679ee9",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\67-拐臂\\1.png",
+      "relative_path": "产品图/67-拐臂/1.png",
+      "sha256": "c3c84957dd4b3c10293002977bf07b0e9dff77d1db0b8f3bc75638a7d934d0d1",
+      "bytes": 1317724,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8ef7e14faa835928",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\67-拐臂\\2.png",
+      "relative_path": "产品图/67-拐臂/2.png",
+      "sha256": "0c3c81f29cb0c31b2daed10f53043935b00f840fa5b9cffc7919869d59649538",
+      "bytes": 1009829,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a24ba150619e13fa",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\68-底座\\1.jpg",
+      "relative_path": "产品图/68-底座/1.jpg",
+      "sha256": "e519d9d785d20da995d7fd8cae4984a1cfad35a732fad8b9c70c995f2d6540cd",
+      "bytes": 214000,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-3a0557cf97dfc23c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\68-底座\\2.jpg",
+      "relative_path": "产品图/68-底座/2.jpg",
+      "sha256": "4d0efd8d6dcbec3f40bb4d186fd084df373ff2025aaa9efca1041165c31bc6a1",
+      "bytes": 359404,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-26c25525777fffc0",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\69-大伞齿轮\\1.png",
+      "relative_path": "产品图/69-大伞齿轮/1.png",
+      "sha256": "e3b05071c6824f46a3e311c7d96b89bee83a6ce0a9877e88b228dec1b56856da",
+      "bytes": 1305244,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e626b10c81c58f29",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\69-大伞齿轮\\2.png",
+      "relative_path": "产品图/69-大伞齿轮/2.png",
+      "sha256": "638cd7b1961905afdff6e30c22e6560b2bcdbbd16140cdea757c08a0d1cff8b1",
+      "bytes": 1226646,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-1fd9c09d4b9f05d7",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\70-保持挚子\\1.png",
+      "relative_path": "产品图/70-保持挚子/1.png",
+      "sha256": "a67419d41aa2394887f42fb4ff30447d47ccba969be3c35b8a678929bcbe47d1",
+      "bytes": 2423047,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-371fc19bf03d2e83",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\71-螺纹头\\1.jpg",
+      "relative_path": "产品图/71-螺纹头/1.jpg",
+      "sha256": "cd6777d074f2acb4b6827cb4dcd7a738fe52a0d8e4502744645e1be82f549da9",
+      "bytes": 271375,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8918df2394a498af",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\71-螺纹头\\2.jpg",
+      "relative_path": "产品图/71-螺纹头/2.jpg",
+      "sha256": "64c1cb5694e2802d9260730c461512164c31f780ed7ab440452bdda5fb29859f",
+      "bytes": 375253,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-32d290ce9390bc5c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\71-螺纹头\\3.jpg",
+      "relative_path": "产品图/71-螺纹头/3.jpg",
+      "sha256": "df690f6465d61f11ef4b6b2854f73d6ac09b77eac51bf3f5e53f23ca11f96969",
+      "bytes": 577787,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-845838e6d51f917a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\72-掣子\\1.jpg",
+      "relative_path": "产品图/72-掣子/1.jpg",
+      "sha256": "51f4526742f6520110cdab1f6dee77699e621019def225b1270f5d5addcb735e",
+      "bytes": 197373,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-9209bff7fedd3863",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\72-掣子\\2.jpg",
+      "relative_path": "产品图/72-掣子/2.jpg",
+      "sha256": "257221e4ef36b62470568d4085a9012a8c2b195c10e502e64354f733090d887d",
+      "bytes": 624363,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-9a2c9705a282a96e",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\73-块\\1.jpg",
+      "relative_path": "产品图/73-块/1.jpg",
+      "sha256": "e37a70ea28622c1dedcb6a672828b78459795bc9447156a7518072c875ce5e19",
+      "bytes": 245242,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-eb89da8f07e2b655",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\73-块\\2.jpg",
+      "relative_path": "产品图/73-块/2.jpg",
+      "sha256": "62e9dc18177aa925247841469a276548c52efaa6883fab971672895e038964ba",
+      "bytes": 595094,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-3dbad7f2e2962f67",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\74-凸轮底板导向块\\1.jpg",
+      "relative_path": "产品图/74-凸轮底板导向块/1.jpg",
+      "sha256": "968d409d0b8e647525e04c486b3119f6db192118fa0ecfd26ae25227c8b6cb1c",
+      "bytes": 292542,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-f9b740b9c6bdc271",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\74-凸轮底板导向块\\2.jpg",
+      "relative_path": "产品图/74-凸轮底板导向块/2.jpg",
+      "sha256": "96b76134bf0e9d6b997caab7a9485c78c94a82a2355741087c450c7782606e96",
+      "bytes": 507943,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-1120df601cb94d39",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\75-缓冲器支撑架\\1.png",
+      "relative_path": "产品图/75-缓冲器支撑架/1.png",
+      "sha256": "ce78e126d14bcb8f9dfa78bb0109d97d44a1961e7b510025af4351378949b06d",
+      "bytes": 840994,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-aabb93879672822a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\75-缓冲器支撑架\\2.png",
+      "relative_path": "产品图/75-缓冲器支撑架/2.png",
+      "sha256": "2003a31eb6893501139b9f0c3174e584ff1727672e6c7753a081a8ea888944bc",
+      "bytes": 756830,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-377ac0b946b77868",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\75-缓冲器支撑架\\3.png",
+      "relative_path": "产品图/75-缓冲器支撑架/3.png",
+      "sha256": "486e8b0ac7b4be95443ccbecccfccc467d856544ed350830953c62e09d447833",
+      "bytes": 998075,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d620911bc056d69c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\76-扣板\\1.png",
+      "relative_path": "产品图/76-扣板/1.png",
+      "sha256": "710f17a6360be5bedd5023bae912de69bfdf8c1d9b08102995002b8a1e5ac963",
+      "bytes": 391473,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-db85c8b9d6966c44",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\76-扣板\\2.png",
+      "relative_path": "产品图/76-扣板/2.png",
+      "sha256": "b7a0ad23760092b8fb0681d13f6d52d9c697003b0d5b69f2b38d5d48f991a40a",
+      "bytes": 1708877,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-3bd9553063588f63",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\77-分闸保持挚子\\1.png",
+      "relative_path": "产品图/77-分闸保持挚子/1.png",
+      "sha256": "c566f04af1cbf2f53589fa03548c951f3be96cef0115d955cda560fb143a2595",
+      "bytes": 840429,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8586990aea09b335",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\78-顶轴拐臂\\1.jpg",
+      "relative_path": "产品图/78-顶轴拐臂/1.jpg",
+      "sha256": "b1e69ca160fb5c812d21f3224e6aa107eccdf5172eac6d73a682c8263f867850",
+      "bytes": 167681,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-b882023f14bb45d4",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\78-顶轴拐臂\\2.jpg",
+      "relative_path": "产品图/78-顶轴拐臂/2.jpg",
+      "sha256": "91dce82347f292a1646b43a5b1e17662e55d94ef000a0de5c5133a116d411545",
+      "bytes": 351829,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-21238f52fc0467d7",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\79-下滑块\\1.jpg",
+      "relative_path": "产品图/79-下滑块/1.jpg",
+      "sha256": "482a0351cc70d44b7a892db3e1dc1eebaa8f8fa904c6e6eae94b27213f5e9c64",
+      "bytes": 104650,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-c99d15fc66d0aa6d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\80-拐臂\\1.jpg",
+      "relative_path": "产品图/80-拐臂/1.jpg",
+      "sha256": "8c3a776a43449ca48ffd5480e6bb4dcd20f04cff8d26e046826ff4ce68ce806d",
+      "bytes": 157952,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-139505f5aa99e76b",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\80-拐臂\\2.jpg",
+      "relative_path": "产品图/80-拐臂/2.jpg",
+      "sha256": "228878d31b0eebb17e889cb330f3788b124ae72be48f31b8df6753ba7835843f",
+      "bytes": 587556,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-da29a2c82a6d5506",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\81-分闸顶板\\1.jpg",
+      "relative_path": "产品图/81-分闸顶板/1.jpg",
+      "sha256": "bd1f740bbe231b6deb3a5a522bb0276281941678896e5a257ffddf1968351b79",
+      "bytes": 214065,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ff24a56efaae99ab",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\81-分闸顶板\\2.jpg",
+      "relative_path": "产品图/81-分闸顶板/2.jpg",
+      "sha256": "122be7a71648f130ffc383c9a33e8d5359c46f168560041df09911e6dbde82f7",
+      "bytes": 694370,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-567dac679b16299f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\82-法兰连接拐臂\\1.jpg",
+      "relative_path": "产品图/82-法兰连接拐臂/1.jpg",
+      "sha256": "0eca242d07f7a04afb1129b67db4ed1d280a236309402d8bd04351a871fcdc6a",
+      "bytes": 380718,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-4a47e72d9df96c27",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\83-铜连接块\\1.jpg",
+      "relative_path": "产品图/83-铜连接块/1.jpg",
+      "sha256": "04d2f59ef22f1444d88dca6cdd29d31e710f6efaca130a05ec14e05b997d7c1c",
+      "bytes": 454268,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-4597805e698bd9b9",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\83-铜连接块\\2.jpg",
+      "relative_path": "产品图/83-铜连接块/2.jpg",
+      "sha256": "46352128ace3b2a496e436bb4e75bade2830f9449bcd191d0137dba048a6b1e9",
+      "bytes": 382593,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-208fa241058c695e",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\84-限位块\\1.jpg",
+      "relative_path": "产品图/84-限位块/1.jpg",
+      "sha256": "b711189ccf6e053fcc7cc5b3403ed58b0f7d02d62e25940e177587efc045a4c7",
+      "bytes": 422699,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-70f1a526975d6bb0",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\85-合闸顶板\\1.jpg",
+      "relative_path": "产品图/85-合闸顶板/1.jpg",
+      "sha256": "9b48524f1f06e9e7b682f51fd47dcd2026919aa532b10af404b59aad9ce0d452",
+      "bytes": 321063,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-3d0feaa206143a8e",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\85-合闸顶板\\2.jpg",
+      "relative_path": "产品图/85-合闸顶板/2.jpg",
+      "sha256": "75554b18330b798525c553db79f126e9647a456723dbb9023b6152b1fefb068e",
+      "bytes": 617256,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-c67b9546fb6335df",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\86-轴承座\\1.jpg",
+      "relative_path": "产品图/86-轴承座/1.jpg",
+      "sha256": "e2090ca61569abe421838e189da71d2488ed5441ddd32821a783382eea6894c3",
+      "bytes": 191516,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-1decd12ea5efd67c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\87-轴承架\\1.jpg",
+      "relative_path": "产品图/87-轴承架/1.jpg",
+      "sha256": "6d83a98f398fe526ea1aabee600373be593aae954bb353328e35bda1c66b7909",
+      "bytes": 206975,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-0a503a13fb466241",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\87-轴承架\\2.jpg",
+      "relative_path": "产品图/87-轴承架/2.jpg",
+      "sha256": "e873b0a62f76b89a01f22d78655ddfed53549713f928b1f50f7c3145bbf6f22d",
+      "bytes": 1113706,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d4fe37cf76b75e5f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\88-托架（支撑盒）\\1.jpg",
+      "relative_path": "产品图/88-托架（支撑盒）/1.jpg",
+      "sha256": "c804ed77162589b134190e2dc36cb7c7258aa215528258a6f2a97779ec75b310",
+      "bytes": 283221,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-85387e1fbf7e900b",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\88-托架（支撑盒）\\2.jpg",
+      "relative_path": "产品图/88-托架（支撑盒）/2.jpg",
+      "sha256": "3eb2c6625dc988088688f693765fc52e5b4e109b8214ba60864f0c4c84e1853c",
+      "bytes": 1114133,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8d33dd5c515807a9",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\89-锁定盘\\1.jpg",
+      "relative_path": "产品图/89-锁定盘/1.jpg",
+      "sha256": "580b79661b26ca51479f6ca71b0351a451273f32318d53b1ef9b4ab9ff0a1b81",
+      "bytes": 294312,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ad872c22d79e68fa",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\89-锁定盘\\2.jpg",
+      "relative_path": "产品图/89-锁定盘/2.jpg",
+      "sha256": "623bab1c6f852bf59a3c39e4ff9eabdf0b48c4fc357c8968c72bb15e1e96e96c",
+      "bytes": 1228770,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e686bb6bf8dd6676",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\90-合闸保持挚子\\1.jpg",
+      "relative_path": "产品图/90-合闸保持挚子/1.jpg",
+      "sha256": "4f4bce318cd294055666134436734982c2cbba1eb8ede32803d3a2a9f52057fb",
+      "bytes": 260841,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2fcdc9bf36074439",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\91-KAT02-053A-01V 型接头\\1.jpg",
+      "relative_path": "产品图/91-KAT02-053A-01V 型接头/1.jpg",
+      "sha256": "9d0fabdbc8d207c546d6e4f1bb5f0237fbcf377bf7176187f5ad8430626dcfc0",
+      "bytes": 231640,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-825b42d2293fa931",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\91-KAT02-053A-01V 型接头\\2.jpg",
+      "relative_path": "产品图/91-KAT02-053A-01V 型接头/2.jpg",
+      "sha256": "bea26d7ac52d8cbbf9e6db32b5ded7572926493e4a17a5ef009eb8af50989916",
+      "bytes": 524301,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-bc25f470387e6a6c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\92-KAT15-024B-03V 型接头\\1.jpg",
+      "relative_path": "产品图/92-KAT15-024B-03V 型接头/1.jpg",
+      "sha256": "547a3c7fd223f7bef045b3de313bb91a953eb03c306ea13b7d59c704fd692469",
+      "bytes": 288066,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d430de3d1327c6ec",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\92-KAT15-024B-03V 型接头\\2.jpg",
+      "relative_path": "产品图/92-KAT15-024B-03V 型接头/2.jpg",
+      "sha256": "e42d1db436220504d6799defcef402a63a7f531c55583ba891de1460c18e113f",
+      "bytes": 567853,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8006fbc0d5d29d62",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\93-吊环\\1.jpg",
+      "relative_path": "产品图/93-吊环/1.jpg",
+      "sha256": "66b4ed62d3d7f616196b9d147297a40e7fef7050cd5b180d3468374d10fee4eb",
+      "bytes": 128147,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e1978dfffb6e4218",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\94-皇冠六角\\1.jpg",
+      "relative_path": "产品图/94-皇冠六角/1.jpg",
+      "sha256": "2ad30345d91e032470e5b4c38d5ae2d61c0c36e9469a6fe20a4c8202efca8d33",
+      "bytes": 316573,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-00964517ebd6829f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\94-皇冠六角\\2.jpg",
+      "relative_path": "产品图/94-皇冠六角/2.jpg",
+      "sha256": "56ffc5eeb168986b65d9584c269204c51428782ec712695c6929dcb1a327290d",
+      "bytes": 501214,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-0ac58989c0b18018",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\95-小六角\\1.jpg",
+      "relative_path": "产品图/95-小六角/1.jpg",
+      "sha256": "d8483065390d7003a0af7d19af0d39d9a7099ba98fd0938407edabcf448bc4c5",
+      "bytes": 204313,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-3dd4a1a5b6385ae6",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\96-皇冠六角\\1.jpg",
+      "relative_path": "产品图/96-皇冠六角/1.jpg",
+      "sha256": "547c2212f435184666e692a2495229f407053472fd67df77e171d80f8a7c6e73",
+      "bytes": 670763,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-88d8102e37015307",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\97-吊环\\1.jpg",
+      "relative_path": "产品图/97-吊环/1.jpg",
+      "sha256": "caa0bb5bc7d51e392a287c9ecf486ecd825ea09c5a30ffe6f8027a56cd21cff1",
+      "bytes": 302885,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2e160553a8e6fb1b",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\98-限位支架    155215090ROAO\\1.jpg",
+      "relative_path": "产品图/98-限位支架    155215090ROAO/1.jpg",
+      "sha256": "b53733c43523917997c2a4050e6083436132f1dab7064f9c55187806dc37c75a",
+      "bytes": 257742,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-76005c38e146cf11",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\99-轴\\1.jpg",
+      "relative_path": "产品图/99-轴/1.jpg",
+      "sha256": "a3a3751f44ecdbf4c68d894ad5183c2e3deb9d139a48a26cec8ed903f59e7c83",
+      "bytes": 253287,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ffb31d5977f26cef",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\99-轴\\2.jpg",
+      "relative_path": "产品图/99-轴/2.jpg",
+      "sha256": "a8096c6176a00d9bacc740a63f65a8c808d7117b6f749136171f9417af301e10",
+      "bytes": 692258,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-dfdc45bf24aee406",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\100-叶轮\\1.jpg",
+      "relative_path": "产品图/100-叶轮/1.jpg",
+      "sha256": "33b7056b3fdecda21e5a067a2a0e29e4e675fa4f8287a2c4e413f564126dade0",
+      "bytes": 224220,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-990ce9203e988bdd",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\100-叶轮\\2.jpg",
+      "relative_path": "产品图/100-叶轮/2.jpg",
+      "sha256": "85816657d1892d1f3a8c02b0c00b5c85ac26f5c5f45e88234802772afc385f2e",
+      "bytes": 496374,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a023306b78e161c3",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\101-阀体VKQL0060\\1.jpg",
+      "relative_path": "产品图/101-阀体VKQL0060/1.jpg",
+      "sha256": "149335feea52e3cd88392935654cf2fa74c84902b273a9cfb6064c38b1c75029",
+      "bytes": 457971,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-fea3efcbe9703fb9",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\102-壳体底座VKQL0060\\1.jpg",
+      "relative_path": "产品图/102-壳体底座VKQL0060/1.jpg",
+      "sha256": "89747e12b102c113c32326df63e89472178466f175f5bd63e126317d2ce99608",
+      "bytes": 271652,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-55169a2804acdd41",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\103-304滤芯接座\\1.jpg",
+      "relative_path": "产品图/103-304滤芯接座/1.jpg",
+      "sha256": "e9345ff671fcba8eaca3b33195bce706416ef7fca2a79df690bf83a93d650988",
+      "bytes": 515852,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-49558258b0f2a508",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\103-304滤芯接座\\2.jpg",
+      "relative_path": "产品图/103-304滤芯接座/2.jpg",
+      "sha256": "87fca9a70f987dbf1e7d78d9bc681cf8c01b2f6cb897aa99c3f6e57fa9e00d84",
+      "bytes": 304181,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-587f73757e1f3f57",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\103-304滤芯接座\\3.jpg",
+      "relative_path": "产品图/103-304滤芯接座/3.jpg",
+      "sha256": "cc7fc70627f6cdb610b12493cc539121c696ec1841a64041791f1b6832179030",
+      "bytes": 545938,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-77179c185217b266",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\104-OMF风机接管\\1.jpg",
+      "relative_path": "产品图/104-OMF风机接管/1.jpg",
+      "sha256": "7f38b2d327666add31d5f2096214502038c180320fac511e29b1bdf42167592b",
+      "bytes": 176845,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-25958c2bc4f25a5a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\104-OMF风机接管\\2.jpg",
+      "relative_path": "产品图/104-OMF风机接管/2.jpg",
+      "sha256": "9c3ea2a39ecda42058a20ac7441c8e575ce3048a2103ce9a879973850eee492a",
+      "bytes": 235293,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a9f4166a6c7035d0",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\104-OMF风机接管\\3.jpg",
+      "relative_path": "产品图/104-OMF风机接管/3.jpg",
+      "sha256": "3059717b47bf6013861160afa7b87feeb9a82fbbebd4f478a6ce85327d734980",
+      "bytes": 498803,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-67e5a43e1a62a9ac",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\105-壳体底座\\1.jpg",
+      "relative_path": "产品图/105-壳体底座/1.jpg",
+      "sha256": "1f795c7becdd4197e4c5d4cd85542c58772088ba0269dc8072aec7c608db2c7e",
+      "bytes": 318418,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8305978fb8040d9d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\106-阀体\\1.jpg",
+      "relative_path": "产品图/106-阀体/1.jpg",
+      "sha256": "f0e386f916e518bc2c33d0fb7fb5329aa5c91de10b115ba9bc6bb2a1d46a6013",
+      "bytes": 446050,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-688e98470a7440e6",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\107-阀体DQ80\\1.jpg",
+      "relative_path": "产品图/107-阀体DQ80/1.jpg",
+      "sha256": "aedf1b54f865f4ad4cf9cbcee615579d8298a8b1aac76d85b64dec7f511b25ae",
+      "bytes": 296388,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-7f70aa9b372e7280",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\108-中通锁止块大\\1.jpg",
+      "relative_path": "产品图/108-中通锁止块大/1.jpg",
+      "sha256": "7e73267e5b8b37d97ad5788db649004bdc24f781ba391faeed348005a2f10f33",
+      "bytes": 214371,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e45ad9d7ca92ca15",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\109-中通锁止块小\\1.jpg",
+      "relative_path": "产品图/109-中通锁止块小/1.jpg",
+      "sha256": "9aee4773c8ac5fc273feb7f3361cf96a11c08eca7b4e5a465f3641a0b45c8fe7",
+      "bytes": 299443,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2d22f21ddb9b8ccc",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\110-锁舌挡块\\1.jpg",
+      "relative_path": "产品图/110-锁舌挡块/1.jpg",
+      "sha256": "ae7187469fd595a43e855626f9dd06a22bb7dc0a53258085f7a8f8f3a4bb1057",
+      "bytes": 225341,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-9129919744aa8a59",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\110-锁舌挡块\\2.jpg",
+      "relative_path": "产品图/110-锁舌挡块/2.jpg",
+      "sha256": "c486b99b3065fafa1ad421100a25f6255c2152fe22f67f749e44b81319651f9b",
+      "bytes": 583561,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-89bbce830975dc95",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\111-下转臂门板连接板\\1.jpg",
+      "relative_path": "产品图/111-下转臂门板连接板/1.jpg",
+      "sha256": "12e281a51971c6be28283c424f369af54111a3f7b59fe0038fa6d10ec81096ac",
+      "bytes": 223226,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-9686dfdfaadc8558",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\112-弯摇臂\\1.jpg",
+      "relative_path": "产品图/112-弯摇臂/1.jpg",
+      "sha256": "a23023e2b86310eeb028489094795745fedd923e34881bbfa3d30834cf7977e5",
+      "bytes": 329594,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-b41f770463b336a7",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\113-上摆臂座\\1.jpg",
+      "relative_path": "产品图/113-上摆臂座/1.jpg",
+      "sha256": "f9c0ac3cf8a5b823330562f3ab1d409fa466fd3507d03dc93190b632fececf4e",
+      "bytes": 260210,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-604ef05699dfde89",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\113-上摆臂座\\2.jpg",
+      "relative_path": "产品图/113-上摆臂座/2.jpg",
+      "sha256": "48460fb285db1ec7fe3362462c6c633e2d25b87f5eb0164fca1e2cf323e8b4ae",
+      "bytes": 437726,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a1ee2aabffff53c6",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\114-弯摇臂座\\1.jpg",
+      "relative_path": "产品图/114-弯摇臂座/1.jpg",
+      "sha256": "78d44ee81c3839d592ce311e82e04e29e2233c6c66a221111f2c25af82657843",
+      "bytes": 419691,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-0852c50c42a439a7",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\114-弯摇臂座\\2.jpg",
+      "relative_path": "产品图/114-弯摇臂座/2.jpg",
+      "sha256": "69328e46e5a780d6c6773dae0415aaf2fa376da45f264920ec4e4691bc8916c7",
+      "bytes": 434776,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2e7751bd1df380f8",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\115-连接叉\\1.jpg",
+      "relative_path": "产品图/115-连接叉/1.jpg",
+      "sha256": "0c818a4f6f6d6ca2aa5d36919998c47c643649ed5a203b2ddff44e1ec485d878",
+      "bytes": 492171,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-1d1d15ca282ddd03",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\115-连接叉\\2.jpg",
+      "relative_path": "产品图/115-连接叉/2.jpg",
+      "sha256": "b773feb2df66a5ed3fc0e9afba537c277e68a7d552fa9b74beb3748a47d0d7a0",
+      "bytes": 230121,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-fde2d32f261c5526",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\115-连接叉\\3.jpg",
+      "relative_path": "产品图/115-连接叉/3.jpg",
+      "sha256": "f1b2cba3777fbfa5c13e51ef25510d09214fc5ea9d660d4f26c3a5be18136dee",
+      "bytes": 649069,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-029ffd92414b294a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\116-同步带托架\\1.jpg",
+      "relative_path": "产品图/116-同步带托架/1.jpg",
+      "sha256": "62c8f2edad23a53f73ade739f504462e5a9e05db685cae0f29f67d8c26330971",
+      "bytes": 195255,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-df373041a0039947",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\117-弯管\\1.jpg",
+      "relative_path": "产品图/117-弯管/1.jpg",
+      "sha256": "e1a04f8589a69d3bd0b57941f902a5cd4515b5cdb153fc951273951f22d45e53",
+      "bytes": 279349,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a61cdf062e354770",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\118-锁舌挡块（椭圆形）\\1.jpg",
+      "relative_path": "产品图/118-锁舌挡块（椭圆形）/1.jpg",
+      "sha256": "73899db4a30f724ac78e95361e5751f6a2381da2de68f8bc7747de7b55198d37",
+      "bytes": 336187,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8ea039f476cf588a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\118-锁舌挡块（椭圆形）\\2.jpg",
+      "relative_path": "产品图/118-锁舌挡块（椭圆形）/2.jpg",
+      "sha256": "c3728e665860651626639d6be1406a7ad0b9220128c2a6ee13888aef1cc90a8c",
+      "bytes": 422288,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-4b25ade444f6c250",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\119-锁止块5226\\1.jpg",
+      "relative_path": "产品图/119-锁止块5226/1.jpg",
+      "sha256": "d7e992db83d36ab6ed9bde144256f5534670e65498a887d63885174833eeb995",
+      "bytes": 306602,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-3e2b8c4854f018a7",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\119-锁止块5226\\2.jpg",
+      "relative_path": "产品图/119-锁止块5226/2.jpg",
+      "sha256": "9f7b0c1fd51735c8c5ab9d336dc58e10e552f20c6f09b9b49499cde3491fd56e",
+      "bytes": 1541602,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-6cb42dcdfcb4c894",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\120-锁止块6290\\1.jpg",
+      "relative_path": "产品图/120-锁止块6290/1.jpg",
+      "sha256": "179552429e880087af5c9c798be2372de47d822a5e93e16bf504acb1746467ee",
+      "bytes": 286953,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-9f8ec0f558121db9",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\120-锁止块6290\\2.jpg",
+      "relative_path": "产品图/120-锁止块6290/2.jpg",
+      "sha256": "c8c59dc58509aca62c98dcb36bbd0c9677183bedbe66d5f373f2334a8398401d",
+      "bytes": 1136514,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-de02736ac7b0b111",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\121-T型螺母G\\1.jpg",
+      "relative_path": "产品图/121-T型螺母G/1.jpg",
+      "sha256": "9d9038e9455ce8d0a9f25562e153bb191ae61b70547472f7088f5db0ba386fd0",
+      "bytes": 257218,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-5533ee62a25b5398",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\121-T型螺母G\\2.jpg",
+      "relative_path": "产品图/121-T型螺母G/2.jpg",
+      "sha256": "b302e42306a231e9009c913821bb8cff68ba84da2d9ecfac1a9530f255500e54",
+      "bytes": 737880,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-29e0936c15dd6911",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\122-门顶锁止块\\1.png",
+      "relative_path": "产品图/122-门顶锁止块/1.png",
+      "sha256": "4c1fd8fa9afc39da63bf75b86f62d52060c2b6908425f96d18aae60d70c735da",
+      "bytes": 532855,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-702433b61f512a93",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\122-门顶锁止块\\2.png",
+      "relative_path": "产品图/122-门顶锁止块/2.png",
+      "sha256": "58ed84cf32e11c845d33427617b2ba7cb71774f521b7264d9f981642860d25de",
+      "bytes": 2629681,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-cb1f6c3cf6cad4ce",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\123-中通锁止块 大\\1.png",
+      "relative_path": "产品图/123-中通锁止块 大/1.png",
+      "sha256": "070bb341449fe87410592a79d62d7979152675ce47cc0016ec101e43050a9559",
+      "bytes": 872850,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-86976d30773a9cc7",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\124-中通锁止块 小\\1.png",
+      "relative_path": "产品图/124-中通锁止块 小/1.png",
+      "sha256": "ce51adba34a45b18b79a516642980f2e5f72fc40467b90092e635be48045a598",
+      "bytes": 980258,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8195bae0c3633c28",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\125-主夹板（抱箍）\\1.jpg",
+      "relative_path": "产品图/125-主夹板（抱箍）/1.jpg",
+      "sha256": "9e18b4fa7f823cceab0d32a8bf2f6cacebec6091a27324b71312a5abcc3ae323",
+      "bytes": 415882,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-cfd6fcb4db73b5f8",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\125-主夹板（抱箍）\\2.jpg",
+      "relative_path": "产品图/125-主夹板（抱箍）/2.jpg",
+      "sha256": "3be565ae9145d7b8ee94e2f221819da1f2df40b779822f33b2eea6c12e797db4",
+      "bytes": 807357,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-85f1c283aa3d4ae1",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\126-副夹板（抱箍）\\1.png",
+      "relative_path": "产品图/126-副夹板（抱箍）/1.png",
+      "sha256": "2eeac24e1ce9bb36402a7de779ae5a6e0131654662712e71f3733ccd50e056fe",
+      "bytes": 1312143,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-5a36d07c36172e86",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\127-锁止块垫片\\1.png",
+      "relative_path": "产品图/127-锁止块垫片/1.png",
+      "sha256": "0f97a850c42534d614a68402fcba028737b96ca062d81a4a81b3b0194c160509",
+      "bytes": 1105157,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-600b509d68d1bdea",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\128-分闸扣板\\1.jpg",
+      "relative_path": "产品图/128-分闸扣板/1.jpg",
+      "sha256": "700f6b1dfd1f13c5ad841554eafd7570645940bed43199224f05f1386910772f",
+      "bytes": 304913,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ea45906c31b543a6",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\128-分闸扣板\\2.jpg",
+      "relative_path": "产品图/128-分闸扣板/2.jpg",
+      "sha256": "c6629766432246e70d76ff638005e6b3b7eb3c51a9d67c13b417d6062add01c4",
+      "bytes": 330176,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-59423e63279d9f47",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\128-分闸扣板\\3.jpg",
+      "relative_path": "产品图/128-分闸扣板/3.jpg",
+      "sha256": "62bdb182563b4dcb0502804b14d0fa5bed2c182b7b0713b78c331270a5b7bea2",
+      "bytes": 470595,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-24df4d1a051b53c4",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\129-凸轮\\1.jpg",
+      "relative_path": "产品图/129-凸轮/1.jpg",
+      "sha256": "1f2566564edf3c7c8fe6cb9379fdee371df8d2c02e06a38f68968f54a601c47e",
+      "bytes": 222101,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-923f95b1df2ec9e6",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\129-凸轮\\2.jpg",
+      "relative_path": "产品图/129-凸轮/2.jpg",
+      "sha256": "39f7ffb627ddfb0b6e35c7187b6eb09eddb78d4e90cc7b6b41627c46b52a4e64",
+      "bytes": 537331,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-c97f3e2b6d420e6d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\130-支座\\1.jpg",
+      "relative_path": "产品图/130-支座/1.jpg",
+      "sha256": "15eca8a0033a3495504e4017bbb1091d3cdaf324d3e35057fb67f1de449ad863",
+      "bytes": 197135,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-028416fea21e8983",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\131-拐臂(合分闸拐臂）\\1.jpg",
+      "relative_path": "产品图/131-拐臂(合分闸拐臂）/1.jpg",
+      "sha256": "25253037572bed0ed433944ac3f24eabb598cea5fdc2431f26e742aee96faba3",
+      "bytes": 325141,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-7bbc5913f911eb52",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\132-钢丝绳固定座左\\1.jpg",
+      "relative_path": "产品图/132-钢丝绳固定座左/1.jpg",
+      "sha256": "5b9c69c695543ceb2d225cf56c456641c563e6ed98ba3144fdf02fcf22d3a8b2",
+      "bytes": 793316,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-cd979b1a91e53368",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\133-钢丝绳固定座右\\1.jpg",
+      "relative_path": "产品图/133-钢丝绳固定座右/1.jpg",
+      "sha256": "dc73da10800c18d8d20c1214d99ec1d87cdea56b585967ec10bbd1e61cc60517",
+      "bytes": 265467,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-9ba947c718676a3a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\134-新上导轨弯头\\1.jpg",
+      "relative_path": "产品图/134-新上导轨弯头/1.jpg",
+      "sha256": "bd23933244b57b310c41758dc2e55fd5d8627484b7faa630e9c86d20b17e727b",
+      "bytes": 330254,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-7e718f9d3936591d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\135-气缸座（三）\\1.jpg",
+      "relative_path": "产品图/135-气缸座（三）/1.jpg",
+      "sha256": "bb835d0d8a17338a84b13d324d85f188aa71fdd37f8c4653e1c30fee0fba3904",
+      "bytes": 298218,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-b49c3c3932ae5699",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\136-气缸座（一）\\1.jpg",
+      "relative_path": "产品图/136-气缸座（一）/1.jpg",
+      "sha256": "5f01960417a8e2fbfb0e85df6376947275fe1d8e0baeaa813fd12386158a08ed",
+      "bytes": 535960,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-30a94299e4256730",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\137-气缸座\\1.jpg",
+      "relative_path": "产品图/137-气缸座/1.jpg",
+      "sha256": "13000787a3e2aa00aa795cae6a274a6790f3506a34311e8edd05cc83c2d6f521",
+      "bytes": 1772279,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-b20ddc3c4a15e16a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\138-卷轴安装座右\\1.png",
+      "relative_path": "产品图/138-卷轴安装座右/1.png",
+      "sha256": "2935db0e984f9b491e2e3d61fdef6b450fc9570e7256e578d51d3f4d34912741",
+      "bytes": 1325225,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-db977f034c63ebf5",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\139-卷轴安装座左\\1.png",
+      "relative_path": "产品图/139-卷轴安装座左/1.png",
+      "sha256": "e6c5867ea66d86798ca3869fa55e63079a89c134db2971b29aea7ad09b015214",
+      "bytes": 1550681,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2a3ad6f560f3c44d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\140-DF11轴承箱\\1.jpg",
+      "relative_path": "产品图/140-DF11轴承箱/1.jpg",
+      "sha256": "a5596af93436cab9d8c19c5df32afb6ce533fc3ccdf4b6585f47953bae99228a",
+      "bytes": 272567,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a784b7bbcfc02663",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\141-气缸座\\1.png",
+      "relative_path": "产品图/141-气缸座/1.png",
+      "sha256": "bce13fd0e8ce6d89ea513cee88b4271f6e45b245b686955d249e5b3c87204fd7",
+      "bytes": 657362,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-505cb2e4c64b4c2f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\142-铜转杆长\\1.png",
+      "relative_path": "产品图/142-铜转杆长/1.png",
+      "sha256": "f064fec6d38780cd7e375f6ec04f7ae26b4a8ad89b7e8b354766ba6634086a89",
+      "bytes": 603210,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2e9e6cf5c97e9366",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\143-铜转杆短\\1.png",
+      "relative_path": "产品图/143-铜转杆短/1.png",
+      "sha256": "2a9acfe9251d87f49b394a3b2f84c5c79307bb8e09ed6f27ff697096c096cd21",
+      "bytes": 684169,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-c919293132db5d10",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\143-铜转杆短\\2.png",
+      "relative_path": "产品图/143-铜转杆短/2.png",
+      "sha256": "ab3823af46c01cf3ae394fd9db7d0bf8bdfb4916a5350547c1143bc77b3f4e42",
+      "bytes": 2130380,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-f0a8b6932dd7245a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\144-小拐臂\\1.png",
+      "relative_path": "产品图/144-小拐臂/1.png",
+      "sha256": "67c3651163c7de186496696d2c7943c2a094624ea57f7bc3b24746a86be838a0",
+      "bytes": 638525,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ab397c0f0fbcdab6",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\145-保持挚子\\1.png",
+      "relative_path": "产品图/145-保持挚子/1.png",
+      "sha256": "bcfd444e00331c135d23c1202d996fe4f227487f5e797038c532a68462c195c3",
+      "bytes": 445372,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-bc62da39d05a5eab",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\146-三层拐臂\\1.jpg",
+      "relative_path": "产品图/146-三层拐臂/1.jpg",
+      "sha256": "774ad7efcaab9e322720a9201989e54368dcf474b714e0466503367621ce86e4",
+      "bytes": 188823,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-90f52138e28b1a3c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\146-三层拐臂\\2.jpg",
+      "relative_path": "产品图/146-三层拐臂/2.jpg",
+      "sha256": "2bfc46f2ecb5c4d430d819f374ba3f41d883ec44c2200c89cdabff1c17e582eb",
+      "bytes": 598328,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e5a39c777bc8269b",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\147-挚子\\1.png",
+      "relative_path": "产品图/147-挚子/1.png",
+      "sha256": "433265aa220b112044ecf7c53841bc825b46158d8147ce457d93dabd5e488d39",
+      "bytes": 978309,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8a1ba554d056c810",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\148-扣板\\1.png",
+      "relative_path": "产品图/148-扣板/1.png",
+      "sha256": "1c2aceb7fc08e6746982c2f689bf1a19073a1a58f2b150a93412711976ecb8cf",
+      "bytes": 788640,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d7bb8e6529faace5",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\149-连板\\1.png",
+      "relative_path": "产品图/149-连板/1.png",
+      "sha256": "c394bcf49fb6a2f444bf7eee369608418f3b329a24dd54b4bcff9878a5bb6b02",
+      "bytes": 1521070,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-4eea7881658397a5",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\149-连板\\2.png",
+      "relative_path": "产品图/149-连板/2.png",
+      "sha256": "f964ee32a5b3160204b3b42c5e2bdfcfdf81a05b7a6728d359158e25cb126051",
+      "bytes": 573285,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-7984497e095875d2",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\150-拐臂\\1.png",
+      "relative_path": "产品图/150-拐臂/1.png",
+      "sha256": "ea9c14849555b5317a4ad613ce68d10d9fdd1c43cc9c3cad4bf5a2380ab4ff53",
+      "bytes": 386873,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-046d4d7af0e51ed2",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\151-铁鞋\\1.png",
+      "relative_path": "产品图/151-铁鞋/1.png",
+      "sha256": "72a4787f4265e5d2bd9029f9833596cdcc23ebb868148f6ba6402bbf5aeb4867",
+      "bytes": 793536,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-5752c7d50fb551c0",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\151-铁鞋\\2.png",
+      "relative_path": "产品图/151-铁鞋/2.png",
+      "sha256": "3a88702785d35982afe9247c9386af3522d0887d165c4557079668c98aa4e3cf",
+      "bytes": 1618490,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-f4f43d6185b0bdbb",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\152-方体\\1.png",
+      "relative_path": "产品图/152-方体/1.png",
+      "sha256": "0b0a822f6be7c887a4679f9623b10cdf347695c71650659198e40d5d044bbe8a",
+      "bytes": 292662,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d9c7f19d618a5663",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\152-方体\\2.jpg",
+      "relative_path": "产品图/152-方体/2.jpg",
+      "sha256": "659d66de6c83a613e6d405d1a7bf00c6601452c68210aa658a7405703a483465",
+      "bytes": 1270455,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-1450d8a84251c45f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\153-下撑杆架支撑底座\\1.png",
+      "relative_path": "产品图/153-下撑杆架支撑底座/1.png",
+      "sha256": "bf39e219ea86c33676c86da1e4d034ac5756a02a34cfbf7ff28d7c1c28e97acc",
+      "bytes": 1684472,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-55c114f190bffe5e",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\153-下撑杆架支撑底座\\2.png",
+      "relative_path": "产品图/153-下撑杆架支撑底座/2.png",
+      "sha256": "da524e1be9206b0e05362a4f198a83ec68cabc9e54a48c101f354b765b200b29",
+      "bytes": 3792804,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-628b7e4429d7ad50",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\154-挂枪架底座安装板\\1.png",
+      "relative_path": "产品图/154-挂枪架底座安装板/1.png",
+      "sha256": "a456d7d0cd1cf1495ba4b1d6cc1cc80b147f831d81b5cb46cdc24a5f7d58ad7c",
+      "bytes": 1773952,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-440e8036f3f39a3e",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\154-挂枪架底座安装板\\2.png",
+      "relative_path": "产品图/154-挂枪架底座安装板/2.png",
+      "sha256": "36b8ad13a7bf9ef78e8017b604224915450f0b2ff421ae7bef57f2b57c615639",
+      "bytes": 1910309,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-18fc65384c774031",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\155-扫描器放置架\\1.png",
+      "relative_path": "产品图/155-扫描器放置架/1.png",
+      "sha256": "675eb821dc51734eb12453cb70a520e76e4df21c4e133562441598b7065a0901",
+      "bytes": 882912,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-fd97f6f9b13d2020",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\155-扫描器放置架\\2.png",
+      "relative_path": "产品图/155-扫描器放置架/2.png",
+      "sha256": "a06242637fd1e6ce11b55731058813ef061b4d8b8d1c3cd43efe898d74cd6eca",
+      "bytes": 4018710,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-072dc4677f9aa89a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\156-扫描器架连接架\\1.png",
+      "relative_path": "产品图/156-扫描器架连接架/1.png",
+      "sha256": "63fd7f17e8decb6e3efa89adc2fca5037e79c14c84d4440992975135829847f2",
+      "bytes": 2554655,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-089876a3554ba65f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\156-扫描器架连接架\\2.png",
+      "relative_path": "产品图/156-扫描器架连接架/2.png",
+      "sha256": "332e25268a7893e87bb406dda20e270d3f74dce6c587b5265c81f07ef01ef8e4",
+      "bytes": 4458129,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-0ab600767ead235b",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\157-称头支撑\\1.png",
+      "relative_path": "产品图/157-称头支撑/1.png",
+      "sha256": "327c50490b9e1703a8334bde5642d989ed715555d9e171b9ea8b8550bfdbb36e",
+      "bytes": 2697284,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-39741bae9cad387f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\157-称头支撑\\2.png",
+      "relative_path": "产品图/157-称头支撑/2.png",
+      "sha256": "44048a0ff97111e3eb5e34be6347722e7c4acc62fd85e8341fe00677ff9d55bf",
+      "bytes": 4410452,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-66865cf91752d643",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\158-挂枪杆连接座\\1.png",
+      "relative_path": "产品图/158-挂枪杆连接座/1.png",
+      "sha256": "be082e8fd5855f578643e9f0f969e86b618b5591be8d67dfc7c641104d5a2c7a",
+      "bytes": 1318208,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-7fff47a2786e0080",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\159-调节座\\1.png",
+      "relative_path": "产品图/159-调节座/1.png",
+      "sha256": "b7a45d64d117ec7d2a9eac63c90fbea77a8a44ca6d8983a5c55aeded40c2b433",
+      "bytes": 814144,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-f135cdfa1f7a045b",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\160-铸件\\1.png",
+      "relative_path": "产品图/160-铸件/1.png",
+      "sha256": "d5ad749e839df7bf700ee44b8629c51cbb64e2b0ea653f1253c139b011ab0f4b",
+      "bytes": 1081918,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-5c5a2033eee81698",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\161-夹头体\\1.png",
+      "relative_path": "产品图/161-夹头体/1.png",
+      "sha256": "de0d87305db92def5b13dc40e98b5584a800a56879f6bb559269f6a456e6f10f",
+      "bytes": 1148627,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a27beb3f7bb58b3c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\162-夹头盖\\1.png",
+      "relative_path": "产品图/162-夹头盖/1.png",
+      "sha256": "0bbb429b1ead4a944ae4895d17147ca9dcb0510bebc29884687d5248f7747d5b",
+      "bytes": 788135,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e6f5cf3cd161f350",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\163-抱箍\\1.jpg",
+      "relative_path": "产品图/163-抱箍/1.jpg",
+      "sha256": "06137e0320106e7e64a334ed89c318a039b6a43a540bd40608802e848c5f61b3",
+      "bytes": 699728,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-0e6c8d782de81f84",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\163-抱箍\\2.jpg",
+      "relative_path": "产品图/163-抱箍/2.jpg",
+      "sha256": "f63a4f3fc14691df7263e7a6aa34057566a03c8596ac8d0ad0050bd7511de820",
+      "bytes": 722439,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-44582b847d4490a4",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\163-抱箍\\3.jpg",
+      "relative_path": "产品图/163-抱箍/3.jpg",
+      "sha256": "d496ca27061db6fa46a7de5ba8f93914cf437deefd652140c710fa303bff054d",
+      "bytes": 620751,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ab00292941a8ec60",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\164-锁止块\\1.png",
+      "relative_path": "产品图/164-锁止块/1.png",
+      "sha256": "04e0bbb611a13e76f7ea7f5ec32c3d5745f6c628f3fcdff5ed027a7b5941c5c2",
+      "bytes": 1178785,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d04f563c4f70d0be",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\165-左大丝杠前固定架\\1.png",
+      "relative_path": "产品图/165-左大丝杠前固定架/1.png",
+      "sha256": "324b4839cb5f1de48377d7ffce9fbba91c95f015544f183f973e58618240fe24",
+      "bytes": 2425580,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-29ff4d4f197feaaa",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\165-左大丝杠前固定架\\2.png",
+      "relative_path": "产品图/165-左大丝杠前固定架/2.png",
+      "sha256": "eaf4033cd29f51d695d01341bdb828974e964ee072e1fd55efcc2a0e1e8aef4c",
+      "bytes": 2956133,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d4688476e66a8b56",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\166-立柱上转轴头\\1.png",
+      "relative_path": "产品图/166-立柱上转轴头/1.png",
+      "sha256": "0112702830ac37c7f646e61c5878e375f187c78439762bb3ce5a74759b2189b2",
+      "bytes": 793693,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-356bd8f8a6604449",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\166-立柱上转轴头\\2.png",
+      "relative_path": "产品图/166-立柱上转轴头/2.png",
+      "sha256": "70a9df93d739ae9c01308adff8e91f9226089600d2634902b3193e62125c05e4",
+      "bytes": 1877104,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-402a874b0cbd06d8",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\167-摆臂\\1.png",
+      "relative_path": "产品图/167-摆臂/1.png",
+      "sha256": "7c36ce43e3432c4953a71351209f898f99aac521603f346f72b9383d4225d158",
+      "bytes": 369869,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-5f78894300c97b64",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\167-摆臂\\2.png",
+      "relative_path": "产品图/167-摆臂/2.png",
+      "sha256": "29185cc040f72888514f3fc01cd135ceeca2cb89220d51b2ff65718672723b67",
+      "bytes": 1818146,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-72900691b6e5c97c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\168-铰链（含芯棒）\\1.png",
+      "relative_path": "产品图/168-铰链（含芯棒）/1.png",
+      "sha256": "afe49d41bb974aec89edb0462e53dfaa5956dbc4028708a400c479d9e07b1939",
+      "bytes": 1556302,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d6d6890e2d0e393a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\169-右门上限位块\\1.png",
+      "relative_path": "产品图/169-右门上限位块/1.png",
+      "sha256": "4b42cf5434d0c1c35ea5568c3eb4a390ab83740f455dbdee436e3590e366bc34",
+      "bytes": 690747,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-84eed9609f14ab39",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\170-左门上限位块\\1.png",
+      "relative_path": "产品图/170-左门上限位块/1.png",
+      "sha256": "308d05e83a4d1ec8ebe3b4cfbd05ac198efa6495df1031388cb54390bf0116b3",
+      "bytes": 839492,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-4aa5c84bf1e6ccac",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\171-结合齿\\1.png",
+      "relative_path": "产品图/171-结合齿/1.png",
+      "sha256": "9e82753973d6b84595edb3831e598bfa9866ee8bb73083644e6155777d404126",
+      "bytes": 1645823,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-0d744882cff4bb40",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\172-整体式旋风子\\1.jpg",
+      "relative_path": "产品图/172-整体式旋风子/1.jpg",
+      "sha256": "57c05edd24ec588c0d7ba4bb4e650e14272cb8593c7caa1409a57ba5dbfd5745",
+      "bytes": 202147,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-249d3f2fe8e4b0f7",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\172-整体式旋风子\\2.jpg",
+      "relative_path": "产品图/172-整体式旋风子/2.jpg",
+      "sha256": "a1ec437c8843625a2b474236b245c81c8a7662990231aae175c8d24dff1f8dd0",
+      "bytes": 310509,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-db20b91fede1302c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\173-整体式旋风管\\1.png",
+      "relative_path": "产品图/173-整体式旋风管/1.png",
+      "sha256": "1b777c1e6983ea921222b6aa9a485a6998fed33f85f835c4444089920e82731d",
+      "bytes": 941483,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-dfaa941049a2b9b2",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\174-整体式旋风子（轴流式）\\1.png",
+      "relative_path": "产品图/174-整体式旋风子（轴流式）/1.png",
+      "sha256": "c301b42ad0a8023ad4a6f57b90468ea4d8c93c72d692a30e6b87df6c8a9a0b29",
+      "bytes": 1127484,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e3be5cd0b17a7551",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\175-码盘座\\1.jpg",
+      "relative_path": "产品图/175-码盘座/1.jpg",
+      "sha256": "c2f401ea54174da9aa35e57f5dcb9a5b69055f2f6988c6361f6fab618494912b",
+      "bytes": 635072,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-4ac08d412c6f497d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\176-调焦筒\\1.png",
+      "relative_path": "产品图/176-调焦筒/1.png",
+      "sha256": "4a39f2833b94084404e3fbe53c1cb63624f0d96104640a5707acf62ea335a557",
+      "bytes": 1194751,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-cb3ade235c22d655",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\177-特大手柄\\1.jpg",
+      "relative_path": "产品图/177-特大手柄/1.jpg",
+      "sha256": "c141169ae4baf88a26a36b9f603a8db5c68f6bdb77a2b94ee8a266c5366ce8cd",
+      "bytes": 243665,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ca78db402a67f413",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\177-特大手柄\\2.jpg",
+      "relative_path": "产品图/177-特大手柄/2.jpg",
+      "sha256": "cbe1548c8019f74900bfa3f01bb81f98445e48ed0207db826a4a1b50d84a1427",
+      "bytes": 424202,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8e923299c20fa9c2",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\178-大孔大手柄\\1.jpg",
+      "relative_path": "产品图/178-大孔大手柄/1.jpg",
+      "sha256": "92ffd951142b60c2229ecd713fe35001db22057abc90066cbf145c91a09a2ad7",
+      "bytes": 373030,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-1f772ab34201c67d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\178-大孔大手柄\\2.jpg",
+      "relative_path": "产品图/178-大孔大手柄/2.jpg",
+      "sha256": "51c521ad5585d33b3a4a014c82c82c049a3826e8ccd81a39c37ab1decf506347",
+      "bytes": 480395,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-5c275a534af0051c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\179-小孔大手柄\\1.png",
+      "relative_path": "产品图/179-小孔大手柄/1.png",
+      "sha256": "bfc8512736d6d0ce3c461812a7abee59a431342ef24fcae3ecb94f044141e3c2",
+      "bytes": 1305306,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-4058cc8c2a1fac33",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\180-小手柄\\1.png",
+      "relative_path": "产品图/180-小手柄/1.png",
+      "sha256": "c866e852570f62594582e12dc84b03c7be6b929fde99106bdd377cb9251ea6c6",
+      "bytes": 550288,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-f40beef27ea5db15",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\180-小手柄\\2.png",
+      "relative_path": "产品图/180-小手柄/2.png",
+      "sha256": "41e9610b7f84d1d32129d94745dd92e0952b389580dd6b070ad48e7f33da77f2",
+      "bytes": 2182361,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e72c9ffbabf0f7bf",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\181-前进撞块\\1.png",
+      "relative_path": "产品图/181-前进撞块/1.png",
+      "sha256": "a1ac3469332d6347554141cf56c17dde14715389234dfff203b83e4bf15dec5f",
+      "bytes": 884622,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-6f23b3d1fbbca649",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\181-前进撞块\\2.png",
+      "relative_path": "产品图/181-前进撞块/2.png",
+      "sha256": "201f222a1081669d3348aa837546023d57cf629701efdd05c83c189ed906099c",
+      "bytes": 1330920,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e95258d826581e57",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\182-夹紧器连接块\\1.png",
+      "relative_path": "产品图/182-夹紧器连接块/1.png",
+      "sha256": "774826ffb7c2df8e9b10b5b865a579eaed31c7d0d0d188ca4b201fbc09cccf96",
+      "bytes": 839632,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-3b8301497d2c33c1",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\182-夹紧器连接块\\2.png",
+      "relative_path": "产品图/182-夹紧器连接块/2.png",
+      "sha256": "13e33b406b7071bda4fff29bfb0001a4af4db131e5db8224f553c58393de7e4f",
+      "bytes": 716302,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-fd375e708b3c1d2d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\183-前进撞块\\1.png",
+      "relative_path": "产品图/183-前进撞块/1.png",
+      "sha256": "ec6b66400dcd1b172dcf29173406f977b4f416848b816d3c739b3d44029aaa0d",
+      "bytes": 470007,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2730697cfdba9e80",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\183-前进撞块\\2.png",
+      "relative_path": "产品图/183-前进撞块/2.png",
+      "sha256": "1f8ac082234fab85611d12340d0550fe7aab53531a80fee7cdfe68c0c0da412a",
+      "bytes": 1768841,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a7fc8588e190a4db",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\184-配重支架\\1.png",
+      "relative_path": "产品图/184-配重支架/1.png",
+      "sha256": "51cc2c18d8c188dd635713301c4bcb87ae0a8a00abe37c7ab915f2f172d0270f",
+      "bytes": 364029,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-550a338d0226162c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\185-人字座\\1.png",
+      "relative_path": "产品图/185-人字座/1.png",
+      "sha256": "b6163d40fe0a195c545f695d73a775cad497b922e17a74afbcd0bc550637700f",
+      "bytes": 1009553,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-7a04933e8518cdd8",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\186-大减压阀\\1.png",
+      "relative_path": "产品图/186-大减压阀/1.png",
+      "sha256": "3d9f89f2b47dbbd1918793726d3a77269f4b6864c5fc1d0299d8c9860aef7210",
+      "bytes": 1221658,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-086f58cab0950da5",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\187-大减压阀底座\\1.png",
+      "relative_path": "产品图/187-大减压阀底座/1.png",
+      "sha256": "059ed040bbaabeeedc20ce8fb9fe453c9d9b039282f436659dcf84a53cd0394a",
+      "bytes": 1633921,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-846c0c1d49eeab00",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\188-3-4Y型过滤器\\1.png",
+      "relative_path": "产品图/188-3-4Y型过滤器/1.png",
+      "sha256": "3f4705a62e6533dc831d83ae1ceb52ba40421cc8879e51a5d1135a95b2fa1c2d",
+      "bytes": 1409540,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-35d23e556c784ea0",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\189-减压阀螺帽\\1.png",
+      "relative_path": "产品图/189-减压阀螺帽/1.png",
+      "sha256": "bc69b3e04fc6f1d36d85aea8f6f0c5eddaecc8f29a38477fee471f08173a3530",
+      "bytes": 1352136,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e497526c9b6f8d74",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\190-小件\\1.png",
+      "relative_path": "产品图/190-小件/1.png",
+      "sha256": "bc2f912caec1cb7a4d9002b821ad5197cf1d9d0bca05a49a1bc807c7d063c692",
+      "bytes": 1059716,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-0946db78390ed31d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\191-连接套\\1.png",
+      "relative_path": "产品图/191-连接套/1.png",
+      "sha256": "9d0b367a5a77eaa7d0f79009470a0039801b5421d9bf95588f623c55a336ef1f",
+      "bytes": 689494,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-dd0f821f1af5ee8d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\192-升降配重\\1.png",
+      "relative_path": "产品图/192-升降配重/1.png",
+      "sha256": "880e3fc7935223178df5b3428b021fc8406e73937c64e84b84734fe41ee31391",
+      "bytes": 822868,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-0cd346f10f2078b8",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\192-升降配重\\2.png",
+      "relative_path": "产品图/192-升降配重/2.png",
+      "sha256": "b06c03bd4d3efed609c9462394ed30dafa61f3a384e96dde7eb09887e46407ee",
+      "bytes": 353953,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-6060f31542851e34",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\192-升降配重\\3.png",
+      "relative_path": "产品图/192-升降配重/3.png",
+      "sha256": "37b1dc130813c47d62be7d9e421bfee9fe93ec9cf70b84928af809a848af4b52",
+      "bytes": 1706723,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ca6c9900abb20754",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\193-止退楔块-右\\1.png",
+      "relative_path": "产品图/193-止退楔块-右/1.png",
+      "sha256": "56d47d32b638538ac5aadf89267e3a7ca29c9fd3069b1faeb6ed534a6b78dc06",
+      "bytes": 588799,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-bc1aeacc299db538",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\194-止退楔块-左\\1.png",
+      "relative_path": "产品图/194-止退楔块-左/1.png",
+      "sha256": "56d47d32b638538ac5aadf89267e3a7ca29c9fd3069b1faeb6ed534a6b78dc06",
+      "bytes": 588799,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-893aa34ef56f42ee",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\195-升降爪\\1.png",
+      "relative_path": "产品图/195-升降爪/1.png",
+      "sha256": "30fce4cfaf9bb4f3ed068a9cf4dd7dcf929969821e9304452f89f8c9fbfd4061",
+      "bytes": 660398,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e89567efbe8ce335",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\196-止退配重\\1.png",
+      "relative_path": "产品图/196-止退配重/1.png",
+      "sha256": "c0cc61b01dad719c275719f9e1fbd6a79a06aa2829ae2b1106850ad5ba98f846",
+      "bytes": 486321,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-15cc92f036838fec",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\196-止退配重\\2.png",
+      "relative_path": "产品图/196-止退配重/2.png",
+      "sha256": "1e99620e1e2dce531a65989e5daf3fa5893a28debdb814ca6a7796602d757021",
+      "bytes": 3083999,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e545c57795585342",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\196-止退配重\\3.png",
+      "relative_path": "产品图/196-止退配重/3.png",
+      "sha256": "f28009b93163ac442e9a4787c08971a1fd2ea99a99ca0867005a98aaaec1170d",
+      "bytes": 320849,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-fcf735f8da058e6d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\197-推头\\1.png",
+      "relative_path": "产品图/197-推头/1.png",
+      "sha256": "247cf717eeceb785b18b7f8070ba9a8e93cdc4c39f7b45db4aedcc8b4e9b28c3",
+      "bytes": 551877,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-dbf808b8a3879a8b",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\197-推头\\2.png",
+      "relative_path": "产品图/197-推头/2.png",
+      "sha256": "f83df21c2fe222e7f0ac1264f70d8a0833e3e83994d8350d65a789a3935bdf8e",
+      "bytes": 1143412,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a24d007214e8749d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\197-推头\\3.png",
+      "relative_path": "产品图/197-推头/3.png",
+      "sha256": "36e6e88c67dc06d5d66914ca631bd848a3f15cdc9eae2b91645c77e28fe082dc",
+      "bytes": 1531966,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-18457ee66e5d5107",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\198-回转体\\1.png",
+      "relative_path": "产品图/198-回转体/1.png",
+      "sha256": "d409e49743d25f95763209030c06db4ddded3934213bcc444e55bde9c6e6e038",
+      "bytes": 1021303,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-019669838c42e82e",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\198-回转体\\2.png",
+      "relative_path": "产品图/198-回转体/2.png",
+      "sha256": "ad5976ec7dbc860d63bfd6b5ca70e0e2fa7155d1e030816f0a278c12f72958d0",
+      "bytes": 435504,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-c4ddc1d15933197c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\199-固定块\\1.jpg",
+      "relative_path": "产品图/199-固定块/1.jpg",
+      "sha256": "693442ef24923a6c9def440a3e63b1541b3f67592f426a0881d1bbe73d1c4c13",
+      "bytes": 328768,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-75d692e0d706e97d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\200-304短扶手座\\1.png",
+      "relative_path": "产品图/200-304短扶手座/1.png",
+      "sha256": "b9d5c12089e016ada99a226b3846ca6c488d50c9f483d02faf64b51966ebaf11",
+      "bytes": 451015,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-902bff0ca16447b6",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\201-304长扶手座\\1.png",
+      "relative_path": "产品图/201-304长扶手座/1.png",
+      "sha256": "19576bc562c26cab2a27202a90c9cb12945eb8c78910ea83b7ee38353824fef3",
+      "bytes": 2607500,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-6548ab1b8e483977",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\202-锁壳盒左\\1.png",
+      "relative_path": "产品图/202-锁壳盒左/1.png",
+      "sha256": "69f9fb6e9e24b9dee1bdf73848a2e4534fc4368b8358180e935bf7b099d3d1ac",
+      "bytes": 2610435,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-88ecce27e96df032",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\203-锁壳盒右\\1.png",
+      "relative_path": "产品图/203-锁壳盒右/1.png",
+      "sha256": "3bafbd48cbff5c8d0b302abaa432005a801d66551e67dc14189afa57c1d01031",
+      "bytes": 2175238,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-054aaabb306311ef",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\204-长弯\\1.jpg",
+      "relative_path": "产品图/204-长弯/1.jpg",
+      "sha256": "e795e5372caa086a7a39b98f6f1533cefb60be75f7d3a4e259b5e64576fb18e0",
+      "bytes": 209292,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-4279171774463bac",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\204-长弯\\2.jpg",
+      "relative_path": "产品图/204-长弯/2.jpg",
+      "sha256": "67800cb7f659abc1f29d9c151057c85d93813fc107c4020b4a17cc35148f02b1",
+      "bytes": 442714,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-47bee6436e747605",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\205-短弯\\1.png",
+      "relative_path": "产品图/205-短弯/1.png",
+      "sha256": "60f5c4b6445449fc9aa98d36333764f23cd287338d9d765b9cb28f36a5d00765",
+      "bytes": 1410521,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-920ef76bb99e5d40",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\205-短弯\\2.png",
+      "relative_path": "产品图/205-短弯/2.png",
+      "sha256": "fbf1892bba98d34088565bd4f64434916ccaa296024ef0bb3b19a705387ccc0d",
+      "bytes": 2041885,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d38f6d99df8facbd",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\206-传动轮安装座\\1.png",
+      "relative_path": "产品图/206-传动轮安装座/1.png",
+      "sha256": "85d4d4dbfc687ce3d7c0620782c981ffca2f711d3d7bab23124120bf10af0025",
+      "bytes": 1080671,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-5dc4509fe31ce508",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\206-传动轮安装座\\2.png",
+      "relative_path": "产品图/206-传动轮安装座/2.png",
+      "sha256": "a1c2baafe33dc89dad13bc9df5bedd2aa7ef4c00a34282d7ab863eb7ceaac473",
+      "bytes": 1824907,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-772fbd94035b6821",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\207-铸件\\1.png",
+      "relative_path": "产品图/207-铸件/1.png",
+      "sha256": "325f5714e0ba79ffe2ae93f493a1c1feb35bb617b660ded0372bb87a785a14a5",
+      "bytes": 522096,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-9f62f8591f2211f7",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\207-铸件\\2.png",
+      "relative_path": "产品图/207-铸件/2.png",
+      "sha256": "83f4d3c3fdf4f7a34e4f25bc669c9d73ea7085dfca1dba9fc79c8cdbc62396cb",
+      "bytes": 1763460,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-7aa54b115ed1fd98",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\208-铸件\\1.png",
+      "relative_path": "产品图/208-铸件/1.png",
+      "sha256": "19950af8acbb2d59feb405ea3b55a5204f57888d137f431dfe904996886488e5",
+      "bytes": 591869,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-c053401009e70bd2",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\209-铸件\\1.png",
+      "relative_path": "产品图/209-铸件/1.png",
+      "sha256": "1c4eb942bb210c9cfb0a6d68fcdc7342788caeede1a2b52efa94d4b6ce8ec8e1",
+      "bytes": 854653,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-9eb2447dc6e63456",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\210-铸件\\1.png",
+      "relative_path": "产品图/210-铸件/1.png",
+      "sha256": "b80d54127cad7b65724c9a28dd4c3445d6906c65893e238d37ccdb3bcc72bd17",
+      "bytes": 1182509,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-663ca216d4ca4840",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\210-铸件\\2.png",
+      "relative_path": "产品图/210-铸件/2.png",
+      "sha256": "86f568859fcc82515809cd8170d031de5c3d9481f85800776395846ced636b02",
+      "bytes": 1897661,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-c9cda8d3d2b89db0",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\211-面板\\1.png",
+      "relative_path": "产品图/211-面板/1.png",
+      "sha256": "993e852a3564c62c823b9d5e141a7cd3df39584049fec24392ec3095702ac26b",
+      "bytes": 1943218,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-b1e54dc640de82ab",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\212-锁壳\\1.png",
+      "relative_path": "产品图/212-锁壳/1.png",
+      "sha256": "e787f0ff871d6ac2d30f51e157f348b757587589c43950b1d639e98d38b9055f",
+      "bytes": 846532,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2ff0de625c448cf6",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\212-锁壳\\2.png",
+      "relative_path": "产品图/212-锁壳/2.png",
+      "sha256": "94285b89fe82aeee634b02e692b0f442cf2d18b6ae5cc5f86e012e4d4089bcf3",
+      "bytes": 2072720,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-20388ce612ae9bf7",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\212-锁壳\\3.png",
+      "relative_path": "产品图/212-锁壳/3.png",
+      "sha256": "4a8d0db39e92e5146bee6cc24702f9a601076c1d5e227842168500bdb7eeca0c",
+      "bytes": 1953161,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a4a22cfcc3fdafb4",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\213-铸件（固定板）\\1.jpg",
+      "relative_path": "产品图/213-铸件（固定板）/1.jpg",
+      "sha256": "14dc69af5dea98461a21de8b7363991f33e3f7f3e5fae6d8b9cc1d82f1b95ff4",
+      "bytes": 2093190,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-1484fa2553865427",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\213-铸件（固定板）\\2.jpg",
+      "relative_path": "产品图/213-铸件（固定板）/2.jpg",
+      "sha256": "59c92e4953605b1abd05824c9a1293bfb1816a174f5ce887c7c5d4bccd11f0a1",
+      "bytes": 926655,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-0288e12c14b514a1",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\214-弹簧挂板\\1.png",
+      "relative_path": "产品图/214-弹簧挂板/1.png",
+      "sha256": "b1850ca2ec206c97a5393d02db98d236f2dacdf4f89517916da4419901b40397",
+      "bytes": 519425,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-19dbb3cb0321c3cb",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\214-弹簧挂板\\2.png",
+      "relative_path": "产品图/214-弹簧挂板/2.png",
+      "sha256": "0b85a48ffe37d641bb245e9b7e5b1b48baafe3b3ee51ea72cb6a5abb88611a83",
+      "bytes": 6369329,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-5ba1dfa50f79a883",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\215-凸轮\\1.png",
+      "relative_path": "产品图/215-凸轮/1.png",
+      "sha256": "8f01f9d14b9ae3543f75420d11d5e731230ff50aec86ba21eff17b20a00eedd6",
+      "bytes": 1478283,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-519e2f5bc2dba3d4",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\215-凸轮\\2.png",
+      "relative_path": "产品图/215-凸轮/2.png",
+      "sha256": "0298cc172c1e59efb3ccd6066b6c483ff1d2d9d9730474aaaf1a6954076e9a5b",
+      "bytes": 1459591,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-fed460237eaafe7a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\216-凸轮\\1.png",
+      "relative_path": "产品图/216-凸轮/1.png",
+      "sha256": "9a564d3deec9d59897f95361d32fa771778f3acc584189fde83aef7d9b01003a",
+      "bytes": 1299202,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-0d3a5cc08af412ff",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\217-机身\\未标题-1.jpg",
+      "relative_path": "产品图/217-机身/未标题-1.jpg",
+      "sha256": "2a8c3f24bf9838793a1d90dc9551296b230deac2428d8755d89fa51eadabf6e7",
+      "bytes": 200167,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-06883e9babea0df0",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\218-法兰筒\\1.png",
+      "relative_path": "产品图/218-法兰筒/1.png",
+      "sha256": "9c5da3d644eb3e9fe9c65b9f052a6050aeb9fda5fb027773d35d0c3f93f80148",
+      "bytes": 1384878,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-1e88b4f4defa1e20",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\218-法兰筒\\2.png",
+      "relative_path": "产品图/218-法兰筒/2.png",
+      "sha256": "44cf1cc2e4e86e78e84b38c4f3c16c546a2c7458ee82b928498a749e7f6a8af9",
+      "bytes": 1495210,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-cbbac788efd7bb76",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\219-储能拐臂\\1.png",
+      "relative_path": "产品图/219-储能拐臂/1.png",
+      "sha256": "fb446b56865c99428205690154b6f5c58c8bfb8133ca758bb33b4f65cd4fb2c0",
+      "bytes": 408265,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8d0d1fb4673ae2d8",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\219-储能拐臂\\2.png",
+      "relative_path": "产品图/219-储能拐臂/2.png",
+      "sha256": "e779a31bc4c79fb05d0751e903af8c4027bc57054dfa3073c291c94fd22f9648",
+      "bytes": 1665403,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-047478c2d73e3633",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\220-右限位块\\1.png",
+      "relative_path": "产品图/220-右限位块/1.png",
+      "sha256": "42b85b2c4cbc15da74a6409206673e8b6d6c0acfacd33078ebf92b549601e73e",
+      "bytes": 273453,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-251f86c19f25d965",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\221-下基体\\1.png",
+      "relative_path": "产品图/221-下基体/1.png",
+      "sha256": "416808d786fc0f6560c3f213dd0167cd41341e9cbd8a73c3c59a6e45fd7a16c4",
+      "bytes": 1111648,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-84373de33388b9cc",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\221-下基体\\2.png",
+      "relative_path": "产品图/221-下基体/2.png",
+      "sha256": "b6ce67e051744c1dfa74c48f85b03439fbb7b9a108bea33bdb51cbfe9c29c7b0",
+      "bytes": 1909796,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-aa364370a4dba792",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\221-下基体\\3.png",
+      "relative_path": "产品图/221-下基体/3.png",
+      "sha256": "c1378e2e58f79b8ba053e2761f58da85d3d1fc4c5bd5e63a746afead287c7811",
+      "bytes": 1609717,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-80332f5332681640",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\222-上基体\\1.png",
+      "relative_path": "产品图/222-上基体/1.png",
+      "sha256": "cb5e479139334f3d299b23e8e1bf6ac01d631d61ad1a9adabbce9acb7a2a07a9",
+      "bytes": 1069435,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a59401c34adf4c92",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\223-钩子\\1.png",
+      "relative_path": "产品图/223-钩子/1.png",
+      "sha256": "b0751e71450e79d2b95a833e7f4df2e80303a894c5130e2be58f1f9a7c571377",
+      "bytes": 1861663,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-15331f449bfc090b",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\224-小叶片\\1.png",
+      "relative_path": "产品图/224-小叶片/1.png",
+      "sha256": "fee893759023a162d35362944f7d20e1f66cbba118c4fe1d5b3cf6c200515df2",
+      "bytes": 696212,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-33b145ff1eb31f05",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\224-小叶片\\2.png",
+      "relative_path": "产品图/224-小叶片/2.png",
+      "sha256": "b358299c19b086647a9b6ec1a3f9c79b99d48024efe693e86f5bb86676114be0",
+      "bytes": 1214701,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-90c14233470f2a8b",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\225-外经192\\1.png",
+      "relative_path": "产品图/225-外经192/1.png",
+      "sha256": "12ad3bedf55eb7406ab43c7b4aa59d07c765321f429b127bd1bd5ee38e299015",
+      "bytes": 1299740,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-9a6a295bbce6a31d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\225-外经192\\2.png",
+      "relative_path": "产品图/225-外经192/2.png",
+      "sha256": "8984190a948d088908220664bdb93112d3f04f1a533f1f48de412344246d59e4",
+      "bytes": 1981026,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2a61bf5d39011f5e",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\226-16Y141 25#钢铸件\\1.png",
+      "relative_path": "产品图/226-16Y141 25#钢铸件/1.png",
+      "sha256": "0debf7f10f954a22a5b40754971adfb3d07d2deee4e69ffca5b387f1e71aaac2",
+      "bytes": 1639930,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-490aae4e0bcd409d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\227-输出轴\\1.png",
+      "relative_path": "产品图/227-输出轴/1.png",
+      "sha256": "3da3c689b91ca2601c79160a0960ef492c9ef4663871d36bfc8a1abbebc1dc6f",
+      "bytes": 604690,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-759c152c5062c6bf",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\227-输出轴\\2.png",
+      "relative_path": "产品图/227-输出轴/2.png",
+      "sha256": "9d17ce048033ab3f4e4b5b98e684faf0899dd9c5d018ec76f4747896aafd48ab",
+      "bytes": 2057863,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d128ed32ea8a81f2",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\228-保持架\\1.png",
+      "relative_path": "产品图/228-保持架/1.png",
+      "sha256": "0c8ff7ffa1a741b2e2e45546a3d6d4004e0232f872aaf0cdf08c2338a911513c",
+      "bytes": 623895,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-bfbf5dd46a7f4f0e",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\228-保持架\\2.png",
+      "relative_path": "产品图/228-保持架/2.png",
+      "sha256": "73f1881b7f8b08a17ca342cf6534aa3fe12c286e907167c8f8cf368542b0ad3e",
+      "bytes": 2026941,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-c63caef4e360046a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\229-主轴传动杆\\1.jpg",
+      "relative_path": "产品图/229-主轴传动杆/1.jpg",
+      "sha256": "742700eca52b878cef4826f63ddfea34079c27eaabc7b60c6ec4751634d17bec",
+      "bytes": 1004457,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-3f0b10c7d9d4c62a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\229-主轴传动杆\\2.jpg",
+      "relative_path": "产品图/229-主轴传动杆/2.jpg",
+      "sha256": "a6dfb89ac686af994556a868c12f2846caaed518e2815397aa92567f9addcee5",
+      "bytes": 829627,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2053eb36a70d6724",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\230-法兰304\\1 - 副本.png",
+      "relative_path": "产品图/230-法兰304/1 - 副本.png",
+      "sha256": "6db9acc62b79d356ae140f60453a5456f0442c6ddbc13caa8179a084bebfb6fe",
+      "bytes": 350288,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-f077e3d4692ce778",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\230-法兰304\\1.png",
+      "relative_path": "产品图/230-法兰304/1.png",
+      "sha256": "0ab8b4bc6673c6348ee0f27d6469892c5b38107db9126323776a8df2c7b2372b",
+      "bytes": 584651,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ca3a6ac1462b5e68",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\230-法兰304\\2.png",
+      "relative_path": "产品图/230-法兰304/2.png",
+      "sha256": "9b437e18037e3167825b0f95cc814e7a1cc7fcad0cc255ecf89baa56c8cc8f26",
+      "bytes": 928749,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-74e6e224f7efc86d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\230-法兰304\\3.png",
+      "relative_path": "产品图/230-法兰304/3.png",
+      "sha256": "8c25eb6db0c590b89551e88b852ee6f7bd1972abc6b412ca7a7f2c2c43e44cb6",
+      "bytes": 1450170,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-75789e2e6a43635f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\231-托轮支架\\1.png",
+      "relative_path": "产品图/231-托轮支架/1.png",
+      "sha256": "7018ee9cde1fe998f02b4dc8acd44e8c1ab5df8fb1733b00cca4887629ba2f10",
+      "bytes": 1979501,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ffee95281ebb976d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\231-托轮支架\\2.png",
+      "relative_path": "产品图/231-托轮支架/2.png",
+      "sha256": "ace6f0f273a157820fd95c1fd673631e22825002c08220da73590afd582616e6",
+      "bytes": 615266,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-4099f41ea57511ed",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\232-托轮板（中号）\\1.png",
+      "relative_path": "产品图/232-托轮板（中号）/1.png",
+      "sha256": "e39e395204fca3bd196f464ce707a59000065fa16c5e56a862bcc8941748cae9",
+      "bytes": 466530,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-fc30b30b8b3c57e0",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\233-托轮板（大号）\\1.png",
+      "relative_path": "产品图/233-托轮板（大号）/1.png",
+      "sha256": "bcc5e5013361d8284294b817a13533dd37ebea664619fce8133c45ca1b1f4e55",
+      "bytes": 936941,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-0a10bcdfafb66d0a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\233-托轮板（大号）\\2.jpg",
+      "relative_path": "产品图/233-托轮板（大号）/2.jpg",
+      "sha256": "b942ad82283eda40fba448c2a32076257501ae9c27a5e567f7286e9f1a6f886d",
+      "bytes": 1267421,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-886d52e52fc9ee97",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\234-牵引支架\\1.png",
+      "relative_path": "产品图/234-牵引支架/1.png",
+      "sha256": "1b994b0976b6e9c7eb2f2a08e3250e8e192dc415804325dd6a684fd991fd62f2",
+      "bytes": 629799,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-0be45d02a2c238e0",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\235-扁铁（小号）\\1.png",
+      "relative_path": "产品图/235-扁铁（小号）/1.png",
+      "sha256": "5611093a918a90dd27d02120e919c23295483044fd2cb4c510dcf6ac7c894ea7",
+      "bytes": 1452000,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-69192da5c8391fbf",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\236-托轮牵引支架\\1.png",
+      "relative_path": "产品图/236-托轮牵引支架/1.png",
+      "sha256": "0f1a595ec250d42dfe00e0bc261d5e741e3efb98d793d1d4643c070b64f01313",
+      "bytes": 457079,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a6214f4d329e24aa",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\236-托轮牵引支架\\2.png",
+      "relative_path": "产品图/236-托轮牵引支架/2.png",
+      "sha256": "7865c840461d66e8d391be14cca886eab804c830f8bc388543c745506e9bf478",
+      "bytes": 288170,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-b1895621e7da5f0d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\237-托轮板（老）\\1.png",
+      "relative_path": "产品图/237-托轮板（老）/1.png",
+      "sha256": "24c5ecc4b0c330937e7c20412523c32127a4e62e98d1591fd03be5ab52a011b2",
+      "bytes": 994280,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8d22c7d1845ccf0b",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\238-扁铁（大号）\\1.png",
+      "relative_path": "产品图/238-扁铁（大号）/1.png",
+      "sha256": "d8021be0a4d583d3addd0f7030de3798b76e8840bba6b57ac3b10ffc298e9483",
+      "bytes": 430181,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-32d2aa64c2a6a842",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\239-拐臂051\\1.png",
+      "relative_path": "产品图/239-拐臂051/1.png",
+      "sha256": "794d9da2ec8ba265fbc510edbc2be64cd8b0de4ba44f363422d41a5ee53728ce",
+      "bytes": 1540770,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2feaebb71fcf85b3",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\239-拐臂051\\2.png",
+      "relative_path": "产品图/239-拐臂051/2.png",
+      "sha256": "a6371e373a5217776d1571b8aaa9313b6d8eb02cce499446a64a16483ad0f4d3",
+      "bytes": 4586817,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-df74a554d7e3f8ce",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\240-拐臂056\\1.png",
+      "relative_path": "产品图/240-拐臂056/1.png",
+      "sha256": "46be04472bb4bf3771e91ab219f7cb44d77a03c927f8d01c963664c95049c907",
+      "bytes": 1116016,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-b0db63791e80a4fb",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\240-拐臂056\\2.png",
+      "relative_path": "产品图/240-拐臂056/2.png",
+      "sha256": "6d4050932a9aff2c36565fd1ba4eb9175eaf1947c034a6b25b5f0e2b115f97e9",
+      "bytes": 4546843,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-88fff8fbbd098903",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\241-拐臂050\\1.png",
+      "relative_path": "产品图/241-拐臂050/1.png",
+      "sha256": "9eb9ed0d4b598ee370ca78d617a4b0b14684f5d281ae475e31219d9f53a1ebb0",
+      "bytes": 1654967,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-71e8c771bedafa20",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\241-拐臂050\\2.png",
+      "relative_path": "产品图/241-拐臂050/2.png",
+      "sha256": "a56cb740ad588e4037e05351267d0b5fe2c796f6a86548bb411f53a5c13f70d2",
+      "bytes": 2068382,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d71fe234a4dc6f17",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\242-弹簧盖\\1 - 副本.png",
+      "relative_path": "产品图/242-弹簧盖/1 - 副本.png",
+      "sha256": "fdece6005ffc36c6b471e2d38da8cc06fccfdc8e61e97c6bea6e589b9e99a933",
+      "bytes": 4370878,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-fb33bad98e58a936",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\242-弹簧盖\\1.png",
+      "relative_path": "产品图/242-弹簧盖/1.png",
+      "sha256": "e1424d36322be8d674f59d76a29245397c1c62294c964b9ae6369a1502b5913f",
+      "bytes": 4126242,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-41aa66956c08aecf",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\242-弹簧盖\\2.png",
+      "relative_path": "产品图/242-弹簧盖/2.png",
+      "sha256": "e556fa17705e72c1bee4191009f186c1afad9ebec88c6c37a40f4cfc14a82830",
+      "bytes": 2033662,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-5bc2fe685870eb0a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\243-油缸滚轮支架\\1.png",
+      "relative_path": "产品图/243-油缸滚轮支架/1.png",
+      "sha256": "346f0eb91461a54d90f47c561b49da67ee102a166879027bf347bf2626c1f062",
+      "bytes": 1008005,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-38b9006ad8b92f14",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\244-限位锁底座\\1.png",
+      "relative_path": "产品图/244-限位锁底座/1.png",
+      "sha256": "2a35ebdbc3c748d73d77a7778d7fb5ae9f5bc13c789efb1a2c89c399ea99897e",
+      "bytes": 971667,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-9b186acff12ca487",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\245-侧板限位杆\\1.png",
+      "relative_path": "产品图/245-侧板限位杆/1.png",
+      "sha256": "a33548f27a6d387bfc3c0e384371adf26ebafb67171cec6cf32a190449c5b327",
+      "bytes": 508788,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-531482d088c2822d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\245-侧板限位杆\\2.png",
+      "relative_path": "产品图/245-侧板限位杆/2.png",
+      "sha256": "e476bc560eed4871698e5731442f8338122c309c6a2be42de1b6672207602fc7",
+      "bytes": 1998378,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2c4cd0cd18684a6a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\246-侧边限位安装架\\1.png",
+      "relative_path": "产品图/246-侧边限位安装架/1.png",
+      "sha256": "45eeb5959e5b5bb4064b1be201f9c57fb00155c3eece6daf5a535f20b71ff516",
+      "bytes": 602966,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e852bdea46f5d73e",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\247-钢丝轮安装板\\1.png",
+      "relative_path": "产品图/247-钢丝轮安装板/1.png",
+      "sha256": "65cb620579742b3b587d3320d9dc1dfe4841c0ba8611dd71cc64bc06e515b790",
+      "bytes": 633147,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-8314678cc3429238",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\248-缓冲块\\1.png",
+      "relative_path": "产品图/248-缓冲块/1.png",
+      "sha256": "d88bf547718abf5957d452b4aabdbfbb0b2b621c6cb3d2ea05d1a1e0b5b6a867",
+      "bytes": 479911,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-1f0deecfa7be32ca",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\249-油缸座\\1.png",
+      "relative_path": "产品图/249-油缸座/1.png",
+      "sha256": "f7395a5a9b08636c6907888fb4ea31637ea9d217144ae8755ecd64f1c7b2d610",
+      "bytes": 2079097,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-c9342c234f5d3ac9",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\249-油缸座\\2.png",
+      "relative_path": "产品图/249-油缸座/2.png",
+      "sha256": "b0e98c5c2bdfd75517897dcfd3f5f79ec24aa1946bc951686712ce358270df11",
+      "bytes": 3439855,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-65abf0a602c03794",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\250-旋钮开关\\1.png",
+      "relative_path": "产品图/250-旋钮开关/1.png",
+      "sha256": "90a36363b8e60d0013628691a9c28569210f5c018e03a43ef063c9dcb7105b34",
+      "bytes": 392550,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-60947d9ca4d99654",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\251-HY1001小斜坡\\1.png",
+      "relative_path": "产品图/251-HY1001小斜坡/1.png",
+      "sha256": "6f9728751cb0e9c994b0e2b1e72c8135138ca8c9b392ab496adabe0e98e9f465",
+      "bytes": 782123,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-e7a33ab2d3617464",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\252-链条固定轴\\1.png",
+      "relative_path": "产品图/252-链条固定轴/1.png",
+      "sha256": "810bd4f29aaab90ee7da6ca102435184d82f547510bc72ba57b37a6350a06b34",
+      "bytes": 223854,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ba515a1dc2f64964",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\253-长弯\\1.png",
+      "relative_path": "产品图/253-长弯/1.png",
+      "sha256": "4be5f09c20e7728bc72c8ed4b1a85dd095532a694785f4f8c8898447afc802eb",
+      "bytes": 2054363,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-f8ee2b380ad3d840",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\253-长弯\\2.png",
+      "relative_path": "产品图/253-长弯/2.png",
+      "sha256": "f04dd04768efbd681c61b50dc1331aa17ded3561cde391e3328e7184f11c1a6c",
+      "bytes": 1588229,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-0fa5fe9d00e7dac0",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\254-短弯\\1.png",
+      "relative_path": "产品图/254-短弯/1.png",
+      "sha256": "60f5c4b6445449fc9aa98d36333764f23cd287338d9d765b9cb28f36a5d00765",
+      "bytes": 1410521,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-b56c0387b3313ad5",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\254-短弯\\2.png",
+      "relative_path": "产品图/254-短弯/2.png",
+      "sha256": "fbf1892bba98d34088565bd4f64434916ccaa296024ef0bb3b19a705387ccc0d",
+      "bytes": 2041885,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-fec4c0ffc76eff59",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\255-定向套\\1.png",
+      "relative_path": "产品图/255-定向套/1.png",
+      "sha256": "fab55fd3b5af72246289d42094eb0d28620e5ddd1f1bcfd073831d8393fc2dac",
+      "bytes": 1148235,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-01c2f009a062bf60",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\255-定向套\\2.png",
+      "relative_path": "产品图/255-定向套/2.png",
+      "sha256": "8065b3e96104e4630a316be61f1cefd12ebc436ca3e6d8b6c7ae4ec53bca362a",
+      "bytes": 1366409,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2be5c16967b82941",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\256-定向轮\\1.png",
+      "relative_path": "产品图/256-定向轮/1.png",
+      "sha256": "b2dd494195813a393ffe22c7a1429c98f3bbbf2dee1aa42db557ac05f345f0a9",
+      "bytes": 1335188,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-1a0060cf21583586",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\256-定向轮\\2.png",
+      "relative_path": "产品图/256-定向轮/2.png",
+      "sha256": "6782f0b6c6317a2c68a58ab875be8df7ea0efaaaa7c2fa213842200a34d77a55",
+      "bytes": 4376146,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-aabd3162a7685093",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\257-曲柄\\1.png",
+      "relative_path": "产品图/257-曲柄/1.png",
+      "sha256": "1b03aac06299f3ef6eece61268f0c23364e0b222c465bdf69cc0aa26f267eb6a",
+      "bytes": 917525,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-677882ab3d9169b6",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\257-曲柄\\2.png",
+      "relative_path": "产品图/257-曲柄/2.png",
+      "sha256": "f3e190a0f732ea55224aa762758c57bef50b5ede7182971cf0e6734da194a232",
+      "bytes": 1597791,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-5845aac814ecd35e",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\258-X20联轴器外转子\\1.png",
+      "relative_path": "产品图/258-X20联轴器外转子/1.png",
+      "sha256": "f2e74dcc241377e58df94c6a37cbaa3a02580adee56e67752a1458cf1b5605d1",
+      "bytes": 429708,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-5a9ba03e519b2e32",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\258-X20联轴器外转子\\2.png",
+      "relative_path": "产品图/258-X20联轴器外转子/2.png",
+      "sha256": "dc1340461320d697a62943cd9da30b837a1b8cf8ffa22a7f53d77ae47d9c6455",
+      "bytes": 1637509,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d2664f61c69e920e",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\259-X10联轴器外转子\\1.png",
+      "relative_path": "产品图/259-X10联轴器外转子/1.png",
+      "sha256": "e1075413ce99ae60a1ef8d94a3a886fbc34ee59a68dd6fc1ecb8290b3f5c33e0",
+      "bytes": 961788,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-afc08388b7839788",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\259-X10联轴器外转子\\2.png",
+      "relative_path": "产品图/259-X10联轴器外转子/2.png",
+      "sha256": "4a8c1f79c2bc4ddfd78dcd74b358fbea9682f97befd767255eeba92b850f2114",
+      "bytes": 1599019,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d9c8798f6aaaecdb",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\260-保持挚子\\1.png",
+      "relative_path": "产品图/260-保持挚子/1.png",
+      "sha256": "ce604d9e5d5b8c280ac0270b5b5b099dff8053637559de1945aec4a99d42750e",
+      "bytes": 1615688,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-601cb85edf691a78",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\261-转套A\\1.png",
+      "relative_path": "产品图/261-转套A/1.png",
+      "sha256": "e9a652a2d25f37bc902fc4f7f27bff2a116a1dd2b7f3217f19e9b2c134a27cc3",
+      "bytes": 324737,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ebaddceebfc2fe17",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\262-转套B\\1.png",
+      "relative_path": "产品图/262-转套B/1.png",
+      "sha256": "020bb15443165ed0f9959b151dec3469257e4315ee10c66bbd488fcd0d579eb9",
+      "bytes": 282001,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-c1537da704a66792",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\263-2号联轴节\\1.png",
+      "relative_path": "产品图/263-2号联轴节/1.png",
+      "sha256": "48c5cf40019731d857c0c8dd389ead49e545b72f8f082ef13081f25eb06d476d",
+      "bytes": 464229,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ea000844a31fab65",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\264-法兰\\1.png",
+      "relative_path": "产品图/264-法兰/1.png",
+      "sha256": "1887dcfc598b702e4267b43110b847442567ffeab65552fa3857508102560534",
+      "bytes": 1191566,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-68ae2e357080b813",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\265-锁壳\\1.png",
+      "relative_path": "产品图/265-锁壳/1.png",
+      "sha256": "0079021e22fcc9ff950a1ff670eafc6fdedd077d47f816675efec946bc2ba10a",
+      "bytes": 1800778,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-eb17b5878c6d102a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\265-锁壳\\2.png",
+      "relative_path": "产品图/265-锁壳/2.png",
+      "sha256": "5b8454eb8650f5aaaf94fc37ab7b265a67d492c2892f5620dacb0b981b59807b",
+      "bytes": 1538633,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-5efb181c3b10fdf1",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\266-150大阀门\\1.png",
+      "relative_path": "产品图/266-150大阀门/1.png",
+      "sha256": "9b8d3131789f991b6e8090032b6efcea8c9863b8a10750733c8c53acfa2458c0",
+      "bytes": 1121102,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d92299ae9f5f0984",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\266-150大阀门\\2.jpg",
+      "relative_path": "产品图/266-150大阀门/2.jpg",
+      "sha256": "0143b7132bf5e7f26c28faa75be6e164ca8a0da8eecd6f492465c003fd3070bb",
+      "bytes": 915942,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-f1996566d8944899",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\267-手柄\\1.png",
+      "relative_path": "产品图/267-手柄/1.png",
+      "sha256": "051ae6429d4e7062cb6958358edf8df16b67a66189c5a8c80627e61feb840955",
+      "bytes": 774597,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-1cd615fefa997729",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\268-滑块（钢凸键）\\1.png",
+      "relative_path": "产品图/268-滑块（钢凸键）/1.png",
+      "sha256": "b963dc31c63d44dc569ef644c809ed46d2ebc7fab827d949f96a9fbf9e368c88",
+      "bytes": 316829,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-9b928d0ca39b9501",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\268-滑块（钢凸键）\\2.png",
+      "relative_path": "产品图/268-滑块（钢凸键）/2.png",
+      "sha256": "4d53e00644123f805ae61d2f63edecdafa4af894fbf796995eaf5d2cb2fe9b1f",
+      "bytes": 1913924,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d811e9c4dd2158c2",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\269-上夹\\1 - 副本.png",
+      "relative_path": "产品图/269-上夹/1 - 副本.png",
+      "sha256": "eaf39ce10ddcb02311a9ec4524b6f79e7217d04af978cbf535c4a02bdc1e8df8",
+      "bytes": 439113,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-7ef41895a4b9a28a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\269-上夹\\2.png",
+      "relative_path": "产品图/269-上夹/2.png",
+      "sha256": "1a9f6355784a2d56adfbadc5777f5a6fed53e4f297031e5796b541f4ea93aedc",
+      "bytes": 1935776,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a41a2e2e408f60a5",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\269-上夹\\3.jpg",
+      "relative_path": "产品图/269-上夹/3.jpg",
+      "sha256": "ff02de062a2882ac12848472b3608fdd457a94740a97f34f516e337f4fc89d43",
+      "bytes": 939229,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a92e26182ed71634",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\270-铸件\\1.png",
+      "relative_path": "产品图/270-铸件/1.png",
+      "sha256": "6c8e6cbcd6d059dd92e7aa1491d3eb22fa80f934e4d05d2a53c0f062b67e7b39",
+      "bytes": 525288,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-bd0bc2764bf0810f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\270-铸件\\2.png",
+      "relative_path": "产品图/270-铸件/2.png",
+      "sha256": "6ef48b5eb208be0bec31c63a91d4098811163b52c46f4598f8c680ed76f9e04e",
+      "bytes": 3806826,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-90f6fff46a06e75d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\271-铰链\\1.png",
+      "relative_path": "产品图/271-铰链/1.png",
+      "sha256": "95cbb85b82f091153aec8ca8295d7604080a08888f81379249061eae72c5254b",
+      "bytes": 410651,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-80b78c256e885e7a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\271-铰链\\2.png",
+      "relative_path": "产品图/271-铰链/2.png",
+      "sha256": "af8d1651baa3bea2c1e2327fc65e2497da3a57eae4370f5cacca98ddb7a4a176",
+      "bytes": 1813364,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-1ffd100a5c61cd02",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\271-铰链\\3.png",
+      "relative_path": "产品图/271-铰链/3.png",
+      "sha256": "2ed4f021cca761825fbf1b19e89a8d06e5f970262910a25a6cbb42a98b722417",
+      "bytes": 1723048,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-7918db3d93ee2f1c",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\272-钩子\\1.png",
+      "relative_path": "产品图/272-钩子/1.png",
+      "sha256": "40e157cd8f1553d8c9c8cfcd4b0903cc3c7a8f1b5d08a5d6410af04b2103fffb",
+      "bytes": 640943,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-ab909ba7cc9c0518",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\273-抱箍\\1.png",
+      "relative_path": "产品图/273-抱箍/1.png",
+      "sha256": "7bdf2a3c288473c648176ffebc7b407c1adda706797dd5fb8701f8225bcc0b24",
+      "bytes": 322270,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-bc757a64130b63ac",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\274-三层拐臂\\1.jpg",
+      "relative_path": "产品图/274-三层拐臂/1.jpg",
+      "sha256": "856f9f0027d31818b8dccfea8f1ed530cc0bef268effce3c7e9af30457cd5bc1",
+      "bytes": 1311629,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-70936086895646ce",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\274-三层拐臂\\2.jpg",
+      "relative_path": "产品图/274-三层拐臂/2.jpg",
+      "sha256": "000affe22f5fe96a6c8a04cf5b8a3875aff0697f0890281e6897f9d482427df5",
+      "bytes": 838140,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-4394ef11b6136a3f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\275-上下盖\\1.png",
+      "relative_path": "产品图/275-上下盖/1.png",
+      "sha256": "9ec10407b2b21e530c843d6c207453ccad491dde036be59453045de0655ecb05",
+      "bytes": 5552481,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-44f523f6413f378a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\276-五爪\\1 - 副本.png",
+      "relative_path": "产品图/276-五爪/1 - 副本.png",
+      "sha256": "50d609187a0906fce79c478f80dc19656bc354797baa4e4e5cbfaae958a3680f",
+      "bytes": 1336695,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-d3b8c03b8722cd8d",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\276-五爪\\1.png",
+      "relative_path": "产品图/276-五爪/1.png",
+      "sha256": "a36c882027a60714867f23c141e53073d841fddd297b095b7a9c8bc7c3addcf8",
+      "bytes": 1114272,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-a5a352063fa3985f",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\277-握把头\\1.png",
+      "relative_path": "产品图/277-握把头/1.png",
+      "sha256": "965d1ad37838016dbe006e2d813510b6b31d739042e9fdcae2932e5252748ece",
+      "bytes": 632968,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-2b5ee3ecc0cfed7a",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\277-握把头\\2.png",
+      "relative_path": "产品图/277-握把头/2.png",
+      "sha256": "8bda9fa5fea32bf92d74554f6aa4ff72f7310b786ad0f415ac79bd0422cf32c1",
+      "bytes": 2149945,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-31c41345f9aa3841",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\278-螺栓\\1.png",
+      "relative_path": "产品图/278-螺栓/1.png",
+      "sha256": "860d3b6e6718c6dffd008afbfb7de8645a39c69ad6dc877e8e2904558f2591e5",
+      "bytes": 345379,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-3fe1874a97880800",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\278-螺栓\\2.png",
+      "relative_path": "产品图/278-螺栓/2.png",
+      "sha256": "81db05064996981e14d9d4c0ab5b5679629ee6c370cf675f4e2751adedd7550f",
+      "bytes": 2447336,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-193ebd644343e037",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\278-螺栓\\3.png",
+      "relative_path": "产品图/278-螺栓/3.png",
+      "sha256": "055f54dca0274b2004c7cbe62ec06627bd71ed90a06da662d8fb283ffd376023",
+      "bytes": 385730,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-afa5e3f046f9d350",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\279-合体\\1.png",
+      "relative_path": "产品图/279-合体/1.png",
+      "sha256": "af6660a27c1297a4e2391a703eff04d6732fb942f216cc3bfcf19a061bdf45fc",
+      "bytes": 1372644,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-cf6858d657077a17",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\280-导轨弯头\\1.png",
+      "relative_path": "产品图/280-导轨弯头/1.png",
+      "sha256": "4d05ebc9844063fb6a863465173fdd8886f9500ca9b4cbe9983d71d47696b828",
+      "bytes": 1039026,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-4879bf4ae0a72d16",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\281-安装座\\1.png",
+      "relative_path": "产品图/281-安装座/1.png",
+      "sha256": "d1e432abfd23abfab189771d292f765f91b27015aa20f2c4a9d86d28cbc60d0f",
+      "bytes": 303023,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-64ed54dfa205bf04",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\282-VD64支架\\1.png",
+      "relative_path": "产品图/282-VD64支架/1.png",
+      "sha256": "b3779139d4d8425de891d424e2de55d2373490e6df38a024cf320f88d97b1c0f",
+      "bytes": 774823,
+      "purpose": "product-gallery",
+      "customer_fact": true
+    },
+    {
+      "asset_id": "asset-b56203b04ef90f9b",
+      "source_path": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\公司简介.txt",
+      "relative_path": "公司简介.txt",
+      "sha256": "8d8bbb7bab51f1d9e6c8bcde086b17e10a3d51a31c5ea3e8cfbccccd9ef09d9a",
+      "bytes": 694,
+      "purpose": "customer-source",
+      "customer_fact": true
+    }
+  ]
+}

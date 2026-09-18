@@ -1,0 +1,3301 @@
+{
+  "version": 1,
+  "company": {
+    "legal_name_zh": "常州旻欢精密铸造有限公司",
+    "legal_name_en": "Changzhou Minhuan Precision Casting Co., Ltd.",
+    "legal_name_en_status": "derived_direct_translation",
+    "address_zh": "常州市武进区洛阳镇东都西路154号",
+    "email": "yanweiwenlhzz@126.com",
+    "phones": [
+      "13914344192",
+      "13815015042"
+    ],
+    "domain": null
+  },
+  "products": [
+    {
+      "product_key": "product-001",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\1-海底3手动版铸造顶驱架(精铸件)",
+      "source_folder_name": "1-海底3手动版铸造顶驱架(精铸件)",
+      "name_zh": "海底3手动版铸造顶驱架(精铸件)",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\1-海底3手动版铸造顶驱架(精铸件)\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\1-海底3手动版铸造顶驱架(精铸件)\\2.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\1-海底3手动版铸造顶驱架(精铸件)\\3.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\1-海底3手动版铸造顶驱架(精铸件)\\4.jpg"
+      ]
+    },
+    {
+      "product_key": "product-002",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\2-CT U22U40传动固定支座铸造",
+      "source_folder_name": "2-CT U22U40传动固定支座铸造",
+      "name_zh": "CT U22U40传动固定支座铸造",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\2-CT U22U40传动固定支座铸造\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-003",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\3-N3顶驱铸造件毛坯",
+      "source_folder_name": "3-N3顶驱铸造件毛坯",
+      "name_zh": "N3顶驱铸造件毛坯",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\3-N3顶驱铸造件毛坯\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\3-N3顶驱铸造件毛坯\\2.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\3-N3顶驱铸造件毛坯\\3.jpg"
+      ]
+    },
+    {
+      "product_key": "product-004",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\4-HD4顶驱铸造件毛坯",
+      "source_folder_name": "4-HD4顶驱铸造件毛坯",
+      "name_zh": "HD4顶驱铸造件毛坯",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\4-HD4顶驱铸造件毛坯\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\4-HD4顶驱铸造件毛坯\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-005",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\5-HD4顶驱铸造件毛坯",
+      "source_folder_name": "5-HD4顶驱铸造件毛坯",
+      "name_zh": "HD4顶驱铸造件毛坯",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\5-HD4顶驱铸造件毛坯\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\5-HD4顶驱铸造件毛坯\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-006",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\6-前轮法兰盘（18024205）铸造件",
+      "source_folder_name": "6-前轮法兰盘（18024205）铸造件",
+      "name_zh": "前轮法兰盘（18024205）铸造件",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\6-前轮法兰盘（18024205）铸造件\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-007",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\7-电机焊座",
+      "source_folder_name": "7-电机焊座",
+      "name_zh": "电机焊座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\7-电机焊座\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\7-电机焊座\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-008",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\8-DMS防护罩把手铸件",
+      "source_folder_name": "8-DMS防护罩把手铸件",
+      "name_zh": "DMS防护罩把手铸件",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\8-DMS防护罩把手铸件\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\8-DMS防护罩把手铸件\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-009",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\9-N3内侧焊接底板（18024588）",
+      "source_folder_name": "9-N3内侧焊接底板（18024588）",
+      "name_zh": "N3内侧焊接底板（18024588）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\9-N3内侧焊接底板（18024588）\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-010",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\10-压迫板滑块（80504412精铸件)",
+      "source_folder_name": "10-压迫板滑块（80504412精铸件)",
+      "name_zh": "压迫板滑块（80504412精铸件)",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\10-压迫板滑块（80504412精铸件)\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-011",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\11-抱箍",
+      "source_folder_name": "11-抱箍",
+      "name_zh": "抱箍",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\11-抱箍\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\11-抱箍\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-012",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\12-抱箍",
+      "source_folder_name": "12-抱箍",
+      "name_zh": "抱箍",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\12-抱箍\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\12-抱箍\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-013",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\13-保持挚子有台阶新",
+      "source_folder_name": "13-保持挚子有台阶新",
+      "name_zh": "保持挚子有台阶新",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\13-保持挚子有台阶新\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\13-保持挚子有台阶新\\3.jpg"
+      ]
+    },
+    {
+      "product_key": "product-014",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\14-块",
+      "source_folder_name": "14-块",
+      "name_zh": "块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\14-块\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\14-块\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-015",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\15-钮扣35crmo",
+      "source_folder_name": "15-钮扣35crmo",
+      "name_zh": "钮扣35crmo",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\15-钮扣35crmo\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-016",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\16-轴头",
+      "source_folder_name": "16-轴头",
+      "name_zh": "轴头",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\16-轴头\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\16-轴头\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-017",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\17-合闸装置单元",
+      "source_folder_name": "17-合闸装置单元",
+      "name_zh": "合闸装置单元",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\17-合闸装置单元\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\17-合闸装置单元\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-018",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\18-泵盖",
+      "source_folder_name": "18-泵盖",
+      "name_zh": "泵盖",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\18-泵盖\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-019",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\19-叶轮",
+      "source_folder_name": "19-叶轮",
+      "name_zh": "叶轮",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\19-叶轮\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\19-叶轮\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-020",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\20-7字型",
+      "source_folder_name": "20-7字型",
+      "name_zh": "7字型",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\20-7字型\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\20-7字型\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-021",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\21-球",
+      "source_folder_name": "21-球",
+      "name_zh": "球",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\21-球\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\21-球\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-022",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\22-H56底座",
+      "source_folder_name": "22-H56底座",
+      "name_zh": "H56底座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\22-H56底座\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-023",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\23-手枪",
+      "source_folder_name": "23-手枪",
+      "name_zh": "手枪",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\23-手枪\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\23-手枪\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-024",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\24-带桩垫块",
+      "source_folder_name": "24-带桩垫块",
+      "name_zh": "带桩垫块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\24-带桩垫块\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\24-带桩垫块\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-025",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\25-垫块",
+      "source_folder_name": "25-垫块",
+      "name_zh": "垫块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\25-垫块\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\25-垫块\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-026",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\26-小接头",
+      "source_folder_name": "26-小接头",
+      "name_zh": "小接头",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\26-小接头\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\26-小接头\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-027",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\27-连接筒",
+      "source_folder_name": "27-连接筒",
+      "name_zh": "连接筒",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\27-连接筒\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\27-连接筒\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-028",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\28-平插板",
+      "source_folder_name": "28-平插板",
+      "name_zh": "平插板",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\28-平插板\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-029",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\29-支座块",
+      "source_folder_name": "29-支座块",
+      "name_zh": "支座块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\29-支座块\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\29-支座块\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-030",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\30-铸件",
+      "source_folder_name": "30-铸件",
+      "name_zh": "铸件",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\30-铸件\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-031",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\31-套管",
+      "source_folder_name": "31-套管",
+      "name_zh": "套管",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\31-套管\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\31-套管\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-032",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\32-压簧杆",
+      "source_folder_name": "32-压簧杆",
+      "name_zh": "压簧杆",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\32-压簧杆\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-033",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\33-油缓冲拐臂",
+      "source_folder_name": "33-油缓冲拐臂",
+      "name_zh": "油缓冲拐臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\33-油缓冲拐臂\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\33-油缓冲拐臂\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-034",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\34-凸轮",
+      "source_folder_name": "34-凸轮",
+      "name_zh": "凸轮",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\34-凸轮\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\34-凸轮\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-035",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\35-输入保持拐臂",
+      "source_folder_name": "35-输入保持拐臂",
+      "name_zh": "输入保持拐臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\35-输入保持拐臂\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\35-输入保持拐臂\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-036",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\36-脱扣撞击板",
+      "source_folder_name": "36-脱扣撞击板",
+      "name_zh": "脱扣撞击板",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\36-脱扣撞击板\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\36-脱扣撞击板\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-037",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\37-曲柄",
+      "source_folder_name": "37-曲柄",
+      "name_zh": "曲柄",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\37-曲柄\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\37-曲柄\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-038",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\38-焊接拐臂一",
+      "source_folder_name": "38-焊接拐臂一",
+      "name_zh": "焊接拐臂一",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\38-焊接拐臂一\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\38-焊接拐臂一\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-039",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\39-转动拐臂",
+      "source_folder_name": "39-转动拐臂",
+      "name_zh": "转动拐臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\39-转动拐臂\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\39-转动拐臂\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-040",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\40-输出拐臂",
+      "source_folder_name": "40-输出拐臂",
+      "name_zh": "输出拐臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\40-输出拐臂\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\40-输出拐臂\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-041",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\41-输出拐臂",
+      "source_folder_name": "41-输出拐臂",
+      "name_zh": "输出拐臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\41-输出拐臂\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-042",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\42-输出保持拐臂",
+      "source_folder_name": "42-输出保持拐臂",
+      "name_zh": "输出保持拐臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\42-输出保持拐臂\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-043",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\43-输出拐臂CTE9输出拐臂左",
+      "source_folder_name": "43-输出拐臂CTE9输出拐臂左",
+      "name_zh": "输出拐臂CTE9输出拐臂左",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\43-输出拐臂CTE9输出拐臂左\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-044",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\44-输出拐臂CTE9-300",
+      "source_folder_name": "44-输出拐臂CTE9-300",
+      "name_zh": "输出拐臂CTE9-300",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\44-输出拐臂CTE9-300\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\44-输出拐臂CTE9-300\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-045",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\45-法兰盘大",
+      "source_folder_name": "45-法兰盘大",
+      "name_zh": "法兰盘大",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\45-法兰盘大\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\45-法兰盘大\\2.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\45-法兰盘大\\3.jpg"
+      ]
+    },
+    {
+      "product_key": "product-046",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\46-304底座法兰",
+      "source_folder_name": "46-304底座法兰",
+      "name_zh": "304底座法兰",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\46-304底座法兰\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\46-304底座法兰\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-047",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\47-304套筒连接件",
+      "source_folder_name": "47-304套筒连接件",
+      "name_zh": "304套筒连接件",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\47-304套筒连接件\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-048",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\48-304套筒",
+      "source_folder_name": "48-304套筒",
+      "name_zh": "304套筒",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\48-304套筒\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\48-304套筒\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-049",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\49-304圆柱旋转法兰盘",
+      "source_folder_name": "49-304圆柱旋转法兰盘",
+      "name_zh": "304圆柱旋转法兰盘",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\49-304圆柱旋转法兰盘\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\49-304圆柱旋转法兰盘\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-050",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\50-304圆柱连接件",
+      "source_folder_name": "50-304圆柱连接件",
+      "name_zh": "304圆柱连接件",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\50-304圆柱连接件\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-051",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\51-304端盘",
+      "source_folder_name": "51-304端盘",
+      "name_zh": "304端盘",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\51-304端盘\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-052",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\52-304套筒（双臂）",
+      "source_folder_name": "52-304套筒（双臂）",
+      "name_zh": "304套筒（双臂）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\52-304套筒（双臂）\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\52-304套筒（双臂）\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-053",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\53-304套筒A（2度）",
+      "source_folder_name": "53-304套筒A（2度）",
+      "name_zh": "304套筒A（2度）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\53-304套筒A（2度）\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\53-304套筒A（2度）\\2.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\53-304套筒A（2度）\\3.jpg"
+      ]
+    },
+    {
+      "product_key": "product-054",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\54-304套筒B（15度）",
+      "source_folder_name": "54-304套筒B（15度）",
+      "name_zh": "304套筒B（15度）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\54-304套筒B（15度）\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\54-304套筒B（15度）\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-055",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\55-304套筒",
+      "source_folder_name": "55-304套筒",
+      "name_zh": "304套筒",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\55-304套筒\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\55-304套筒\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-056",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\56-304套筒-0度",
+      "source_folder_name": "56-304套筒-0度",
+      "name_zh": "304套筒-0度",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\56-304套筒-0度\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\56-304套筒-0度\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-057",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\57-套头滑块",
+      "source_folder_name": "57-套头滑块",
+      "name_zh": "套头滑块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\57-套头滑块\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-058",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\58-电池盒滑块",
+      "source_folder_name": "58-电池盒滑块",
+      "name_zh": "电池盒滑块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\58-电池盒滑块\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-059",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\59-套头-0度",
+      "source_folder_name": "59-套头-0度",
+      "name_zh": "套头-0度",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\59-套头-0度\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-060",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\60-1¼管卡",
+      "source_folder_name": "60-1¼管卡",
+      "name_zh": "1¼管卡",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\60-1¼管卡\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\60-1¼管卡\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-061",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\61-86型底盒1双孔",
+      "source_folder_name": "61-86型底盒1双孔",
+      "name_zh": "86型底盒1双孔",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\61-86型底盒1双孔\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-062",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\62-86型底盒1单孔",
+      "source_folder_name": "62-86型底盒1单孔",
+      "name_zh": "86型底盒1单孔",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\62-86型底盒1单孔\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-063",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\63-1¼拉线盒LL",
+      "source_folder_name": "63-1¼拉线盒LL",
+      "name_zh": "1¼拉线盒LL",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\63-1¼拉线盒LL\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-064",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\64-1¼拉线盒BC",
+      "source_folder_name": "64-1¼拉线盒BC",
+      "name_zh": "1¼拉线盒BC",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\64-1¼拉线盒BC\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-065",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\65-拐臂",
+      "source_folder_name": "65-拐臂",
+      "name_zh": "拐臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\65-拐臂\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\65-拐臂\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-066",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\66-拐臂",
+      "source_folder_name": "66-拐臂",
+      "name_zh": "拐臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\66-拐臂\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\66-拐臂\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-067",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\67-拐臂",
+      "source_folder_name": "67-拐臂",
+      "name_zh": "拐臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\67-拐臂\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\67-拐臂\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-068",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\68-底座",
+      "source_folder_name": "68-底座",
+      "name_zh": "底座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\68-底座\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\68-底座\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-069",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\69-大伞齿轮",
+      "source_folder_name": "69-大伞齿轮",
+      "name_zh": "大伞齿轮",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\69-大伞齿轮\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\69-大伞齿轮\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-070",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\70-保持挚子",
+      "source_folder_name": "70-保持挚子",
+      "name_zh": "保持挚子",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\70-保持挚子\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-071",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\71-螺纹头",
+      "source_folder_name": "71-螺纹头",
+      "name_zh": "螺纹头",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\71-螺纹头\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\71-螺纹头\\2.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\71-螺纹头\\3.jpg"
+      ]
+    },
+    {
+      "product_key": "product-072",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\72-掣子",
+      "source_folder_name": "72-掣子",
+      "name_zh": "掣子",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\72-掣子\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\72-掣子\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-073",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\73-块",
+      "source_folder_name": "73-块",
+      "name_zh": "块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\73-块\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\73-块\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-074",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\74-凸轮底板导向块",
+      "source_folder_name": "74-凸轮底板导向块",
+      "name_zh": "凸轮底板导向块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\74-凸轮底板导向块\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\74-凸轮底板导向块\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-075",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\75-缓冲器支撑架",
+      "source_folder_name": "75-缓冲器支撑架",
+      "name_zh": "缓冲器支撑架",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\75-缓冲器支撑架\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\75-缓冲器支撑架\\2.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\75-缓冲器支撑架\\3.png"
+      ]
+    },
+    {
+      "product_key": "product-076",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\76-扣板",
+      "source_folder_name": "76-扣板",
+      "name_zh": "扣板",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\76-扣板\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\76-扣板\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-077",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\77-分闸保持挚子",
+      "source_folder_name": "77-分闸保持挚子",
+      "name_zh": "分闸保持挚子",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\77-分闸保持挚子\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-078",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\78-顶轴拐臂",
+      "source_folder_name": "78-顶轴拐臂",
+      "name_zh": "顶轴拐臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\78-顶轴拐臂\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\78-顶轴拐臂\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-079",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\79-下滑块",
+      "source_folder_name": "79-下滑块",
+      "name_zh": "下滑块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\79-下滑块\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-080",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\80-拐臂",
+      "source_folder_name": "80-拐臂",
+      "name_zh": "拐臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\80-拐臂\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\80-拐臂\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-081",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\81-分闸顶板",
+      "source_folder_name": "81-分闸顶板",
+      "name_zh": "分闸顶板",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\81-分闸顶板\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\81-分闸顶板\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-082",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\82-法兰连接拐臂",
+      "source_folder_name": "82-法兰连接拐臂",
+      "name_zh": "法兰连接拐臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\82-法兰连接拐臂\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-083",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\83-铜连接块",
+      "source_folder_name": "83-铜连接块",
+      "name_zh": "铜连接块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\83-铜连接块\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\83-铜连接块\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-084",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\84-限位块",
+      "source_folder_name": "84-限位块",
+      "name_zh": "限位块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\84-限位块\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-085",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\85-合闸顶板",
+      "source_folder_name": "85-合闸顶板",
+      "name_zh": "合闸顶板",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\85-合闸顶板\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\85-合闸顶板\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-086",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\86-轴承座",
+      "source_folder_name": "86-轴承座",
+      "name_zh": "轴承座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\86-轴承座\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-087",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\87-轴承架",
+      "source_folder_name": "87-轴承架",
+      "name_zh": "轴承架",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\87-轴承架\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\87-轴承架\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-088",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\88-托架（支撑盒）",
+      "source_folder_name": "88-托架（支撑盒）",
+      "name_zh": "托架（支撑盒）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\88-托架（支撑盒）\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\88-托架（支撑盒）\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-089",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\89-锁定盘",
+      "source_folder_name": "89-锁定盘",
+      "name_zh": "锁定盘",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\89-锁定盘\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\89-锁定盘\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-090",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\90-合闸保持挚子",
+      "source_folder_name": "90-合闸保持挚子",
+      "name_zh": "合闸保持挚子",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\90-合闸保持挚子\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-091",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\91-KAT02-053A-01V 型接头",
+      "source_folder_name": "91-KAT02-053A-01V 型接头",
+      "name_zh": "KAT02-053A-01V 型接头",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\91-KAT02-053A-01V 型接头\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\91-KAT02-053A-01V 型接头\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-092",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\92-KAT15-024B-03V 型接头",
+      "source_folder_name": "92-KAT15-024B-03V 型接头",
+      "name_zh": "KAT15-024B-03V 型接头",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\92-KAT15-024B-03V 型接头\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\92-KAT15-024B-03V 型接头\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-093",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\93-吊环",
+      "source_folder_name": "93-吊环",
+      "name_zh": "吊环",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\93-吊环\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-094",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\94-皇冠六角",
+      "source_folder_name": "94-皇冠六角",
+      "name_zh": "皇冠六角",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\94-皇冠六角\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\94-皇冠六角\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-095",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\95-小六角",
+      "source_folder_name": "95-小六角",
+      "name_zh": "小六角",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\95-小六角\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-096",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\96-皇冠六角",
+      "source_folder_name": "96-皇冠六角",
+      "name_zh": "皇冠六角",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\96-皇冠六角\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-097",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\97-吊环",
+      "source_folder_name": "97-吊环",
+      "name_zh": "吊环",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\97-吊环\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-098",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\98-限位支架    155215090ROAO",
+      "source_folder_name": "98-限位支架    155215090ROAO",
+      "name_zh": "限位支架    155215090ROAO",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\98-限位支架    155215090ROAO\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-099",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\99-轴",
+      "source_folder_name": "99-轴",
+      "name_zh": "轴",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\99-轴\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\99-轴\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-100",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\100-叶轮",
+      "source_folder_name": "100-叶轮",
+      "name_zh": "叶轮",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\100-叶轮\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\100-叶轮\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-101",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\101-阀体VKQL0060",
+      "source_folder_name": "101-阀体VKQL0060",
+      "name_zh": "阀体VKQL0060",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\101-阀体VKQL0060\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-102",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\102-壳体底座VKQL0060",
+      "source_folder_name": "102-壳体底座VKQL0060",
+      "name_zh": "壳体底座VKQL0060",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\102-壳体底座VKQL0060\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-103",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\103-304滤芯接座",
+      "source_folder_name": "103-304滤芯接座",
+      "name_zh": "304滤芯接座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\103-304滤芯接座\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\103-304滤芯接座\\2.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\103-304滤芯接座\\3.jpg"
+      ]
+    },
+    {
+      "product_key": "product-104",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\104-OMF风机接管",
+      "source_folder_name": "104-OMF风机接管",
+      "name_zh": "OMF风机接管",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\104-OMF风机接管\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\104-OMF风机接管\\2.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\104-OMF风机接管\\3.jpg"
+      ]
+    },
+    {
+      "product_key": "product-105",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\105-壳体底座",
+      "source_folder_name": "105-壳体底座",
+      "name_zh": "壳体底座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\105-壳体底座\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-106",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\106-阀体",
+      "source_folder_name": "106-阀体",
+      "name_zh": "阀体",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\106-阀体\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-107",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\107-阀体DQ80",
+      "source_folder_name": "107-阀体DQ80",
+      "name_zh": "阀体DQ80",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\107-阀体DQ80\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-108",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\108-中通锁止块大",
+      "source_folder_name": "108-中通锁止块大",
+      "name_zh": "中通锁止块大",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\108-中通锁止块大\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-109",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\109-中通锁止块小",
+      "source_folder_name": "109-中通锁止块小",
+      "name_zh": "中通锁止块小",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\109-中通锁止块小\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-110",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\110-锁舌挡块",
+      "source_folder_name": "110-锁舌挡块",
+      "name_zh": "锁舌挡块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\110-锁舌挡块\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\110-锁舌挡块\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-111",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\111-下转臂门板连接板",
+      "source_folder_name": "111-下转臂门板连接板",
+      "name_zh": "下转臂门板连接板",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\111-下转臂门板连接板\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-112",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\112-弯摇臂",
+      "source_folder_name": "112-弯摇臂",
+      "name_zh": "弯摇臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\112-弯摇臂\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-113",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\113-上摆臂座",
+      "source_folder_name": "113-上摆臂座",
+      "name_zh": "上摆臂座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\113-上摆臂座\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\113-上摆臂座\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-114",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\114-弯摇臂座",
+      "source_folder_name": "114-弯摇臂座",
+      "name_zh": "弯摇臂座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\114-弯摇臂座\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\114-弯摇臂座\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-115",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\115-连接叉",
+      "source_folder_name": "115-连接叉",
+      "name_zh": "连接叉",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\115-连接叉\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\115-连接叉\\2.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\115-连接叉\\3.jpg"
+      ]
+    },
+    {
+      "product_key": "product-116",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\116-同步带托架",
+      "source_folder_name": "116-同步带托架",
+      "name_zh": "同步带托架",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\116-同步带托架\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-117",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\117-弯管",
+      "source_folder_name": "117-弯管",
+      "name_zh": "弯管",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\117-弯管\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-118",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\118-锁舌挡块（椭圆形）",
+      "source_folder_name": "118-锁舌挡块（椭圆形）",
+      "name_zh": "锁舌挡块（椭圆形）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\118-锁舌挡块（椭圆形）\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\118-锁舌挡块（椭圆形）\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-119",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\119-锁止块5226",
+      "source_folder_name": "119-锁止块5226",
+      "name_zh": "锁止块5226",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\119-锁止块5226\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\119-锁止块5226\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-120",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\120-锁止块6290",
+      "source_folder_name": "120-锁止块6290",
+      "name_zh": "锁止块6290",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\120-锁止块6290\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\120-锁止块6290\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-121",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\121-T型螺母G",
+      "source_folder_name": "121-T型螺母G",
+      "name_zh": "T型螺母G",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\121-T型螺母G\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\121-T型螺母G\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-122",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\122-门顶锁止块",
+      "source_folder_name": "122-门顶锁止块",
+      "name_zh": "门顶锁止块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\122-门顶锁止块\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\122-门顶锁止块\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-123",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\123-中通锁止块 大",
+      "source_folder_name": "123-中通锁止块 大",
+      "name_zh": "中通锁止块 大",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\123-中通锁止块 大\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-124",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\124-中通锁止块 小",
+      "source_folder_name": "124-中通锁止块 小",
+      "name_zh": "中通锁止块 小",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\124-中通锁止块 小\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-125",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\125-主夹板（抱箍）",
+      "source_folder_name": "125-主夹板（抱箍）",
+      "name_zh": "主夹板（抱箍）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\125-主夹板（抱箍）\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\125-主夹板（抱箍）\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-126",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\126-副夹板（抱箍）",
+      "source_folder_name": "126-副夹板（抱箍）",
+      "name_zh": "副夹板（抱箍）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\126-副夹板（抱箍）\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-127",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\127-锁止块垫片",
+      "source_folder_name": "127-锁止块垫片",
+      "name_zh": "锁止块垫片",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\127-锁止块垫片\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-128",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\128-分闸扣板",
+      "source_folder_name": "128-分闸扣板",
+      "name_zh": "分闸扣板",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\128-分闸扣板\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\128-分闸扣板\\2.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\128-分闸扣板\\3.jpg"
+      ]
+    },
+    {
+      "product_key": "product-129",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\129-凸轮",
+      "source_folder_name": "129-凸轮",
+      "name_zh": "凸轮",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\129-凸轮\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\129-凸轮\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-130",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\130-支座",
+      "source_folder_name": "130-支座",
+      "name_zh": "支座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\130-支座\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-131",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\131-拐臂(合分闸拐臂）",
+      "source_folder_name": "131-拐臂(合分闸拐臂）",
+      "name_zh": "拐臂(合分闸拐臂）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\131-拐臂(合分闸拐臂）\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-132",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\132-钢丝绳固定座左",
+      "source_folder_name": "132-钢丝绳固定座左",
+      "name_zh": "钢丝绳固定座左",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\132-钢丝绳固定座左\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-133",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\133-钢丝绳固定座右",
+      "source_folder_name": "133-钢丝绳固定座右",
+      "name_zh": "钢丝绳固定座右",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\133-钢丝绳固定座右\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-134",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\134-新上导轨弯头",
+      "source_folder_name": "134-新上导轨弯头",
+      "name_zh": "新上导轨弯头",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\134-新上导轨弯头\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-135",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\135-气缸座（三）",
+      "source_folder_name": "135-气缸座（三）",
+      "name_zh": "气缸座（三）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\135-气缸座（三）\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-136",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\136-气缸座（一）",
+      "source_folder_name": "136-气缸座（一）",
+      "name_zh": "气缸座（一）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\136-气缸座（一）\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-137",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\137-气缸座",
+      "source_folder_name": "137-气缸座",
+      "name_zh": "气缸座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\137-气缸座\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-138",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\138-卷轴安装座右",
+      "source_folder_name": "138-卷轴安装座右",
+      "name_zh": "卷轴安装座右",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\138-卷轴安装座右\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-139",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\139-卷轴安装座左",
+      "source_folder_name": "139-卷轴安装座左",
+      "name_zh": "卷轴安装座左",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\139-卷轴安装座左\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-140",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\140-DF11轴承箱",
+      "source_folder_name": "140-DF11轴承箱",
+      "name_zh": "DF11轴承箱",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\140-DF11轴承箱\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-141",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\141-气缸座",
+      "source_folder_name": "141-气缸座",
+      "name_zh": "气缸座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\141-气缸座\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-142",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\142-铜转杆长",
+      "source_folder_name": "142-铜转杆长",
+      "name_zh": "铜转杆长",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\142-铜转杆长\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-143",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\143-铜转杆短",
+      "source_folder_name": "143-铜转杆短",
+      "name_zh": "铜转杆短",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\143-铜转杆短\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\143-铜转杆短\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-144",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\144-小拐臂",
+      "source_folder_name": "144-小拐臂",
+      "name_zh": "小拐臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\144-小拐臂\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-145",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\145-保持挚子",
+      "source_folder_name": "145-保持挚子",
+      "name_zh": "保持挚子",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\145-保持挚子\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-146",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\146-三层拐臂",
+      "source_folder_name": "146-三层拐臂",
+      "name_zh": "三层拐臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\146-三层拐臂\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\146-三层拐臂\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-147",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\147-挚子",
+      "source_folder_name": "147-挚子",
+      "name_zh": "挚子",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\147-挚子\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-148",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\148-扣板",
+      "source_folder_name": "148-扣板",
+      "name_zh": "扣板",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\148-扣板\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-149",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\149-连板",
+      "source_folder_name": "149-连板",
+      "name_zh": "连板",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\149-连板\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\149-连板\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-150",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\150-拐臂",
+      "source_folder_name": "150-拐臂",
+      "name_zh": "拐臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\150-拐臂\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-151",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\151-铁鞋",
+      "source_folder_name": "151-铁鞋",
+      "name_zh": "铁鞋",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\151-铁鞋\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\151-铁鞋\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-152",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\152-方体",
+      "source_folder_name": "152-方体",
+      "name_zh": "方体",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\152-方体\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\152-方体\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-153",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\153-下撑杆架支撑底座",
+      "source_folder_name": "153-下撑杆架支撑底座",
+      "name_zh": "下撑杆架支撑底座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\153-下撑杆架支撑底座\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\153-下撑杆架支撑底座\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-154",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\154-挂枪架底座安装板",
+      "source_folder_name": "154-挂枪架底座安装板",
+      "name_zh": "挂枪架底座安装板",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\154-挂枪架底座安装板\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\154-挂枪架底座安装板\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-155",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\155-扫描器放置架",
+      "source_folder_name": "155-扫描器放置架",
+      "name_zh": "扫描器放置架",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\155-扫描器放置架\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\155-扫描器放置架\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-156",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\156-扫描器架连接架",
+      "source_folder_name": "156-扫描器架连接架",
+      "name_zh": "扫描器架连接架",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\156-扫描器架连接架\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\156-扫描器架连接架\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-157",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\157-称头支撑",
+      "source_folder_name": "157-称头支撑",
+      "name_zh": "称头支撑",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\157-称头支撑\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\157-称头支撑\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-158",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\158-挂枪杆连接座",
+      "source_folder_name": "158-挂枪杆连接座",
+      "name_zh": "挂枪杆连接座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\158-挂枪杆连接座\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-159",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\159-调节座",
+      "source_folder_name": "159-调节座",
+      "name_zh": "调节座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\159-调节座\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-160",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\160-铸件",
+      "source_folder_name": "160-铸件",
+      "name_zh": "铸件",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\160-铸件\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-161",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\161-夹头体",
+      "source_folder_name": "161-夹头体",
+      "name_zh": "夹头体",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\161-夹头体\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-162",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\162-夹头盖",
+      "source_folder_name": "162-夹头盖",
+      "name_zh": "夹头盖",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\162-夹头盖\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-163",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\163-抱箍",
+      "source_folder_name": "163-抱箍",
+      "name_zh": "抱箍",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\163-抱箍\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\163-抱箍\\2.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\163-抱箍\\3.jpg"
+      ]
+    },
+    {
+      "product_key": "product-164",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\164-锁止块",
+      "source_folder_name": "164-锁止块",
+      "name_zh": "锁止块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\164-锁止块\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-165",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\165-左大丝杠前固定架",
+      "source_folder_name": "165-左大丝杠前固定架",
+      "name_zh": "左大丝杠前固定架",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\165-左大丝杠前固定架\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\165-左大丝杠前固定架\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-166",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\166-立柱上转轴头",
+      "source_folder_name": "166-立柱上转轴头",
+      "name_zh": "立柱上转轴头",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\166-立柱上转轴头\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\166-立柱上转轴头\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-167",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\167-摆臂",
+      "source_folder_name": "167-摆臂",
+      "name_zh": "摆臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\167-摆臂\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\167-摆臂\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-168",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\168-铰链（含芯棒）",
+      "source_folder_name": "168-铰链（含芯棒）",
+      "name_zh": "铰链（含芯棒）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\168-铰链（含芯棒）\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-169",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\169-右门上限位块",
+      "source_folder_name": "169-右门上限位块",
+      "name_zh": "右门上限位块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\169-右门上限位块\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-170",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\170-左门上限位块",
+      "source_folder_name": "170-左门上限位块",
+      "name_zh": "左门上限位块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\170-左门上限位块\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-171",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\171-结合齿",
+      "source_folder_name": "171-结合齿",
+      "name_zh": "结合齿",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\171-结合齿\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-172",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\172-整体式旋风子",
+      "source_folder_name": "172-整体式旋风子",
+      "name_zh": "整体式旋风子",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\172-整体式旋风子\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\172-整体式旋风子\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-173",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\173-整体式旋风管",
+      "source_folder_name": "173-整体式旋风管",
+      "name_zh": "整体式旋风管",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\173-整体式旋风管\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-174",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\174-整体式旋风子（轴流式）",
+      "source_folder_name": "174-整体式旋风子（轴流式）",
+      "name_zh": "整体式旋风子（轴流式）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\174-整体式旋风子（轴流式）\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-175",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\175-码盘座",
+      "source_folder_name": "175-码盘座",
+      "name_zh": "码盘座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\175-码盘座\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-176",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\176-调焦筒",
+      "source_folder_name": "176-调焦筒",
+      "name_zh": "调焦筒",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\176-调焦筒\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-177",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\177-特大手柄",
+      "source_folder_name": "177-特大手柄",
+      "name_zh": "特大手柄",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\177-特大手柄\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\177-特大手柄\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-178",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\178-大孔大手柄",
+      "source_folder_name": "178-大孔大手柄",
+      "name_zh": "大孔大手柄",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\178-大孔大手柄\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\178-大孔大手柄\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-179",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\179-小孔大手柄",
+      "source_folder_name": "179-小孔大手柄",
+      "name_zh": "小孔大手柄",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\179-小孔大手柄\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-180",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\180-小手柄",
+      "source_folder_name": "180-小手柄",
+      "name_zh": "小手柄",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\180-小手柄\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\180-小手柄\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-181",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\181-前进撞块",
+      "source_folder_name": "181-前进撞块",
+      "name_zh": "前进撞块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\181-前进撞块\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\181-前进撞块\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-182",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\182-夹紧器连接块",
+      "source_folder_name": "182-夹紧器连接块",
+      "name_zh": "夹紧器连接块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\182-夹紧器连接块\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\182-夹紧器连接块\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-183",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\183-前进撞块",
+      "source_folder_name": "183-前进撞块",
+      "name_zh": "前进撞块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\183-前进撞块\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\183-前进撞块\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-184",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\184-配重支架",
+      "source_folder_name": "184-配重支架",
+      "name_zh": "配重支架",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\184-配重支架\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-185",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\185-人字座",
+      "source_folder_name": "185-人字座",
+      "name_zh": "人字座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\185-人字座\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-186",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\186-大减压阀",
+      "source_folder_name": "186-大减压阀",
+      "name_zh": "大减压阀",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\186-大减压阀\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-187",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\187-大减压阀底座",
+      "source_folder_name": "187-大减压阀底座",
+      "name_zh": "大减压阀底座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\187-大减压阀底座\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-188",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\188-3-4Y型过滤器",
+      "source_folder_name": "188-3-4Y型过滤器",
+      "name_zh": "3-4Y型过滤器",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\188-3-4Y型过滤器\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-189",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\189-减压阀螺帽",
+      "source_folder_name": "189-减压阀螺帽",
+      "name_zh": "减压阀螺帽",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\189-减压阀螺帽\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-190",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\190-小件",
+      "source_folder_name": "190-小件",
+      "name_zh": "小件",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\190-小件\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-191",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\191-连接套",
+      "source_folder_name": "191-连接套",
+      "name_zh": "连接套",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\191-连接套\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-192",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\192-升降配重",
+      "source_folder_name": "192-升降配重",
+      "name_zh": "升降配重",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\192-升降配重\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\192-升降配重\\2.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\192-升降配重\\3.png"
+      ]
+    },
+    {
+      "product_key": "product-193",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\193-止退楔块-右",
+      "source_folder_name": "193-止退楔块-右",
+      "name_zh": "止退楔块-右",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\193-止退楔块-右\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-194",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\194-止退楔块-左",
+      "source_folder_name": "194-止退楔块-左",
+      "name_zh": "止退楔块-左",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\194-止退楔块-左\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-195",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\195-升降爪",
+      "source_folder_name": "195-升降爪",
+      "name_zh": "升降爪",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\195-升降爪\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-196",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\196-止退配重",
+      "source_folder_name": "196-止退配重",
+      "name_zh": "止退配重",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\196-止退配重\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\196-止退配重\\2.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\196-止退配重\\3.png"
+      ]
+    },
+    {
+      "product_key": "product-197",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\197-推头",
+      "source_folder_name": "197-推头",
+      "name_zh": "推头",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\197-推头\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\197-推头\\2.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\197-推头\\3.png"
+      ]
+    },
+    {
+      "product_key": "product-198",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\198-回转体",
+      "source_folder_name": "198-回转体",
+      "name_zh": "回转体",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\198-回转体\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\198-回转体\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-199",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\199-固定块",
+      "source_folder_name": "199-固定块",
+      "name_zh": "固定块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\199-固定块\\1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-200",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\200-304短扶手座",
+      "source_folder_name": "200-304短扶手座",
+      "name_zh": "304短扶手座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\200-304短扶手座\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-201",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\201-304长扶手座",
+      "source_folder_name": "201-304长扶手座",
+      "name_zh": "304长扶手座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\201-304长扶手座\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-202",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\202-锁壳盒左",
+      "source_folder_name": "202-锁壳盒左",
+      "name_zh": "锁壳盒左",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\202-锁壳盒左\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-203",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\203-锁壳盒右",
+      "source_folder_name": "203-锁壳盒右",
+      "name_zh": "锁壳盒右",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\203-锁壳盒右\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-204",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\204-长弯",
+      "source_folder_name": "204-长弯",
+      "name_zh": "长弯",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\204-长弯\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\204-长弯\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-205",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\205-短弯",
+      "source_folder_name": "205-短弯",
+      "name_zh": "短弯",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\205-短弯\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\205-短弯\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-206",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\206-传动轮安装座",
+      "source_folder_name": "206-传动轮安装座",
+      "name_zh": "传动轮安装座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\206-传动轮安装座\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\206-传动轮安装座\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-207",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\207-铸件",
+      "source_folder_name": "207-铸件",
+      "name_zh": "铸件",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\207-铸件\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\207-铸件\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-208",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\208-铸件",
+      "source_folder_name": "208-铸件",
+      "name_zh": "铸件",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\208-铸件\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-209",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\209-铸件",
+      "source_folder_name": "209-铸件",
+      "name_zh": "铸件",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\209-铸件\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-210",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\210-铸件",
+      "source_folder_name": "210-铸件",
+      "name_zh": "铸件",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\210-铸件\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\210-铸件\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-211",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\211-面板",
+      "source_folder_name": "211-面板",
+      "name_zh": "面板",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\211-面板\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-212",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\212-锁壳",
+      "source_folder_name": "212-锁壳",
+      "name_zh": "锁壳",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\212-锁壳\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\212-锁壳\\2.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\212-锁壳\\3.png"
+      ]
+    },
+    {
+      "product_key": "product-213",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\213-铸件（固定板）",
+      "source_folder_name": "213-铸件（固定板）",
+      "name_zh": "铸件（固定板）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\213-铸件（固定板）\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\213-铸件（固定板）\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-214",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\214-弹簧挂板",
+      "source_folder_name": "214-弹簧挂板",
+      "name_zh": "弹簧挂板",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\214-弹簧挂板\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\214-弹簧挂板\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-215",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\215-凸轮",
+      "source_folder_name": "215-凸轮",
+      "name_zh": "凸轮",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\215-凸轮\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\215-凸轮\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-216",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\216-凸轮",
+      "source_folder_name": "216-凸轮",
+      "name_zh": "凸轮",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\216-凸轮\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-217",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\217-机身",
+      "source_folder_name": "217-机身",
+      "name_zh": "机身",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\217-机身\\未标题-1.jpg"
+      ]
+    },
+    {
+      "product_key": "product-218",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\218-法兰筒",
+      "source_folder_name": "218-法兰筒",
+      "name_zh": "法兰筒",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\218-法兰筒\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\218-法兰筒\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-219",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\219-储能拐臂",
+      "source_folder_name": "219-储能拐臂",
+      "name_zh": "储能拐臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\219-储能拐臂\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\219-储能拐臂\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-220",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\220-右限位块",
+      "source_folder_name": "220-右限位块",
+      "name_zh": "右限位块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\220-右限位块\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-221",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\221-下基体",
+      "source_folder_name": "221-下基体",
+      "name_zh": "下基体",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\221-下基体\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\221-下基体\\2.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\221-下基体\\3.png"
+      ]
+    },
+    {
+      "product_key": "product-222",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\222-上基体",
+      "source_folder_name": "222-上基体",
+      "name_zh": "上基体",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\222-上基体\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-223",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\223-钩子",
+      "source_folder_name": "223-钩子",
+      "name_zh": "钩子",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\223-钩子\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-224",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\224-小叶片",
+      "source_folder_name": "224-小叶片",
+      "name_zh": "小叶片",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\224-小叶片\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\224-小叶片\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-225",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\225-外经192",
+      "source_folder_name": "225-外经192",
+      "name_zh": "外经192",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\225-外经192\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\225-外经192\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-226",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\226-16Y141 25#钢铸件",
+      "source_folder_name": "226-16Y141 25#钢铸件",
+      "name_zh": "16Y141 25#钢铸件",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\226-16Y141 25#钢铸件\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-227",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\227-输出轴",
+      "source_folder_name": "227-输出轴",
+      "name_zh": "输出轴",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\227-输出轴\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\227-输出轴\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-228",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\228-保持架",
+      "source_folder_name": "228-保持架",
+      "name_zh": "保持架",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\228-保持架\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\228-保持架\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-229",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\229-主轴传动杆",
+      "source_folder_name": "229-主轴传动杆",
+      "name_zh": "主轴传动杆",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\229-主轴传动杆\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\229-主轴传动杆\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-230",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\230-法兰304",
+      "source_folder_name": "230-法兰304",
+      "name_zh": "法兰304",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\230-法兰304\\1 - 副本.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\230-法兰304\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\230-法兰304\\2.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\230-法兰304\\3.png"
+      ]
+    },
+    {
+      "product_key": "product-231",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\231-托轮支架",
+      "source_folder_name": "231-托轮支架",
+      "name_zh": "托轮支架",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\231-托轮支架\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\231-托轮支架\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-232",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\232-托轮板（中号）",
+      "source_folder_name": "232-托轮板（中号）",
+      "name_zh": "托轮板（中号）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\232-托轮板（中号）\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-233",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\233-托轮板（大号）",
+      "source_folder_name": "233-托轮板（大号）",
+      "name_zh": "托轮板（大号）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\233-托轮板（大号）\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\233-托轮板（大号）\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-234",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\234-牵引支架",
+      "source_folder_name": "234-牵引支架",
+      "name_zh": "牵引支架",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\234-牵引支架\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-235",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\235-扁铁（小号）",
+      "source_folder_name": "235-扁铁（小号）",
+      "name_zh": "扁铁（小号）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\235-扁铁（小号）\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-236",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\236-托轮牵引支架",
+      "source_folder_name": "236-托轮牵引支架",
+      "name_zh": "托轮牵引支架",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\236-托轮牵引支架\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\236-托轮牵引支架\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-237",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\237-托轮板（老）",
+      "source_folder_name": "237-托轮板（老）",
+      "name_zh": "托轮板（老）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\237-托轮板（老）\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-238",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\238-扁铁（大号）",
+      "source_folder_name": "238-扁铁（大号）",
+      "name_zh": "扁铁（大号）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\238-扁铁（大号）\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-239",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\239-拐臂051",
+      "source_folder_name": "239-拐臂051",
+      "name_zh": "拐臂051",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\239-拐臂051\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\239-拐臂051\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-240",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\240-拐臂056",
+      "source_folder_name": "240-拐臂056",
+      "name_zh": "拐臂056",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\240-拐臂056\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\240-拐臂056\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-241",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\241-拐臂050",
+      "source_folder_name": "241-拐臂050",
+      "name_zh": "拐臂050",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\241-拐臂050\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\241-拐臂050\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-242",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\242-弹簧盖",
+      "source_folder_name": "242-弹簧盖",
+      "name_zh": "弹簧盖",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\242-弹簧盖\\1 - 副本.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\242-弹簧盖\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\242-弹簧盖\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-243",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\243-油缸滚轮支架",
+      "source_folder_name": "243-油缸滚轮支架",
+      "name_zh": "油缸滚轮支架",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\243-油缸滚轮支架\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-244",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\244-限位锁底座",
+      "source_folder_name": "244-限位锁底座",
+      "name_zh": "限位锁底座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\244-限位锁底座\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-245",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\245-侧板限位杆",
+      "source_folder_name": "245-侧板限位杆",
+      "name_zh": "侧板限位杆",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\245-侧板限位杆\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\245-侧板限位杆\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-246",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\246-侧边限位安装架",
+      "source_folder_name": "246-侧边限位安装架",
+      "name_zh": "侧边限位安装架",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\246-侧边限位安装架\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-247",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\247-钢丝轮安装板",
+      "source_folder_name": "247-钢丝轮安装板",
+      "name_zh": "钢丝轮安装板",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\247-钢丝轮安装板\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-248",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\248-缓冲块",
+      "source_folder_name": "248-缓冲块",
+      "name_zh": "缓冲块",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\248-缓冲块\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-249",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\249-油缸座",
+      "source_folder_name": "249-油缸座",
+      "name_zh": "油缸座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\249-油缸座\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\249-油缸座\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-250",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\250-旋钮开关",
+      "source_folder_name": "250-旋钮开关",
+      "name_zh": "旋钮开关",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\250-旋钮开关\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-251",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\251-HY1001小斜坡",
+      "source_folder_name": "251-HY1001小斜坡",
+      "name_zh": "HY1001小斜坡",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\251-HY1001小斜坡\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-252",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\252-链条固定轴",
+      "source_folder_name": "252-链条固定轴",
+      "name_zh": "链条固定轴",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\252-链条固定轴\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-253",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\253-长弯",
+      "source_folder_name": "253-长弯",
+      "name_zh": "长弯",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\253-长弯\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\253-长弯\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-254",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\254-短弯",
+      "source_folder_name": "254-短弯",
+      "name_zh": "短弯",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\254-短弯\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\254-短弯\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-255",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\255-定向套",
+      "source_folder_name": "255-定向套",
+      "name_zh": "定向套",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\255-定向套\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\255-定向套\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-256",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\256-定向轮",
+      "source_folder_name": "256-定向轮",
+      "name_zh": "定向轮",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\256-定向轮\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\256-定向轮\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-257",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\257-曲柄",
+      "source_folder_name": "257-曲柄",
+      "name_zh": "曲柄",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\257-曲柄\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\257-曲柄\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-258",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\258-X20联轴器外转子",
+      "source_folder_name": "258-X20联轴器外转子",
+      "name_zh": "X20联轴器外转子",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\258-X20联轴器外转子\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\258-X20联轴器外转子\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-259",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\259-X10联轴器外转子",
+      "source_folder_name": "259-X10联轴器外转子",
+      "name_zh": "X10联轴器外转子",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\259-X10联轴器外转子\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\259-X10联轴器外转子\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-260",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\260-保持挚子",
+      "source_folder_name": "260-保持挚子",
+      "name_zh": "保持挚子",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\260-保持挚子\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-261",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\261-转套A",
+      "source_folder_name": "261-转套A",
+      "name_zh": "转套A",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\261-转套A\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-262",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\262-转套B",
+      "source_folder_name": "262-转套B",
+      "name_zh": "转套B",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\262-转套B\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-263",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\263-2号联轴节",
+      "source_folder_name": "263-2号联轴节",
+      "name_zh": "2号联轴节",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\263-2号联轴节\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-264",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\264-法兰",
+      "source_folder_name": "264-法兰",
+      "name_zh": "法兰",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\264-法兰\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-265",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\265-锁壳",
+      "source_folder_name": "265-锁壳",
+      "name_zh": "锁壳",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\265-锁壳\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\265-锁壳\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-266",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\266-150大阀门",
+      "source_folder_name": "266-150大阀门",
+      "name_zh": "150大阀门",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\266-150大阀门\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\266-150大阀门\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-267",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\267-手柄",
+      "source_folder_name": "267-手柄",
+      "name_zh": "手柄",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\267-手柄\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-268",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\268-滑块（钢凸键）",
+      "source_folder_name": "268-滑块（钢凸键）",
+      "name_zh": "滑块（钢凸键）",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\268-滑块（钢凸键）\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\268-滑块（钢凸键）\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-269",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\269-上夹",
+      "source_folder_name": "269-上夹",
+      "name_zh": "上夹",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\269-上夹\\1 - 副本.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\269-上夹\\2.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\269-上夹\\3.jpg"
+      ]
+    },
+    {
+      "product_key": "product-270",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\270-铸件",
+      "source_folder_name": "270-铸件",
+      "name_zh": "铸件",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\270-铸件\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\270-铸件\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-271",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\271-铰链",
+      "source_folder_name": "271-铰链",
+      "name_zh": "铰链",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\271-铰链\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\271-铰链\\2.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\271-铰链\\3.png"
+      ]
+    },
+    {
+      "product_key": "product-272",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\272-钩子",
+      "source_folder_name": "272-钩子",
+      "name_zh": "钩子",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\272-钩子\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-273",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\273-抱箍",
+      "source_folder_name": "273-抱箍",
+      "name_zh": "抱箍",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\273-抱箍\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-274",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\274-三层拐臂",
+      "source_folder_name": "274-三层拐臂",
+      "name_zh": "三层拐臂",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\274-三层拐臂\\1.jpg",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\274-三层拐臂\\2.jpg"
+      ]
+    },
+    {
+      "product_key": "product-275",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\275-上下盖",
+      "source_folder_name": "275-上下盖",
+      "name_zh": "上下盖",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\275-上下盖\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-276",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\276-五爪",
+      "source_folder_name": "276-五爪",
+      "name_zh": "五爪",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\276-五爪\\1 - 副本.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\276-五爪\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-277",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\277-握把头",
+      "source_folder_name": "277-握把头",
+      "name_zh": "握把头",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\277-握把头\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\277-握把头\\2.png"
+      ]
+    },
+    {
+      "product_key": "product-278",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\278-螺栓",
+      "source_folder_name": "278-螺栓",
+      "name_zh": "螺栓",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\278-螺栓\\1.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\278-螺栓\\2.png",
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\278-螺栓\\3.png"
+      ]
+    },
+    {
+      "product_key": "product-279",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\279-合体",
+      "source_folder_name": "279-合体",
+      "name_zh": "合体",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\279-合体\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-280",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\280-导轨弯头",
+      "source_folder_name": "280-导轨弯头",
+      "name_zh": "导轨弯头",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\280-导轨弯头\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-281",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\281-安装座",
+      "source_folder_name": "281-安装座",
+      "name_zh": "安装座",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\281-安装座\\1.png"
+      ]
+    },
+    {
+      "product_key": "product-282",
+      "source_folder": "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\282-VD64支架",
+      "source_folder_name": "282-VD64支架",
+      "name_zh": "VD64支架",
+      "name_en": "",
+      "category_zh": "精密铸造 / 机械加工 / 通用零部件铸造",
+      "images": [
+        "D:\\Cursor\\暂存\\1499-常州旻欢精密铸造对接群\\产品图\\282-VD64支架\\1.png"
+      ]
+    }
+  ],
+  "target_pages": [
+    "/",
+    "/about",
+    "/products",
+    "/products/[slug]",
+    "/capabilities",
+    "/news",
+    "/news/[slug]",
+    "/contact"
+  ],
+  "asset_ledger": "D:\\Cursor\\Grand\\minhuancasting\\.codex-delivery\\asset-ledger.json"
+}
