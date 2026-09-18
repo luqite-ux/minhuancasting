@@ -72,21 +72,23 @@ export function HeroCarousel() {
             aria-hidden={index !== active}
             className={`hero-slide absolute inset-0 ${index === active ? "is-active" : ""}`}
           >
-            <Image
-              src={slide.image}
-              alt={slide.alt}
-              fill
-              priority={index === 0}
-              sizes="100vw"
-              className={`object-cover ${slide.mobilePosition} lg:object-center`}
-            />
+            <div className="absolute inset-x-0 top-0 h-[300px] overflow-hidden sm:inset-0 sm:h-auto">
+              <Image
+                src={slide.image}
+                alt={slide.alt}
+                fill
+                priority={index === 0}
+                sizes="100vw"
+                className={`object-cover ${slide.mobilePosition} lg:object-center`}
+              />
+            </div>
 
             <div
               className={`relative mx-auto flex min-h-[780px] max-w-7xl items-end px-4 pb-24 pt-56 sm:min-h-[620px] sm:px-6 sm:pb-24 sm:pt-24 lg:min-h-[650px] lg:items-center lg:px-8 lg:py-24 ${
                 slide.align === "right" ? "lg:justify-end" : "lg:justify-start"
               }`}
             >
-              <div className="hero-copy-panel w-full max-w-xl border-l-4 border-accent bg-surface-teal-deep/92 px-6 py-7 text-surface-graphite-foreground shadow-2xl sm:px-8 sm:py-9">
+              <div className="hero-copy-panel w-full max-w-xl border-l-4 border-accent bg-surface-teal-deep px-6 py-7 text-surface-graphite-foreground shadow-2xl sm:bg-surface-teal-deep/92 sm:px-8 sm:py-9">
                 <p className="text-xs font-semibold uppercase tracking-[0.18em] text-accent sm:text-sm">
                   {slide.eyebrow}
                 </p>
