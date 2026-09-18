@@ -11,7 +11,6 @@ export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: { default: 'MINHUAN JINGZHU | Precision Casting and Machining', template: '%s | MINHUAN JINGZHU' },
   description: 'Precision cast and machined components manufactured to buyer drawings by Changzhou Minhuan Precision Casting Co., Ltd.',
-  alternates: { canonical: '/' },
   openGraph: { title: 'MINHUAN JINGZHU | Precision Casting and Machining', description: 'Explore 282 documented precision-cast and machined component references.', type: 'website', url: SITE_URL, images: ['/images/hero-casting-line.jpg'] },
   twitter: { card: 'summary_large_image', images: ['/images/hero-casting-line.jpg'] },
 }

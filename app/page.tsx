@@ -1,3 +1,4 @@
+import type { Metadata } from "next"
 import Image from "next/image"
 import Link from "next/link"
 import { ArrowRight, Factory, Gauge, Ruler, ShieldCheck } from "lucide-react"
@@ -10,6 +11,10 @@ import { COMPANY } from "@/lib/site-config"
 import { getAllProducts } from "@/lib/products-db"
 
 export const revalidate = 60
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/" },
+}
 
 const HERO_IMAGES = [
   { src: "/images/hero-casting-line.jpg", alt: "Precision casting production line at Minhuan" },

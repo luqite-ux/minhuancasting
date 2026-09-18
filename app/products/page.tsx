@@ -13,6 +13,7 @@ export const revalidate = 60
 export const metadata: Metadata = {
   title: "Product Catalogue",
   description: `Browse all ${COMPANY.catalogueSize} verified ${COMPANY.shortName} product references for precision castings and machined mechanical components.`,
+  alternates: { canonical: "/products" },
 }
 
 export default async function ProductsPage() {

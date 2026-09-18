@@ -11,6 +11,7 @@ import { COMPANY } from "@/lib/site-config"
 export const metadata: Metadata = {
   title: "Contact & RFQ",
   description: `Send a drawing-based casting or machining enquiry to ${COMPANY.legalNameEn}.`,
+  alternates: { canonical: "/contact" },
 }
 
 export default function ContactPage() {

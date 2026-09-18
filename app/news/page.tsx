@@ -15,6 +15,7 @@ export const revalidate = 60
 export const metadata: Metadata = {
   title: "News",
   description: `Company news and updates from ${COMPANY.shortName}.`,
+  alternates: { canonical: "/news" },
 }
 
 export default async function NewsPage() {

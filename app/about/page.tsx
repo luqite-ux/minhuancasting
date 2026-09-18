@@ -11,6 +11,7 @@ import { COMPANY } from "@/lib/site-config"
 export const metadata: Metadata = {
   title: "About Us",
   description: `${COMPANY.legalNameEn} — company background, location and contact details.`,
+  alternates: { canonical: "/about" },
 }
 
 const FACTS = [

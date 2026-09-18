@@ -11,6 +11,7 @@ import { COMPANY } from "@/lib/site-config"
 export const metadata: Metadata = {
   title: "Capabilities",
   description: `Manufacturing process and capabilities at ${COMPANY.shortName}.`,
+  alternates: { canonical: "/capabilities" },
 }
 
 const PROCESS_STAGES = [
