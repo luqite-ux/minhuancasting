@@ -12,6 +12,26 @@ type SectionRevealProps = {
   stagger?: boolean
 }
 
+function RevealItem({ children, index }: { children: ReactNode; index: number }) {
+  const [motionReady, setMotionReady] = useState(false)
+  const { ref, isInView } = useInView<HTMLDivElement>()
+
+  useEffect(() => {
+    setMotionReady(true)
+  }, [])
+
+  return (
+    <div
+      ref={ref}
+      data-motion-ready={motionReady || undefined}
+      className={`h-full${motionReady ? ` reveal${isInView ? " is-visible" : ""}` : ""}`}
+      style={motionReady ? { transitionDelay: `${Math.min(index, 5) * 60}ms` } : undefined}
+    >
+      {children}
+    </div>
+  )
+}
+
 /**
  * MOT-MINHUAN-03 — Catalogue section reveal.
  *
@@ -32,19 +52,11 @@ export function SectionReveal({ children, className, as = "div", stagger = false
 
   if (stagger && items) {
     return (
-      <Tag
-        ref={ref as any}
-        data-motion-ready={motionReady || undefined}
-        className={className}
-      >
+      <Tag className={className}>
         {items.map((child, index) => (
-          <div
-            key={isValidElement(child) && child.key != null ? child.key : index}
-            className={`h-full${motionReady ? ` reveal${isInView ? " is-visible" : ""}` : ""}`}
-            style={motionReady ? { transitionDelay: `${Math.min(index, 5) * 60}ms` } : undefined}
-          >
+          <RevealItem key={isValidElement(child) && child.key != null ? child.key : index} index={index}>
             {child}
-          </div>
+          </RevealItem>
         ))}
       </Tag>
     )
