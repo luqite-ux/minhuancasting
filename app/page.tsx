@@ -110,17 +110,17 @@ export default async function HomePage() {
               </Link>
             </SectionReveal>
 
-            <SectionReveal stagger className="grid grid-cols-2 gap-4 sm:gap-5">
-              {catalogueStoryProducts.map((product, index) => {
+            <SectionReveal stagger className="grid gap-4 sm:grid-cols-3 sm:gap-5">
+              {catalogueStoryProducts.map((product) => {
                 const image = product.images[0]
                 return (
                   <Link
                     key={product.slug}
                     href={`/products/${product.slug}`}
-                    className={`group border border-border bg-card p-3 shadow-sm ${index === 0 ? "col-span-2" : ""}`}
+                    className="group block h-full border border-border bg-card p-3 shadow-sm"
                   >
-                    <div className={`relative overflow-hidden bg-white ${index === 0 ? "aspect-[2/1]" : "aspect-square"}`}>
-                      {image && <Image src={image.src} alt={image.alt || product.name} fill className="object-contain transition-transform duration-500 group-hover:scale-[1.035]" sizes={index === 0 ? "(min-width: 1024px) 46vw, 92vw" : "(min-width: 1024px) 22vw, 44vw"} />}
+                    <div className="relative aspect-square overflow-hidden bg-white">
+                      {image && <Image src={image.src} alt={image.alt || product.name} fill className="object-contain transition-transform duration-500 group-hover:scale-[1.035]" sizes="(min-width: 1024px) 15vw, (min-width: 640px) 30vw, 92vw" />}
                     </div>
                     <div className="flex items-start justify-between gap-3 px-1 pb-1 pt-4">
                       <div>
