@@ -1,6 +1,7 @@
 import type { Metadata } from "next"
+import Image from "next/image"
 import Link from "next/link"
-import { ArrowRight, Boxes, ClipboardCheck, Cog, Factory, FileSearch, Gauge, PackageCheck, Ruler } from "lucide-react"
+import { ArrowRight, Boxes, ClipboardCheck, Cog, Factory, FileSearch, Gauge, Layers3, MapPin, PackageCheck, Ruler } from "lucide-react"
 import { Header } from "@/components/site/header"
 import { Footer } from "@/components/site/footer"
 import { HeroCarousel } from "@/components/site/hero-carousel"
@@ -8,6 +9,7 @@ import { SectionHeading } from "@/components/site/section-heading"
 import { ProductCard } from "@/components/site/product-card"
 import { SectionReveal } from "@/components/motion/section-reveal"
 import { COMPANY } from "@/lib/site-config"
+import type { Product } from "@/lib/catalog-types"
 import { getAllProducts } from "@/lib/products-db"
 
 export const revalidate = 60
@@ -28,8 +30,19 @@ const PROCESS_STAGES = [
   { icon: PackageCheck, step: "04", title: "Inspection & dispatch", description: "Finished parts are checked against the agreed requirement before packing and dispatch." },
 ]
 
+function selectRepresentativeProducts(products: Product[], count = 8) {
+  if (products.length <= count) return products
+
+  return Array.from({ length: count }, (_, index) => {
+    const position = Math.round((index * (products.length - 1)) / (count - 1))
+    return products[position]
+  })
+}
+
 export default async function HomePage() {
-  const featuredProducts = (await getAllProducts()).slice(0, 4)
+  const products = await getAllProducts()
+  const featuredProducts = selectRepresentativeProducts(products)
+  const catalogueStoryProducts = featuredProducts.slice(1, 4)
 
   return (
     <>
@@ -58,7 +71,7 @@ export default async function HomePage() {
 
         <section className="mx-auto max-w-7xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
           <SectionReveal className="flex flex-wrap items-end justify-between gap-5">
-            <SectionHeading eyebrow="Product Catalogue" title="Representative cast and machined components" description="Start with a documented catalogue reference, then confirm the final requirement against your drawing and technical specification." />
+            <SectionHeading eyebrow="Product Catalogue" title="A wider view of the working catalogue" description="Representative parts from the customer-supplied catalogue, spaced across all 282 numbered references rather than taken from only the first few entries." />
             <Link href="/products" className="control-feedback inline-flex items-center gap-2 border-b border-accent pb-1 text-sm font-semibold text-primary hover:text-accent">
               View all {COMPANY.catalogueSize} products
               <ArrowRight className="h-4 w-4" aria-hidden="true" />
@@ -68,6 +81,59 @@ export default async function HomePage() {
           <SectionReveal stagger className="mt-10 grid auto-rows-fr gap-6 sm:grid-cols-2 lg:grid-cols-4">
             {featuredProducts.map((product) => <ProductCard key={product.slug} product={product} />)}
           </SectionReveal>
+        </section>
+
+        <section className="border-y border-border bg-secondary/35">
+          <div className="mx-auto grid max-w-7xl gap-10 px-4 py-16 sm:px-6 sm:py-24 lg:grid-cols-[0.9fr_1.1fr] lg:items-center lg:px-8">
+            <SectionReveal>
+              <p className="text-sm font-semibold uppercase tracking-[0.18em] text-accent">Company & Catalogue</p>
+              <h2 className="mt-4 text-3xl font-semibold tracking-tight text-foreground sm:text-4xl">Precision casting in Changzhou since 2009</h2>
+              <p className="mt-5 max-w-xl text-base leading-relaxed text-muted-foreground">
+                Minhuan focuses on non-standard precision castings, machined components and general mechanical parts. The supplied catalogue documents the parts already used to start technical discussions, while each new requirement is confirmed against the buyer&apos;s drawing.
+              </p>
+              <div className="mt-8 grid gap-4 sm:grid-cols-2">
+                <div className="border border-border bg-card p-5">
+                  <Layers3 className="h-5 w-5 text-accent" aria-hidden="true" />
+                  <p className="mt-4 font-semibold text-foreground">Real catalogue depth</p>
+                  <p className="mt-2 text-sm leading-relaxed text-muted-foreground">282 product records and 453 customer-supplied product images are mapped to the online catalogue.</p>
+                </div>
+                <div className="border border-border bg-card p-5">
+                  <MapPin className="h-5 w-5 text-accent" aria-hidden="true" />
+                  <p className="mt-4 font-semibold text-foreground">Changzhou manufacturing base</p>
+                  <p className="mt-2 text-sm leading-relaxed text-muted-foreground">Luoyang Town, Wujin District, Changzhou, Jiangsu, China.</p>
+                </div>
+              </div>
+              <p className="mt-6 text-sm font-medium text-primary">No stock promises. No invented specifications. Each RFQ is checked against its own drawing and technical notes.</p>
+              <Link href="/about" className="control-feedback mt-7 inline-flex items-center gap-2 border-b border-accent pb-1 text-sm font-semibold text-primary hover:text-accent">
+                Learn more about Minhuan
+                <ArrowRight className="h-4 w-4" aria-hidden="true" />
+              </Link>
+            </SectionReveal>
+
+            <SectionReveal stagger className="grid grid-cols-2 gap-4 sm:gap-5">
+              {catalogueStoryProducts.map((product, index) => {
+                const image = product.images[0]
+                return (
+                  <Link
+                    key={product.slug}
+                    href={`/products/${product.slug}`}
+                    className={`group border border-border bg-card p-3 shadow-sm ${index === 0 ? "col-span-2" : ""}`}
+                  >
+                    <div className={`relative overflow-hidden bg-white ${index === 0 ? "aspect-[2/1]" : "aspect-square"}`}>
+                      {image && <Image src={image.src} alt={image.alt || product.name} fill className="object-contain transition-transform duration-500 group-hover:scale-[1.035]" sizes={index === 0 ? "(min-width: 1024px) 46vw, 92vw" : "(min-width: 1024px) 22vw, 44vw"} />}
+                    </div>
+                    <div className="flex items-start justify-between gap-3 px-1 pb-1 pt-4">
+                      <div>
+                        <p className="text-xs font-semibold uppercase tracking-wide text-accent">{product.code}</p>
+                        <p className="mt-1 line-clamp-2 text-sm font-semibold text-foreground">{product.name}</p>
+                      </div>
+                      <ArrowRight className="mt-1 h-4 w-4 shrink-0 text-primary transition-transform group-hover:translate-x-1" aria-hidden="true" />
+                    </div>
+                  </Link>
+                )
+              })}
+            </SectionReveal>
+          </div>
         </section>
 
         <section className="border-y border-border bg-secondary/45 texture-technical">
