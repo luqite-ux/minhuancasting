@@ -16,7 +16,7 @@ export const COMPANY = {
     country: "China",
     full: "No. 154, Dongdu West Road, Luoyang Town, Wujin District, Changzhou, Jiangsu, China",
   },
-  email: "yanweiwenlhzz@126.com",
+  email: "info@minhuancasting.com",
   phones: ["+86 139 1434 4192", "+86 138 1501 5042"],
   catalogueSize: 282,
 } as const
