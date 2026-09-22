@@ -56,8 +56,8 @@ export default function AboutPage() {
             <SectionReveal>
               <div className="relative aspect-[4/3] overflow-hidden rounded-lg border border-border">
                 <Image
-                  src="/images/hero-casting-line.jpg"
-                  alt="Minhuan Precision Casting production line"
+                  src="/images/hero-flanges.jpg"
+                  alt="Representative precision cast and machined components from the Minhuan catalogue"
                   fill
                   sizes="(min-width: 1024px) 40vw, 100vw"
                   className="object-cover"
