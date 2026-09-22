@@ -1,5 +1,5 @@
 // Single replaceable site origin. Update once a production domain is assigned.
-export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL?.trim().replace(/\/$/, "") || "https://minhuancasting.vercel.app"
+export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL?.trim().replace(/\/$/, "") || "https://minhuancasting.com"
 
 export const COMPANY = {
   legalNameEn: "Changzhou Minhuan Precision Casting Co., Ltd.",
